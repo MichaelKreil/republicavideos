@@ -1,0 +1,83 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+#header {
+	position: fixed;
+	background-color: #fff;
+	top: 0px;
+	right: 0px;
+	left: 20px;
+	height: 60px;
+	color: #000;
+	z-index: 1000;
+}
+
+#header .stage {
+	position: absolute;
+	top: 0px;
+	width: 180px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#content {
+	margin: 100px 20px 20px 20px;
+	height: 6500px;
+	position: relative;
+}
+
+#content h1 {
+	position: absolute;
+	width: 1240px;
+	text-align: center;
+}
+
+#content .hour {
+	position: absolute;
+	width: 1300px;
+	border-top: 1px dashed #aaa;
+	color: #aaa;
+	text-align: right;
+	padding: 10px 10px 0 0;
+}
+
+.session {
+	position: absolute;
+	width: 160px;
+	background: #ddd;
+	border: 1px solid #ddd;
+	
+	background-size: 100% auto;
+	background-repeat:no-repeat;
+	background-position:center center;
+
+	overflow: hidden;
+}
+
+.session .title {
+	font-size: 10px;
+	padding: 5px;
+	color: #888;
+	height: 100%;
+	background: rgba(255,255,255,0.7);
+	cursor: default;
+}
+
+.session.video {
+	border-color: #000;
+	z-index: 500;
+}
+
+.session.video .title {
+	color: #000;
+	cursor: pointer;
+}
+
+.session.video:hover .title {
+	opacity: 0;
+}
