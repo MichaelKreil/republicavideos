@@ -25,13 +25,18 @@ a {
 	color: #888;
 }
 
-#sidebar {
+#sidebarwrapper {
 	position: fixed;
-	right: 0px;
-	width: 60px;
+	left: 0px;
+	width: 70px;
+	height: 0px;
+	z-index: 1000;
+}
+
+#sidebar {
+	position: relative;
 	background: #fff;
 	height: 6500px;
-	z-index: 1000;
 }
 
 #sidebar .hour {

@@ -1,8 +1,13 @@
 $(function () {
-	$(window).scroll(function(){
-		$('#header').css('left','-'+$(window).scrollLeft()+'px');
-		$('#sidebar').css('top','-'+$(window).scrollTop()+'px');
-	});
+	if (navigator.userAgent.match(/(iPod|iPhone|iPad)/)) {
+		$('#header' ).css({'position':'-webkit-sticky'});
+		$('#sidebarwrapper').css({'position':'-webkit-sticky'});
+	} else {
+		$(window).scroll(function(){
+			$('#header').css('left','-'+$(window).scrollLeft()+'px');
+			$('#sidebarwrapper').css('top','-'+$(window).scrollTop()+'px');
+		});
+	}
 
 	var sessions, ytvideos;
 	var rooms = {
@@ -46,14 +51,14 @@ $(function () {
 			for (var j = 10; j <= 21; j++) {
 				var y = (j*60 - 9.5*60)*yScale + i*dayHeight;
 				content.append($('<div class="hour" style="top:' + y + 'px"></div>'));
-				sidebar.append($('<div class="hour" style="top:' + (y+95) + 'px">'+j+':00</div>'));
+				sidebar.append($('<div class="hour" style="top:' + (y+90) + 'px">'+j+':00</div>'));
 			}
 		}
 
 		$.each(sessions, function (index, session) {
 			var room = session.room;
 			if (rooms[room]) {
-				var x = (rooms[room].x-1)*180;
+				var x = (rooms[room].x-1)*180+80;
 				var y = (session.startInt - 9.5*60)*yScale + session.dayInt*dayHeight;
 				var height = session.duration*yScale;
 
