@@ -30,8 +30,14 @@ function analyse(data, error) {
 		entries.forEach(function (entry) {
 			var id = entry['media$group']['yt$videoid']['$t'];
 			var duration = parseInt(entry['media$group']['yt$duration'].seconds, 10);
-			var viewCount = parseInt(entry['yt$statistics'].viewCount, 10);
-			var favoriteCount = parseInt(entry['yt$statistics'].favoriteCount, 10);
+
+			var viewCount, favoriteCount;
+			if (entry['yt$statistics']) {
+				viewCount = parseInt(entry['yt$statistics'].viewCount, 10);
+				favoriteCount = parseInt(entry['yt$statistics'].favoriteCount, 10);
+			} else {
+				console.warn(entry);
+			}
 
 			var numLikes = 0, numDislikes = 0;
 			if (entry['yt$rating']) {
@@ -43,8 +49,8 @@ function analyse(data, error) {
 			var thumbnail = entry['media$group']['media$thumbnail'][0].url;
 
 			if (knownVideos[id] !== undefined) {
-				knownVideos[id].viewCount = viewCount;
-				knownVideos[id].favoriteCount = favoriteCount;
+				if (viewCount) knownVideos[id].viewCount = viewCount;
+				if (favoriteCount) knownVideos[id].favoriteCount = favoriteCount;
 				knownVideos[id].numLikes = numLikes;
 				knownVideos[id].numDislikes = numDislikes;
 			} else {
