@@ -1,4 +1,9 @@
 $(function () {
+	$(window).scroll(function(){
+		$('#header').css('left','-'+$(window).scrollLeft()+'px');
+		$('#sidebar').css('top','-'+$(window).scrollTop()+'px');
+	});
+
 	var sessions, ytvideos;
 	var rooms = {
 		'stage 1': {title:'Stage 1', x:1},
@@ -23,6 +28,8 @@ $(function () {
 	$.getJSON('data/knownvideos.json', function (data) { ytvideos = data; loaded(); });
 
 	var content = $('#content');
+	var sidebar = $('#sidebar');
+
 	function start() {
 		$.each(ytvideos, function (index, video) {
 			if (video.index) {
@@ -38,8 +45,8 @@ $(function () {
 			content.append($(node));
 			for (var j = 10; j <= 21; j++) {
 				var y = (j*60 - 9.5*60)*yScale + i*dayHeight;
-				var node = '<div class="hour" style="top:' + y + 'px">'+j+':00</h1>';
-				content.append($(node));
+				content.append($('<div class="hour" style="top:' + y + 'px"></div>'));
+				sidebar.append($('<div class="hour" style="top:' + (y+95) + 'px">'+j+':00</div>'));
 			}
 		}
 
@@ -58,7 +65,7 @@ $(function () {
 
 				var title = '<strong>'+session.title+'</strong><br>'+persons.join(', ');
 
-				var node = $('<div class="session" style="left:'+x+'px;top:'+y+'px;height:'+height+'px"><a href="#" target="_blank"><div class="title">'+title+'</div></a></div>');
+				var node = $('<div class="session" style="left:'+x+'px;top:'+y+'px;height:'+(height-1)+'px"><a href="#" target="_blank"><div class="title">'+title+'</div></a></div>');
 				content.append(node);
 
 				if (session.video) {

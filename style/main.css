@@ -10,19 +10,36 @@ a {
 	position: fixed;
 	background-color: #fff;
 	top: 0px;
-	right: 0px;
-	left: 20px;
-	height: 60px;
+	width: 1400px;
+	height: 40px;
 	color: #000;
-	z-index: 1000;
+	z-index: 2000;
 }
 
 #header .stage {
 	position: absolute;
 	top: 0px;
 	width: 180px;
-	margin-top: 20px;
+	margin-top: 10px;
 	text-align: center;
+	color: #888;
+}
+
+#sidebar {
+	position: fixed;
+	right: 0px;
+	width: 60px;
+	background: #fff;
+	height: 6500px;
+	z-index: 1000;
+}
+
+#sidebar .hour {
+	position: absolute;
+	color: #888;
+	text-align: right;
+	padding: 15px 10px 0 0;
+	right: 0px;
 }
 
 #content {
@@ -39,11 +56,8 @@ a {
 
 #content .hour {
 	position: absolute;
-	width: 1300px;
-	border-top: 1px dashed #aaa;
-	color: #aaa;
-	text-align: right;
-	padding: 10px 10px 0 0;
+	width: 1400px;
+	border-top: 1px solid #ddd;
 }
 
 .session {
