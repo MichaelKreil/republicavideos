@@ -14,6 +14,7 @@ fs.writeFileSync('../data/sessions.json', JSON.stringify(sessions, null, '\t'), 
 
 
 var toDos = 8;
+var newEntries = 0;
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=1',   analyse);
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=51',  analyse);
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=101', analyse);
@@ -47,6 +48,8 @@ function analyse(data, error) {
 				knownVideos[id].numLikes = numLikes;
 				knownVideos[id].numDislikes = numDislikes;
 			} else {
+				newEntries++;
+
 				var sessionId = titleLookup(title);
 				var sTitle = sessions[sessionId].title;
 				var status = 'ok';
@@ -76,6 +79,7 @@ function analyse(data, error) {
 	toDos--;
 	if (toDos == 0) {
 		fs.writeFileSync('../data/knownVideos.json', JSON.stringify(knownVideos, null, '\t'), 'utf8');
+		console.info(newEntries);
 	}
 }
 
