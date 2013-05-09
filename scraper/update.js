@@ -30,12 +30,22 @@ function analyse(data, error) {
 			var id = entry['media$group']['yt$videoid']['$t'];
 			var duration = parseInt(entry['media$group']['yt$duration'].seconds, 10);
 			var viewCount = parseInt(entry['yt$statistics'].viewCount, 10);
+			var favoriteCount = parseInt(entry['yt$statistics'].favoriteCount, 10);
+
+			var numLikes = 0, numDislikes = 0;
+			if (entry['yt$rating']) {
+				numDislikes = parseInt(entry['yt$rating'].numDislikes, 10);
+				numLikes = parseInt(entry['yt$rating'].numLikes, 10);
+			}
+
 			var title = entry.title['$t'];
 			var thumbnail = entry['media$group']['media$thumbnail'][0].url;
-			//console.log(entry['media$group']);
 
 			if (knownVideos[id] !== undefined) {
 				knownVideos[id].viewCount = viewCount;
+				knownVideos[id].favoriteCount = favoriteCount;
+				knownVideos[id].numLikes = numLikes;
+				knownVideos[id].numDislikes = numDislikes;
 			} else {
 				var sessionId = titleLookup(title);
 				var sTitle = sessions[sessionId].title;
@@ -53,6 +63,9 @@ function analyse(data, error) {
 					yttitle: title,
 					ytduration: duration,
 					viewCount: viewCount,
+					favoriteCount: favoriteCount,
+					numLikes: numLikes,
+					numDislikes: numDislikes,
 					ytid: id,
 					thumbnail: thumbnail,
 					status: status
