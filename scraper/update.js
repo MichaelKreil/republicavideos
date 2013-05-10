@@ -31,10 +31,6 @@ function analyse(data, error) {
 			var id = entry['media$group']['yt$videoid']['$t'];
 			var duration = parseInt(entry['media$group']['yt$duration'].seconds, 10);
 
-			if (entry['media$group']['media$restriction']) {
-				console.log('Gesperrte Id: '+id);
-				console.log(entry['media$group']['media$restriction']);
-			}
 
 			var viewCount, favoriteCount;
 			if (entry['yt$statistics']) {
@@ -83,6 +79,14 @@ function analyse(data, error) {
 					thumbnail: thumbnail,
 					status: status
 				}
+			}
+
+			if (entry['media$group']['media$restriction']) {
+				knownVideos[id].gesperrt = true;
+				console.log('Gesperrte Id: '+id);
+				console.log(entry['media$group']['media$restriction']);
+			} else {
+				knownVideos[id].gesperrt = false;
 			}
 		});
 	}

@@ -7,6 +7,8 @@ $(function () {
 			$('#header').css('left','-'+$(window).scrollLeft()+'px');
 			$('#sidebarwrapper').css('top','-'+$(window).scrollTop()+'px');
 		});
+		$('#header').css('left',0);
+		$('#sidebarwrapper').css('top',0);
 	}
 
 	var sessions, ytvideos;
@@ -27,6 +29,13 @@ $(function () {
 		're:publica': false
 	};
 
+	$.each(rooms, function (index, room) {
+		if (room) {
+			var x = Math.round((room.x-1)*180 + 100);
+			$('#header').append($('<div style="left:' + x + 'px" class="stage">' + room.title.toUpperCase() + '</div>'));
+		}
+	});
+
 	var toDos = 2;
 	var loaded = function () { toDos--; if (toDos == 0) start(); }
 	$.getJSON('data/sessions.json',    function (data) { sessions = data; loaded(); });
@@ -46,9 +55,11 @@ $(function () {
 		var dayHeight = 750*yScale;
 
 		for (var i = 0; i < 3; i++) {
-			var node = '<h1 style="top:' + i*dayHeight + 'px">Tag '+(i+1)+'</h1>';
+			var node = '<h2 style="top:' + (i*dayHeight-40) + 'px">Tag '+(i+1)+'</h2>';
 			content.append($(node));
-			for (var j = 10; j <= 21; j++) {
+			var maxHour = 21;
+			if (i == 2) maxHour = 18;
+			for (var j = 10; j <= maxHour; j++) {
 				var y = (j*60 - 9.5*60)*yScale + i*dayHeight;
 				content.append($('<div class="hour" style="top:' + y + 'px"></div>'));
 				sidebar.append($('<div class="hour" style="top:' + (y+90) + 'px">'+j+':00</div>'));
@@ -58,9 +69,9 @@ $(function () {
 		$.each(sessions, function (index, session) {
 			var room = session.room;
 			if (rooms[room]) {
-				var x = (rooms[room].x-1)*180+80;
-				var y = (session.startInt - 9.5*60)*yScale + session.dayInt*dayHeight;
-				var height = session.duration*yScale;
+				var x = Math.round((rooms[room].x-1)*180 + 80);
+				var y = Math.round((session.startInt - 9.5*60)*yScale + session.dayInt*dayHeight);
+				var h = Math.round(session.duration*yScale);
 
 				var persons = [];
 				$.each(session.persons, function (i, person) {
@@ -70,16 +81,25 @@ $(function () {
 
 				var title = '<strong>'+session.title+'</strong><br>'+persons.join(', ');
 
-				var node = $('<div class="session" style="left:'+x+'px;top:'+y+'px;height:'+(height-1)+'px"><a href="#" target="_blank"><div class="title">'+title+'</div></a></div>');
+				var node = $('<div class="session" style="left:'+x+'px;top:'+(y-1)+'px;height:'+(h+1)+'px"><div class="title">'+title+'</div></div>');
 				content.append(node);
+
 
 				if (session.video) {
 					node.css({
 						'background-image': 'url("'+session.video.thumbnail+'")',
 						'background-color': '#000'
 					});
+					node.append('<div class="rating">'+session.video.viewCount + ' Aufrufe</div>');
+					node.find('.title').wrap('<a href="http://youtube.com/watch?v='+session.video.ytid+'" target="_blank"></a>');
+					
 					node.addClass('video');
-					node.find('a').attr('href', 'http://youtube.com/watch?v='+session.video.ytid);
+					if (session.video.gesperrt) {
+						node.addClass('gesperrt');
+						node.find('.title').append('<br><br><strong>Auf YouTube gesperrt!</strong>');
+					}
+				} else {
+					node.addClass('novideo');
 				}
 			}
 		});

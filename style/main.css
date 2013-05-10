@@ -1,5 +1,11 @@
+@font-face { font-family: SuperGroteskReg; src: url(http://re-publica.de/sites/re-publica.de/themes/rp13/css/fonts/SuperGroteskWeb.eot); }
+@font-face { font-family: SuperGroteskReg; src: url(http://re-publica.de/sites/re-publica.de/themes/rp13/css/fonts/SuperGroteskWeb.woff) format("woff"); }
+@font-face { font-family: SuperGroteskMed; src: url(http://re-publica.de/sites/re-publica.de/themes/rp13/css/fonts/SuperGroteskWeb-Medium.eot); }
+@font-face { font-family: SuperGroteskMed; src: url(http://re-publica.de/sites/re-publica.de/themes/rp13/css/fonts/SuperGroteskWeb-Medium.woff) format("woff"); }
+
 body {
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: SuperGroteskReg, Helvetica, Arial, sans-serif;
+	color: rgb(129, 162, 171);
 }
 
 a {
@@ -12,7 +18,6 @@ a {
 	top: 0px;
 	width: 1400px;
 	height: 40px;
-	color: #000;
 	z-index: 2000;
 }
 
@@ -22,13 +27,15 @@ a {
 	width: 180px;
 	margin-top: 10px;
 	text-align: center;
-	color: #888;
+	color: rgb(129, 162, 171);
+	font-family: SuperGroteskMed;
+	font-size: 14px;
 }
 
 #sidebarwrapper {
 	position: fixed;
 	left: 0px;
-	width: 70px;
+	width: 60px;
 	height: 0px;
 	z-index: 1000;
 }
@@ -41,37 +48,41 @@ a {
 
 #sidebar .hour {
 	position: absolute;
-	color: #888;
 	text-align: right;
 	padding: 15px 10px 0 0;
 	right: 0px;
+	color: rgb(129, 162, 171);
+	font-family: SuperGroteskMed;
+	font-size: 14px;
 }
 
 #content {
 	margin: 100px 20px 20px 20px;
-	height: 6500px;
+	height: 6300px;
+	width: 1400px;
 	position: relative;
 }
 
-#content h1 {
+#content h2 {
 	position: absolute;
-	width: 1240px;
+	width: 100%;
 	text-align: center;
+	font-family: SuperGroteskReg;
+	font-size: 45px;
 }
 
 #content .hour {
 	position: absolute;
-	width: 1400px;
-	border-top: 1px solid #ddd;
+	width: 100%;
+	border-top: 1px solid rgb(129, 162, 171);
 }
 
 .session {
 	position: absolute;
 	width: 160px;
-	background: #ddd;
-	border: 1px solid #ddd;
+	border-top: 1px solid #fff;
 	
-	background-size: 100% auto;
+	background-size: 105% auto;
 	background-repeat:no-repeat;
 	background-position:center center;
 
@@ -81,22 +92,53 @@ a {
 .session .title {
 	font-size: 10px;
 	padding: 5px;
-	color: #888;
+	color: #000;
 	height: 100%;
-	background: rgba(255,255,255,0.7);
+	background: rgba(76, 193, 245, 0.9);
 	cursor: default;
-}
-
-.session.video {
-	border-color: #000;
-	z-index: 500;
+	transition: opacity 0.1s;
+	-webkit-transition: opacity 0.1s;
+	font-family: SuperGroteskReg;
+	line-height: 120%;
+	font-size: 12px;
+	font-weight: 300;
 }
 
 .session.video .title {
-	color: #000;
 	cursor: pointer;
+}
+
+.session.video.gesperrt .title {
+	background: rgba(248, 104, 103, 0.9);
 }
 
 .session.video:hover .title {
 	opacity: 0;
 }
+
+
+.session.novideo .title {
+	background: #f5f5f5;
+	color: #aaa;
+}
+
+.session .rating {
+	color: #fff;
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+#footer {
+	text-align: center;
+}
+
+#footer a {
+	text-decoration: underline;
+	color: rgb(129, 162, 171);
+}
+
+
+
