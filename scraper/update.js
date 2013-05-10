@@ -31,6 +31,11 @@ function analyse(data, error) {
 			var id = entry['media$group']['yt$videoid']['$t'];
 			var duration = parseInt(entry['media$group']['yt$duration'].seconds, 10);
 
+			if (entry['media$group']['media$restriction']) {
+				console.log('Gesperrte Id: '+id);
+				console.log(entry['media$group']['media$restriction']);
+			}
+
 			var viewCount, favoriteCount;
 			if (entry['yt$statistics']) {
 				viewCount = parseInt(entry['yt$statistics'].viewCount, 10);
@@ -62,8 +67,7 @@ function analyse(data, error) {
 				if (title.substr(title.length - sTitle.length).toLowerCase() != sTitle.toLowerCase()) {
 					status = 'WARNUNG';
 					console.warn('WARNUNG');
-					console.warn(title);
-					console.warn(sTitle);
+					console.warn(title + ' - ' + sTitle);
 				}
 
 				knownVideos[id] = {
