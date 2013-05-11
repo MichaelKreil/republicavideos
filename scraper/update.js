@@ -8,11 +8,6 @@ var knownVideos = JSON.parse(fs.readFileSync('../data/knownVideos.json', 'utf8')
 var sessions = fetchSessions(schedule);
 fs.writeFileSync('../data/sessions.json', JSON.stringify(sessions, null, '\t'), 'utf8');
 
-//var speakers = fetchSpeakers(schedule);
-
-//console.log(titleLookup('re:publica 2013 - Johannes Kleske: Das Ende der Arbeit -- Wenn Maschinen uns ersetzen'));
-
-
 var toDos = 8;
 var newEntries = 0;
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=1',   analyse);
@@ -23,6 +18,8 @@ download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=251', analyse);
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=301', analyse);
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=351', analyse);
+
+
 
 function analyse(data, error) {
 	entries = JSON.parse(data).feed.entry;
@@ -96,6 +93,8 @@ function analyse(data, error) {
 		console.info(newEntries);
 	}
 }
+
+
 
 function fetchSessions(data) {
 	var events = [];
