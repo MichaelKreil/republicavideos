@@ -122,13 +122,36 @@ a {
 	color: #aaa;
 }
 
-.session .rating {
-	color: #fff;
+.session .ratingWrapper {
 	position: absolute;
-	bottom: 5px;
+	left: 5px;
 	right: 5px;
-	font-size: 10px;
-	font-weight: bold;
+	bottom: 5px;
+	height: 5px;
+}
+
+.session .rating {
+	border: 1px solid #000;
+	position: relative;
+	height: 3px;
+	margin: auto;
+	background: #eee;
+}
+
+.session .rating .likes, .session .rating .dislikes {
+	position: absolute;
+	top: 0px;
+	height: 100%;
+}
+
+.session .rating .likes {
+	left: 0px;
+	background: #0e0;
+}
+
+.session .rating .dislikes {
+	right: 0px;
+	background: #e00;
 }
 
 #footer {

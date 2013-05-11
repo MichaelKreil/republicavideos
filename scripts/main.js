@@ -90,7 +90,16 @@ $(function () {
 						'background-image': 'url("'+session.video.thumbnail+'")',
 						'background-color': '#000'
 					});
-					node.append('<div class="rating">'+session.video.viewCount + ' Aufrufe</div>');
+					
+					var    count = session.video.viewCount;
+					var    likes = session.video.numLikes;
+					var dislikes = session.video.numDislikes;
+					var relevant = (count-likes-dislikes)/100 + likes + dislikes;
+					   likes = Math.round(1000 *    likes/relevant )/10;
+					dislikes = Math.round(1000 * dislikes/relevant )/10;
+					count = Math.round(Math.sqrt(count)*7)/10;
+
+					node.append('<div class="ratingWrapper"><div class="rating" style="width:'+count+'%"><div class="likes" style="width:'+likes+'%"></div><div class="dislikes" style="width:'+dislikes+'%"></div></div></div>');
 					node.find('.title').wrap('<a href="http://youtube.com/watch?v='+session.video.ytid+'" target="_blank"></a>');
 					
 					node.addClass('video');
