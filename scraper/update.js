@@ -105,6 +105,10 @@ function analyse(entries, error) {
 	}
 	toDos--;
 	if (toDos == 0) {
+		Object.keys(knownVideos).forEach(function (key) {
+			if (knownVideos[key].index == null) knownVideos[key] = {};
+		});
+			
 		fs.writeFileSync('../data/knownVideos.json', JSON.stringify(knownVideos, null, '\t'), 'utf8');
 		console.info(newEntries);
 	}
