@@ -8,8 +8,9 @@ var knownVideos = JSON.parse(fs.readFileSync('../data/knownVideos.json', 'utf8')
 var sessions = fetchSessions(schedule);
 fs.writeFileSync('../data/sessions.json', JSON.stringify(sessions, null, '\t'), 'utf8');
 
-var toDos = 9;
 var newEntries = 0;
+
+var toDos = 9;
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=1',   analyse);
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=51',  analyse);
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=101', analyse);
@@ -19,8 +20,6 @@ download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=301', analyse);
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=351', analyse);
 download('http://gdata.youtube.com/feeds/api/users/Linuzifer/uploads?v=2&alt=json&max-results=50', analyse);
-
-
 
 function analyse(data, error) {
 	entries = JSON.parse(data).feed.entry;
@@ -83,7 +82,7 @@ function analyse(data, error) {
 			if (entry['media$group']['media$restriction']) {
 				knownVideos[id].gesperrt = true;
 				console.log('Gesperrte Id: '+id);
-				console.log(entry['media$group']['media$restriction']);
+				//console.log(entry['media$group']['media$restriction']);
 			} else {
 				knownVideos[id].gesperrt = false;
 			}
