@@ -60,8 +60,7 @@ function analyse(entries, error) {
 			}
 
 			var title = entry.title['$t'];
-			var thumbnail = entry['media$group']['media$thumbnail'][0].url;
-			thumbnail = 'http://i.ytimg.com/vi/'+id+'/mqdefault.jpg';
+			var thumbnail = 'http://i.ytimg.com/vi/'+id+'/mqdefault.jpg';
 
 			if (knownVideos[id] !== undefined) {
 				if (viewCount) knownVideos[id].viewCount = viewCount;
