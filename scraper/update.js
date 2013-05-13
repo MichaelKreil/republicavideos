@@ -8,7 +8,7 @@ var knownVideos = JSON.parse(fs.readFileSync('../data/knownVideos.json', 'utf8')
 var sessions = fetchSessions(schedule);
 fs.writeFileSync('../data/sessions.json', JSON.stringify(sessions, null, '\t'), 'utf8');
 
-var toDos = 8;
+var toDos = 9;
 var newEntries = 0;
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=1',   analyse);
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=51',  analyse);
@@ -18,6 +18,7 @@ download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=251', analyse);
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=301', analyse);
 download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=351', analyse);
+download('http://gdata.youtube.com/feeds/api/users/Linuzifer/uploads?v=2&alt=json&max-results=50', analyse);
 
 
 
@@ -34,7 +35,7 @@ function analyse(data, error) {
 				viewCount = parseInt(entry['yt$statistics'].viewCount, 10);
 				favoriteCount = parseInt(entry['yt$statistics'].favoriteCount, 10);
 			} else {
-				console.warn(entry);
+				//console.warn(entry);
 			}
 
 			var numLikes = 0, numDislikes = 0;
