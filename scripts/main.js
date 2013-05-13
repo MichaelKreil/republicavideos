@@ -55,7 +55,7 @@ $(function () {
 		var dayHeight = 750*yScale;
 
 		for (var i = 0; i < 3; i++) {
-			var node = '<h2 style="top:' + (i*dayHeight-40) + 'px">Tag '+(i+1)+'</h2>';
+			var node = '<h2 style="top:' + (i*dayHeight-40) + 'px">Day '+(i+1)+'</h2>';
 			content.append($(node));
 			var maxHour = 21;
 			if (i == 2) maxHour = 18;
