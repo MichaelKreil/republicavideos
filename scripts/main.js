@@ -46,7 +46,7 @@ $(function () {
 
 	function start() {
 		$.each(ytvideos, function (index, video) {
-			if (video.index) {
+			if (video.index || (video.index === 0)) {
 				sessions[video.index].video = video;
 			}
 		})
