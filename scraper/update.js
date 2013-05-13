@@ -70,8 +70,8 @@ function analyse(entries, error) {
 			} else {
 				newEntries++;
 
-				var sessionId = titleLookup(title);
-				var sTitle = sessions[sessionId].title;
+				var sessionIndex = titleLookup(title);
+				var sTitle = sessions[sessionIndex].title;
 				var status = 'ok';
 				if (title.substr(title.length - sTitle.length).toLowerCase() != sTitle.toLowerCase()) {
 					status = 'WARNUNG';
@@ -80,7 +80,7 @@ function analyse(entries, error) {
 				}
 
 				knownVideos[id] = {
-					index: sessionId,
+					index: sessionIndex,
 					title: sTitle,
 					yttitle: title,
 					ytduration: duration,
