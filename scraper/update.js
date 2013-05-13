@@ -106,7 +106,11 @@ function analyse(entries, error) {
 	toDos--;
 	if (toDos == 0) {
 		Object.keys(knownVideos).forEach(function (key) {
-			if (knownVideos[key].index == null) knownVideos[key] = {};
+			if (knownVideos[key].index == null) {
+				knownVideos[key] = {};
+			} else {
+				knownVideos[key].eventId  = parseInt(sessions[knownVideos[key].index].id, 10);
+			}
 		});
 			
 		fs.writeFileSync('../data/knownVideos.json', JSON.stringify(knownVideos, null, '\t'), 'utf8');
