@@ -25,6 +25,7 @@ fetchVideo('-s5WvYQEr0Y');
 
 function fetchUser(user, query) {
 	if (query) query = '&' + query;
+	toDos++;
 	download('http://gdata.youtube.com/feeds/api/users/'+user+'/uploads?v=2&alt=json'+query, function (data, error) {
 		analyse(JSON.parse(data).feed.entry, error);
 	});
