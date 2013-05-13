@@ -9,20 +9,35 @@ var sessions = fetchSessions(schedule);
 fs.writeFileSync('../data/sessions.json', JSON.stringify(sessions, null, '\t'), 'utf8');
 
 var newEntries = 0;
+var toDos = 0;
 
-var toDos = 9;
-download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=1',   analyse);
-download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=51',  analyse);
-download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=101', analyse);
-download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=151', analyse);
-download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=201', analyse);
-download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=251', analyse);
-download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=301', analyse);
-download('http://gdata.youtube.com/feeds/api/users/republica2010/uploads?v=2&alt=json&max-results=50&start-index=351', analyse);
-download('http://gdata.youtube.com/feeds/api/users/Linuzifer/uploads?v=2&alt=json&max-results=50', analyse);
 
-function analyse(data, error) {
-	entries = JSON.parse(data).feed.entry;
+fetchUser('republica2010', 'max-results=50&start-index=1'  );
+fetchUser('republica2010', 'max-results=50&start-index=51' );
+fetchUser('republica2010', 'max-results=50&start-index=101');
+fetchUser('republica2010', 'max-results=50&start-index=151');
+fetchUser('republica2010', 'max-results=50&start-index=201');
+fetchUser('republica2010', 'max-results=50&start-index=251');
+fetchUser('republica2010', 'max-results=50&start-index=301');
+fetchUser('republica2010', 'max-results=50&start-index=351');
+fetchVideo('ZG4FawUtYPA');
+fetchVideo('-s5WvYQEr0Y');
+
+function fetchUser(user, query) {
+	if (query) query = '&' + query;
+	download('http://gdata.youtube.com/feeds/api/users/'+user+'/uploads?v=2&alt=json'+query, function (data, error) {
+		analyse(JSON.parse(data).feed.entry, error);
+	});
+}
+
+function fetchVideo(id) {
+	toDos++;
+	download('http://gdata.youtube.com/feeds/api/videos/'+id+'?v=2&alt=json', function (data, error) {
+		analyse([JSON.parse(data).entry], error);
+	});
+}
+
+function analyse(entries, error) {
 	if (entries) {
 		entries.forEach(function (entry) {
 			var id = entry['media$group']['yt$videoid']['$t'];
