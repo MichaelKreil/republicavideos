@@ -94,7 +94,7 @@ $(function () {
 					var    count = session.video.viewCount;
 					var    likes = session.video.numLikes;
 					var dislikes = session.video.numDislikes;
-					var relevant = (count-likes-dislikes)/100 + likes + dislikes;
+					var relevant = (count-likes-dislikes)/50 + likes + dislikes;
 					   likes = Math.round(1000 *    likes/relevant )/10;
 					dislikes = Math.round(1000 * dislikes/relevant )/10;
 					count = Math.round(Math.sqrt(count)*7)/10;
