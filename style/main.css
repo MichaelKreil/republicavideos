@@ -16,7 +16,7 @@ a {
 	position: fixed;
 	background-color: #fff;
 	top: 0px;
-	width: 1400px;
+	width: 2300px;
 	height: 40px;
 	z-index: 2000;
 }
@@ -59,7 +59,7 @@ a {
 #content {
 	margin: 100px 20px 20px 20px;
 	height: 6300px;
-	width: 1400px;
+	width: 2300px;
 	position: relative;
 }
 
