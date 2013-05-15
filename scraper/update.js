@@ -22,6 +22,7 @@ fetchUser('republica2010', 'max-results=50&start-index=301');
 fetchUser('republica2010', 'max-results=50&start-index=351');
 fetchVideo('ZG4FawUtYPA');
 fetchVideo('-s5WvYQEr0Y');
+fetchVideo('6Pu5agqAy_Q');
 
 function fetchUser(user, query) {
 	if (query) query = '&' + query;
