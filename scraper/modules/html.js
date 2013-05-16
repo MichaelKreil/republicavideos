@@ -104,7 +104,7 @@ exports.generate = function (sessions, knownVideos) {
 				}
 
 				title = '<div class="title">'+title+'</div>';
-				title = '<a href="http://youtube.com/watch?v='+session.video.ytid+'" target="_blank">'+title+'</a>';
+				title = '<a href="'+session.video.video_url+'" target="_blank">'+title+'</a>';
 
 				title += '<div class="ratingWrapper"><div class="rating" style="width:'+count+'%"><div class="likes" style="width:'+likes+'%"></div><div class="dislikes" style="width:'+dislikes+'%"></div></div></div>';
 			} else {

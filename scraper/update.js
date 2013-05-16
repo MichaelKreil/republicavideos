@@ -13,103 +13,126 @@ var newEntries = 0;
 var toDos = 0;
 
 
-fetchUser('republica2010', 'max-results=50&start-index=1'  );
-fetchUser('republica2010', 'max-results=50&start-index=51' );
-fetchUser('republica2010', 'max-results=50&start-index=101');
-fetchUser('republica2010', 'max-results=50&start-index=151');
-fetchUser('republica2010', 'max-results=50&start-index=201');
-fetchUser('republica2010', 'max-results=50&start-index=251');
-fetchUser('republica2010', 'max-results=50&start-index=301');
-fetchUser('republica2010', 'max-results=50&start-index=351');
-fetchVideo('ZG4FawUtYPA');
-fetchVideo('-s5WvYQEr0Y');
-fetchVideo('6Pu5agqAy_Q');
+fetchYouTubeUser('republica2010', 'max-results=50&start-index=1'  );
+fetchYouTubeUser('republica2010', 'max-results=50&start-index=51' );
+fetchYouTubeUser('republica2010', 'max-results=50&start-index=101');
+fetchYouTubeUser('republica2010', 'max-results=50&start-index=151');
+fetchYouTubeUser('republica2010', 'max-results=50&start-index=201');
+fetchYouTubeUser('republica2010', 'max-results=50&start-index=251');
+fetchYouTubeUser('republica2010', 'max-results=50&start-index=301');
+fetchYouTubeUser('republica2010', 'max-results=50&start-index=351');
+
+fetchYouTubeVideo('ZG4FawUtYPA');
+fetchYouTubeVideo('-s5WvYQEr0Y');
+fetchYouTubeVideo('6Pu5agqAy_Q');
+
+fetchVimeoVideo('65905002');
 
 
-
-
-
-function fetchUser(user, query) {
+function fetchYouTubeUser(user, query) {
 	if (query) query = '&' + query;
 	toDos++;
 	download('http://gdata.youtube.com/feeds/api/users/'+user+'/uploads?v=2&alt=json'+query, function (data, error) {
-		analyse(JSON.parse(data).feed.entry, error);
+		analyseYouTubeVideos(JSON.parse(data).feed.entry);
 	});
 }
 
-function fetchVideo(id) {
+function fetchYouTubeVideo(id) {
 	toDos++;
 	download('http://gdata.youtube.com/feeds/api/videos/'+id+'?v=2&alt=json', function (data, error) {
-		analyse([JSON.parse(data).entry], error);
+		analyseYouTubeVideos([JSON.parse(data).entry]);
 	});
 }
 
-function analyse(entries, error) {
+function fetchVimeoVideo(id) {
+	toDos++;
+	download('http://vimeo.com/api/v2/video/'+id+'.json', function (data, error) {
+		analyseVimeoVideos(JSON.parse(data));
+	});
+}
+
+function analyseVimeoVideos(entries) {
+	entries.forEach(function (entry) {
+		var newEntry = {
+			video_id: entry.id,
+			thumbnail: entry.thumbnail_large,
+			video_title: entry.title,
+			video_url: entry.url,
+			viewCount: entry.stats_number_of_plays,
+			numLikes: entry.stats_number_of_likes,
+			video_duration: entry.duration
+		};
+		addVideo(newEntry);
+	});
+	toDos--;
+	checkReady();
+}
+
+function analyseYouTubeVideos(entries) {
 	if (entries) {
 		entries.forEach(function (entry) {
 			var id = entry['media$group']['yt$videoid']['$t'];
-			var duration = parseInt(entry['media$group']['yt$duration'].seconds, 10);
 
-
-			var viewCount, favoriteCount;
+			var newEntry = {
+				video_id: id,
+				video_duration: parseInt(entry['media$group']['yt$duration'].seconds, 10),
+				video_title: entry.title['$t'],
+				thumbnail: 'http://i.ytimg.com/vi/'+id+'/mqdefault.jpg',
+				video_url: 'http://youtube.com/watch?v='+id,
+			};
+			
 			if (entry['yt$statistics']) {
-				viewCount = parseInt(entry['yt$statistics'].viewCount, 10);
-				favoriteCount = parseInt(entry['yt$statistics'].favoriteCount, 10);
-			} else {
-				//console.warn(entry);
+				newEntry.viewCount = parseInt(entry['yt$statistics'].viewCount, 10);
+				newEntry.favoriteCount = parseInt(entry['yt$statistics'].favoriteCount, 10);
 			}
 
-			var numLikes = 0, numDislikes = 0;
 			if (entry['yt$rating']) {
-				numDislikes = parseInt(entry['yt$rating'].numDislikes, 10);
-				numLikes = parseInt(entry['yt$rating'].numLikes, 10);
-			}
-
-			var title = entry.title['$t'];
-			var thumbnail = 'http://i.ytimg.com/vi/'+id+'/mqdefault.jpg';
-
-			if (knownVideos[id] !== undefined) {
-				if (viewCount) knownVideos[id].viewCount = viewCount;
-				if (favoriteCount) knownVideos[id].favoriteCount = favoriteCount;
-				knownVideos[id].numLikes = numLikes;
-				knownVideos[id].numDislikes = numDislikes;
-			} else {
-				newEntries++;
-
-				var sessionIndex = titleLookup(title);
-				var sTitle = sessions[sessionIndex].title;
-				var status = 'ok';
-				if (title.substr(title.length - sTitle.length).toLowerCase() != sTitle.toLowerCase()) {
-					status = 'WARNUNG';
-					console.warn('WARNUNG');
-					console.warn(title + ' - ' + sTitle);
-				}
-
-				knownVideos[id] = {
-					index: sessionIndex,
-					title: sTitle,
-					yttitle: title,
-					ytduration: duration,
-					viewCount: viewCount,
-					favoriteCount: favoriteCount,
-					numLikes: numLikes,
-					numDislikes: numDislikes,
-					ytid: id,
-					thumbnail: thumbnail,
-					status: status
-				}
+				newEntry.numDislikes = parseInt(entry['yt$rating'].numDislikes, 10);
+				newEntry.numLikes = parseInt(entry['yt$rating'].numLikes, 10);
 			}
 
 			if (entry['media$group']['media$restriction']) {
-				knownVideos[id].gesperrt = true;
-				console.log('Gesperrte Id: '+id);
-				//console.log(entry['media$group']['media$restriction']);
-			} else {
-				knownVideos[id].gesperrt = false;
+				newEntry.gesperrt = true;
+				console.log('Gesperrte YouTube-Id: '+id);
 			}
+
+			addVideo(newEntry);
 		});
 	}
 	toDos--;
+	checkReady();
+}
+
+function addVideo(entry) {
+	var id = entry.video_id;
+
+	if (!entry.numLikes)      entry.numLikes      = 0;
+	if (!entry.viewCount)     entry.viewCount     = 0;
+	if (!entry.numDislikes)   entry.numDislikes   = 0;
+	if (!entry.favoriteCount) entry.favoriteCount = 0;
+
+	if (knownVideos[id] === undefined) {
+		newEntries++;
+		var title = entry.video_title;
+		entry.index = titleLookup(title);
+		var sTitle = sessions[entry.index].title;
+		if (cleanUp(title).indexOf(cleanUp(sTitle)) < 0) {
+			entry.status = 'WARNUNG';
+			console.warn('WARNUNG');
+			console.warn(title + ' - ' + sTitle);
+		}
+	} else {
+		var oldEntry = knownVideos[id];
+		entry.index = knownVideos[id].index;
+		if (oldEntry.status) entry.status = oldEntry.status;
+	}
+
+	if (entry.index) entry.session_title = sessions[entry.index].title;
+
+	knownVideos[id] = entry;
+}
+
+function checkReady() {
 	if (toDos == 0) {
 		Object.keys(knownVideos).forEach(function (key) {
 			if (knownVideos[key].index == null) {
@@ -162,19 +185,28 @@ function fetchSessions(data) {
 
 
 function titleLookup(title) {
-	var i = title.indexOf(':', 3);
-	if (i > 0) title = title.substr(i+1);
+	title = cleanUp(title);
 
 	var bestIndex = null;
 	var bestDistance = 1e10;
-	var options = {insertion_cost:10, substitution_cost:5};
+	var options = {deletion_cost:20, substitution_cost:5};
 	sessions.forEach(function (event, index) {
-		var eventTitle = event.title;
+		var eventTitle = cleanUp(event.title);
 		var d = levenshtein(eventTitle, title, options);
+
+		console.log(eventTitle);
+		console.log(title);
+		console.log(d);
+		console.log('');
+
 		if (d < bestDistance) {
 			bestDistance = d;
 			bestIndex = index;
 		}
 	})
 	return bestIndex;
+}
+
+function cleanUp(text) {
+	return text.toLowerCase().replace(/[^a-z]+/g, ' ');
 }
