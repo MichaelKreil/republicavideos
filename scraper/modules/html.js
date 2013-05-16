@@ -63,7 +63,7 @@ exports.generate = function (sessions, knownVideos) {
 		if (a.startInt < b.startInt) return -1;
 		if (a.startInt > b.startInt) return  1;
 		if (a.room.x < b.room.x) return -1;
-		if (a.room.x < b.room.x) return  1;
+		if (a.room.x > b.room.x) return  1;
 		return 0;
 	})
 
