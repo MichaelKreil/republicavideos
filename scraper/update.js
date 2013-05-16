@@ -1,6 +1,7 @@
-;var fs = require('fs');
+var fs = require('fs');
 var download = require('./modules/downloader.js').download;
 var levenshtein = require('./modules/levenshtein.js');
+var html = require('./modules/html.js');
 
 var schedule = JSON.parse(fs.readFileSync('../data/rp13-schedule.json', 'utf8')).schedule;
 var knownVideos = JSON.parse(fs.readFileSync('../data/knownVideos.json', 'utf8'));
@@ -23,6 +24,10 @@ fetchUser('republica2010', 'max-results=50&start-index=351');
 fetchVideo('ZG4FawUtYPA');
 fetchVideo('-s5WvYQEr0Y');
 fetchVideo('6Pu5agqAy_Q');
+
+
+
+
 
 function fetchUser(user, query) {
 	if (query) query = '&' + query;
@@ -116,6 +121,8 @@ function analyse(entries, error) {
 			
 		fs.writeFileSync('../data/knownVideos.json', JSON.stringify(knownVideos, null, '\t'), 'utf8');
 		console.info(newEntries);
+
+		html.generate(sessions, knownVideos);
 	}
 }
 
