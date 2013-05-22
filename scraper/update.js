@@ -127,7 +127,10 @@ function addVideo(entry) {
 		if (oldEntry.status) entry.status = oldEntry.status;
 	}
 
-	if (entry.index) entry.session_title = sessions[entry.index].title;
+	if (entry.index) {
+		entry.session_title   = sessions[entry.index].title;
+		entry.session_persons = sessions[entry.index].persons;
+	}
 
 	knownVideos[id] = entry;
 }
@@ -192,7 +195,7 @@ function titleLookup(title) {
 	var bestDistance = 1e10;
 	var options = {deletion_cost:20, substitution_cost:5};
 	sessions.forEach(function (event, index) {
-		var eventTitle = cleanUp(event.title);
+		var eventTitle = cleanUp(event.persons[0] + ': ' + event.title);
 		var d = levenshtein(eventTitle, title, options);
 
 		if (d < bestDistance) {
