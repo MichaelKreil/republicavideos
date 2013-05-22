@@ -174,6 +174,7 @@ function fetchSessions(data) {
 
 				event.persons = event.persons.person;
 				if (Object.prototype.toString.call(event.persons) == '[object Object]') event.persons = [event.persons];
+				event.persons = event.persons.map(function (person) { return person['#text'] })
 
 				events.push(event);
 			});

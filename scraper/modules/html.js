@@ -75,7 +75,6 @@ exports.generate = function (sessions, knownVideos) {
 
 			var persons = [];
 			session.persons.forEach(function (person) {
-				person = person['#text'];
 				if (person !== undefined) persons.push(person.replace(/^\s+|\s+$/g, ''));
 			});
 

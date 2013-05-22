@@ -10,22 +10,10 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "65",
-				"#text": "Andreas Gebhard"
-			},
-			{
-				"id": "46",
-				"#text": "Markus Beckedahl"
-			},
-			{
-				"id": "2003",
-				"#text": "Tanja Haeusler"
-			},
-			{
-				"id": "48",
-				"#text": "Johnny Haeusler"
-			}
+			"Andreas Gebhard",
+			"Markus Beckedahl",
+			"Tanja Haeusler",
+			"Johnny Haeusler"
 		],
 		"date": "2013-05-06",
 		"startInt": 615,
@@ -42,10 +30,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1433",
-				"#text": "Erik Hersman"
-			}
+			"Erik Hersman"
 		],
 		"date": "2013-05-06",
 		"startInt": 660,
@@ -62,10 +47,7 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "724",
-				"#text": "Anja Ebersbach"
-			}
+			"Anja Ebersbach"
 		],
 		"date": "2013-05-06",
 		"startInt": 720,
@@ -82,10 +64,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1103",
-				"#text": "Gunter Dueck"
-			}
+			"Gunter Dueck"
 		],
 		"date": "2013-05-06",
 		"startInt": 735,
@@ -102,10 +81,7 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "1491",
-				"#text": "Christoph Meinel"
-			}
+			"Christoph Meinel"
 		],
 		"date": "2013-05-06",
 		"startInt": 795,
@@ -122,10 +98,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2118",
-				"#text": "Birgitta Jónsdóttir"
-			}
+			"Birgitta Jónsdóttir"
 		],
 		"date": "2013-05-06",
 		"startInt": 810,
@@ -142,10 +115,7 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "1438",
-				"#text": "Wolf Lotter"
-			}
+			"Wolf Lotter"
 		],
 		"date": "2013-05-06",
 		"startInt": 870,
@@ -164,10 +134,7 @@
 		"abstract": "What does my friend Nicole's bum have to do with breast cancer, murdered young black men, and the future of the Internet?",
 		"slide": "http://re-publica.de/sites/re-publica.de/files/slides/DeannaZandt_rp13_EcstasyDespair.pdf",
 		"persons": [
-			{
-				"id": "1631",
-				"#text": "Deanna Zandt"
-			}
+			"Deanna Zandt"
 		],
 		"date": "2013-05-06",
 		"startInt": 885,
@@ -184,10 +151,7 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1854",
-				"#text": "Laurie Penny"
-			}
+			"Laurie Penny"
 		],
 		"date": "2013-05-06",
 		"startInt": 915,
@@ -204,10 +168,7 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "1633",
-				"#text": "Juergen Erbeldinger"
-			}
+			"Juergen Erbeldinger"
 		],
 		"date": "2013-05-06",
 		"startInt": 945,
@@ -224,10 +185,7 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "921",
-				"#text": "Mitchell Baker"
-			}
+			"Mitchell Baker"
 		],
 		"date": "2013-05-06",
 		"startInt": 960,
@@ -244,14 +202,8 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "2007",
-				"#text": "Richard Allan"
-			},
-			{
-				"id": "1685",
-				"#text": "Ulf Buermeyer"
-			}
+			"Richard Allan",
+			"Ulf Buermeyer"
 		],
 		"date": "2013-05-06",
 		"startInt": 990,
@@ -268,10 +220,7 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "1103",
-				"#text": "Gunter Dueck"
-			}
+			"Gunter Dueck"
 		],
 		"date": "2013-05-06",
 		"startInt": 1020,
@@ -288,14 +237,8 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "958",
-				"#text": "Tero Kaukomaa"
-			},
-			{
-				"id": "957",
-				"#text": "Timo Vuorensola"
-			}
+			"Tero Kaukomaa",
+			"Timo Vuorensola"
 		],
 		"date": "2013-05-06",
 		"startInt": 1035,
@@ -312,14 +255,8 @@
 		"experience_level": "Beginner",
 		"type": "Aktion",
 		"persons": [
-			{
-				"id": "2004",
-				"#text": "Kaleb Lechowski"
-			},
-			{
-				"id": "2039",
-				"#text": "Ingke Weimert"
-			}
+			"Kaleb Lechowski",
+			"Ingke Weimert"
 		],
 		"date": "2013-05-06",
 		"startInt": 1080,
@@ -336,14 +273,8 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "1540",
-				"#text": "Graham Linehan"
-			},
-			{
-				"id": "48",
-				"#text": "Johnny Haeusler"
-			}
+			"Graham Linehan",
+			"Johnny Haeusler"
 		],
 		"date": "2013-05-06",
 		"startInt": 1110,
@@ -361,10 +292,7 @@
 		"type": "Vortrag",
 		"abstract": "Der Begriff \"Überraschung\" aus dem Vortragstitel \"Überraschungsvortrag\" beinhaltet konzeptionell, dass die durchaus vorhandene Kernthese hier noch nicht verraten werden kann.",
 		"persons": [
-			{
-				"id": "81",
-				"#text": "Sascha Lobo"
-			}
+			"Sascha Lobo"
 		],
 		"date": "2013-05-06",
 		"startInt": 1185,
@@ -382,14 +310,8 @@
 		"type": "Vortrag",
 		"abstract": "Open Data läuft Gefahr, dass sich dasselbe Probleme ergeben wie bei Open Access: Der Begriff wird falsch besetzt, und die Folgen werden sogar fataler sein. Zudem ist es wichtig, die Akteure und deren Motivation genauer zu beobachten, denn in dem Bereich, der auch gerne im Kontext einer \"Verwaltungsmodernisierung\" begriffen wird, geht es mittel- und langfristig um sehr viel Geld.",
 		"persons": [
-			{
-				"id": "251",
-				"#text": "fukami "
-			},
-			{
-				"id": "1936",
-				"#text": "Lorenz Matzat"
-			}
+			"fukami ",
+			"Lorenz Matzat"
 		],
 		"date": "2013-05-06",
 		"startInt": 660,
@@ -407,14 +329,8 @@
 		"type": "Vortrag",
 		"abstract": "Open Data ist kein abstraktes, rein-wissenschaftliches oder politisches Thema, ganz im Gegenteil viele Daten aus Infrastruktur und Gesellschaft sind sehr alltagsnah und können uns dabei helfen unseren Alltag und die Systeme rund um uns besser zu verstehen und zu verändern. Um zu zeigen was Open Data mit jedem Einzelnen von uns zu tun hat, müssen die richtigen Fragen gestellt und der theoretische Rahmen verlassen werden.",
 		"persons": [
-			{
-				"id": "434",
-				"#text": "Julia Kloiber"
-			},
-			{
-				"id": "547",
-				"#text": "Stefan Wehrmeyer"
-			}
+			"Julia Kloiber",
+			"Stefan Wehrmeyer"
 		],
 		"date": "2013-05-06",
 		"startInt": 735,
@@ -431,10 +347,7 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "545",
-				"#text": "Michael Kreil"
-			}
+			"Michael Kreil"
 		],
 		"date": "2013-05-06",
 		"startInt": 765,
@@ -452,22 +365,10 @@
 		"type": "Diskussion",
 		"abstract": "Mit offenen Daten zum Öffentlichen Nahverkehr lassen sich zahlreiche innovative Lösungen anstoßen, die die Nutzung der Verkehrsmittel erleichtern und den Wettbewerb zwischen App-Entwicklern anstoßen.",
 		"persons": [
-			{
-				"id": "1847",
-				"#text": "Wolfgang Both"
-			},
-			{
-				"id": "434",
-				"#text": "Julia Kloiber"
-			},
-			{
-				"id": "1848",
-				"#text": "Alexander Pilz"
-			},
-			{
-				"id": "2443",
-				"#text": "Yan Minagawa"
-			}
+			"Wolfgang Both",
+			"Julia Kloiber",
+			"Alexander Pilz",
+			"Yan Minagawa"
 		],
 		"date": "2013-05-06",
 		"startInt": 810,
@@ -484,14 +385,8 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "783",
-				"#text": "Joris Pekel"
-			},
-			{
-				"id": "875",
-				"#text": "Daniel Dietrich"
-			}
+			"Joris Pekel",
+			"Daniel Dietrich"
 		],
 		"date": "2013-05-06",
 		"startInt": 840,
@@ -509,10 +404,7 @@
 		"type": "Vortrag",
 		"abstract": "National governments, EU institutions and international organsiations make more and more use of the term \"self-regulation\" in the context fighting illegal online content, content accused of being illegal or content that is just unwelcome. It is \"the\" answer in fighting online illegal activities, such as terrorsim, child abuse or copyright infringements. Among the most telling and recent examples are the EU-funded Clean IT project, ACTA, SOPA, PIPA, CISPA...",
 		"persons": [
-			{
-				"id": "768",
-				"#text": "Joe McNamee"
-			}
+			"Joe McNamee"
 		],
 		"date": "2013-05-06",
 		"startInt": 885,
@@ -530,14 +422,8 @@
 		"type": "Vortrag",
 		"abstract": "Are we building the digital environment enhancing our life, or are we guinea pigs of those who control and trade our data?",
 		"persons": [
-			{
-				"id": "1531",
-				"#text": "Katarzyna Szymielewicz"
-			},
-			{
-				"id": "922",
-				"#text": "Jérémie Zimmermann"
-			}
+			"Katarzyna Szymielewicz",
+			"Jérémie Zimmermann"
 		],
 		"date": "2013-05-06",
 		"startInt": 915,
@@ -555,18 +441,9 @@
 		"type": "Workshop",
 		"abstract": "Stimmt das eigentlich, was Politiker in Interviews, Talkshows und Reden sagen? Das ZDF startet zur Bundestagswahl ein crossmediales Projekt, um Politikeraussagen zu checken. Und jeder darf mitarbeiten. Auf der re:publica könnt ihr das neue Tool vor dem Start exklusiv ausprobieren.",
 		"persons": [
-			{
-				"id": "1911",
-				"#text": "Sonja Schünemann"
-			},
-			{
-				"id": "1909",
-				"#text": "Michael Umlandt"
-			},
-			{
-				"id": "2499",
-				"#text": "Barbara Fischer"
-			}
+			"Sonja Schünemann",
+			"Michael Umlandt",
+			"Barbara Fischer"
 		],
 		"date": "2013-05-06",
 		"startInt": 960,
@@ -584,18 +461,9 @@
 		"type": "Diskussion",
 		"abstract": "Es läuft viel Murx. Wir sagen euch, wie's besser wär :)",
 		"persons": [
-			{
-				"id": "576",
-				"#text": "Tina Lorenz"
-			},
-			{
-				"id": "695",
-				"#text": "Mathias Schindler"
-			},
-			{
-				"id": "1425",
-				"#text": "Ralf Stockmann"
-			}
+			"Tina Lorenz",
+			"Mathias Schindler",
+			"Ralf Stockmann"
 		],
 		"date": "2013-05-06",
 		"startInt": 1035,
@@ -613,18 +481,9 @@
 		"type": "Diskussion",
 		"abstract": "Die Wikipedia ist zu mächtig um sie nicht zu verstehen. Wie in der Demokratie lebt auch die offene Enzyklopädie nur durch Teilhabe, durch kritische Öffentlichkeit und einen permanenten Diskurs. Es ist daher an der Zeit, mit einigen Mythen aufzuräumen und ein paar Wahrheiten zur Wikipedia mit Lesern & Nutzern zu diskutieren.",
 		"persons": [
-			{
-				"id": "724",
-				"#text": "Anja Ebersbach"
-			},
-			{
-				"id": "453",
-				"#text": "Pavel Richter"
-			},
-			{
-				"id": "485",
-				"#text": "Dirk Franke"
-			}
+			"Anja Ebersbach",
+			"Pavel Richter",
+			"Dirk Franke"
 		],
 		"date": "2013-05-06",
 		"startInt": 1110,
@@ -642,26 +501,11 @@
 		"type": "Aktion",
 		"abstract": "Die mit Vehemenz ausgetragenen Diskussionen um die Wahrhaftigkeit, Wichtigkeit und Weltlichkeit von sozialen Medien lassen vermuten, dass mehr dahinter steckt, als nur eine technische Plattform, auf der sich Menschen zum Gedankenaustausch treffen. Das Gezeter der Glaubensführer, Verweigerer und plattformabhängigen Selbstverleugner sprechen eine deutliche Sprache. Social Media ist eine Religion. Twitter ist eine Kirche. Doch wer sind die Protagonisten, Verführer, Geistlichen, Päpste und Päpstinnen? – Das Abendmahl.",
 		"persons": [
-			{
-				"id": "813",
-				"#text": "Huck Haas"
-			},
-			{
-				"id": "1443",
-				"#text": "Gerrit Bruce Becht"
-			},
-			{
-				"id": "1440",
-				"#text": "Maike Hank"
-			},
-			{
-				"id": "2246",
-				"#text": "Tobias 'schlenzalot' Schramm"
-			},
-			{
-				"id": "2506",
-				"#text": "Anja Gottschling"
-			}
+			"Huck Haas",
+			"Gerrit Bruce Becht",
+			"Maike Hank",
+			"Tobias 'schlenzalot' Schramm",
+			"Anja Gottschling"
 		],
 		"date": "2013-05-06",
 		"startInt": 1185,
@@ -678,10 +522,7 @@
 		"experience_level": "Beginner",
 		"type": "Aktion",
 		"persons": [
-			{
-				"id": "2514",
-				"#text": "Harry Do"
-			}
+			"Harry Do"
 		],
 		"date": "2013-05-06",
 		"startInt": 660,
@@ -698,14 +539,8 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2429",
-				"#text": "Stav Zilbershtein"
-			},
-			{
-				"id": "2430",
-				"#text": "Guy Bachar"
-			}
+			"Stav Zilbershtein",
+			"Guy Bachar"
 		],
 		"date": "2013-05-06",
 		"startInt": 840,
@@ -722,10 +557,7 @@
 		"experience_level": "Beginner",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "1073",
-				"#text": "Maximilian Martin"
-			}
+			"Maximilian Martin"
 		],
 		"date": "2013-05-06",
 		"startInt": 900,
@@ -742,10 +574,7 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "688",
-				"#text": "Luca Hammer"
-			}
+			"Luca Hammer"
 		],
 		"date": "2013-05-06",
 		"startInt": 960,
@@ -762,10 +591,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2369",
-				"#text": "newthinking "
-			}
+			"newthinking "
 		],
 		"date": "2013-05-06",
 		"startInt": 1020,
@@ -782,10 +608,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1821",
-				"#text": "Betsy Hoover"
-			}
+			"Betsy Hoover"
 		],
 		"date": "2013-05-06",
 		"startInt": 675,
@@ -802,10 +625,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1450",
-				"#text": "Ben Scott"
-			}
+			"Ben Scott"
 		],
 		"date": "2013-05-06",
 		"startInt": 735,
@@ -823,22 +643,10 @@
 		"type": "Workshop",
 		"abstract": "Internet filtering in Iran is both arbitrary and targeted. Censorship is designed to make you feel insecure. Sometimes websites that you would assume are blocked are open, and some of the most mundane are blocked. On the other hand, severe crackdowns have left bloggers in solitary confinement in Iranian prisons. This is a participatory exploration of the Iranian internet and everything that is complex about it.",
 		"persons": [
-			{
-				"id": "776",
-				"#text": "Bronwen Robertson"
-			},
-			{
-				"id": "1063",
-				"#text": "Maral Pourkazemi"
-			},
-			{
-				"id": "1062",
-				"#text": "Mahmood Enayat"
-			},
-			{
-				"id": "1526",
-				"#text": "Stina Backer"
-			}
+			"Bronwen Robertson",
+			"Maral Pourkazemi",
+			"Mahmood Enayat",
+			"Stina Backer"
 		],
 		"date": "2013-05-06",
 		"startInt": 810,
@@ -856,14 +664,8 @@
 		"type": "Diskussion",
 		"abstract": "A live comparison between different international political memes. Aim of the discussion is to compare the characteristics and political impact of political memes from different countries with participants of re:publica. Result should a first step towards a clearer perspective on the value of political memes.",
 		"persons": [
-			{
-				"id": "494",
-				"#text": "Stefan Panhuijsen"
-			},
-			{
-				"id": "561",
-				"#text": "Jillian York"
-			}
+			"Stefan Panhuijsen",
+			"Jillian York"
 		],
 		"date": "2013-05-06",
 		"startInt": 885,
@@ -881,10 +683,7 @@
 		"type": "Vortrag",
 		"abstract": "Egyptian memes are very telling of the reality Egyptians are living while also functioning as a collective coping mechanism. Humor during times of crisis is not unique to Egypt. However, the extent to which it has become integral to the culture and language of Egypt’s changing identity through digital tools and social media is. What, if anything, do these memes tell us about contemporary Egyptian culture and what can they predict about Egypt’s uncertain future?",
 		"persons": [
-			{
-				"id": "329",
-				"#text": "Heba Amin"
-			}
+			"Heba Amin"
 		],
 		"date": "2013-05-06",
 		"startInt": 915,
@@ -902,14 +701,8 @@
 		"type": "Diskussion",
 		"abstract": "The example of Baladna FM shows, how 10 000 hacker from Russia are trying to destroy everything, which supports the Syrian revolution on the web.",
 		"persons": [
-			{
-				"id": "408",
-				"#text": "Kai Schächtele"
-			},
-			{
-				"id": "570",
-				"#text": "Monis Bukhari"
-			}
+			"Kai Schächtele",
+			"Monis Bukhari"
 		],
 		"date": "2013-05-06",
 		"startInt": 960,
@@ -927,10 +720,7 @@
 		"type": "Vortrag",
 		"abstract": "The most important and neglected story that people outside Egypt today over the course of the past 2 years have never heard, is the story of the personal changes. The so-called small details that, more-so than the political games and street battles, have made big changes in the lives of individuals, families, and neighborhoods.",
 		"persons": [
-			{
-				"id": "567",
-				"#text": "Mark Rendeiro"
-			}
+			"Mark Rendeiro"
 		],
 		"date": "2013-05-06",
 		"startInt": 1035,
@@ -948,10 +738,7 @@
 		"type": "Vortrag",
 		"abstract": "Das WWW entwickelt sich in unterschiedlichen Regionen auf verschiedene Weise und es ist wichtig zu verstehen, dass das Internet nicht nur aus Europa und den USA besteht. Auch wenn das Internet hier anders funktioniert kann man viel von SEA lernen - nicht nur in Marketing/Business Bereichen.",
 		"persons": [
-			{
-				"id": "111",
-				"#text": "Sascha Funk"
-			}
+			"Sascha Funk"
 		],
 		"date": "2013-05-06",
 		"startInt": 1065,
@@ -969,10 +756,7 @@
 		"type": "Vortrag",
 		"abstract": "Blogs haben MuslimInnen in Deutschland eine Stimme verliehen: Durchs Bloggen haben sie eine Gegenöffentlichkeit geschaffen, die auch in die breitere Öffentlichkeit gedrungen ist und somit das weitgehend negativ geprägte Bild der Muslime in den alten Medien herausfordert, korrigiert und beeinflusst.",
 		"persons": [
-			{
-				"id": "675",
-				"#text": "Stine Eckert"
-			}
+			"Stine Eckert"
 		],
 		"date": "2013-05-06",
 		"startInt": 1110,
@@ -990,10 +774,7 @@
 		"type": "Vortrag",
 		"abstract": "Die social Media ist ein Platform der politischen Schlachten geworden. Statt jetzt den Staat und den Demokratisierungsprozess nach vorn zu bringen, kämpfen die Parteien gegeneinander und beschimpfen sich auf allen Kanälen.",
 		"persons": [
-			{
-				"id": "89",
-				"#text": "Zahi Alawi"
-			}
+			"Zahi Alawi"
 		],
 		"date": "2013-05-06",
 		"startInt": 1140,
@@ -1010,18 +791,9 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "2187",
-				"#text": "Florian Sievers"
-			},
-			{
-				"id": "2374",
-				"#text": "Pedro Coquenão"
-			},
-			{
-				"id": "2170",
-				"#text": "Joyce Nyairo"
-			}
+			"Florian Sievers",
+			"Pedro Coquenão",
+			"Joyce Nyairo"
 		],
 		"date": "2013-05-06",
 		"startInt": 1185,
@@ -1038,10 +810,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2108",
-				"#text": "Tomas Caspers"
-			}
+			"Tomas Caspers"
 		],
 		"date": "2013-05-06",
 		"startInt": 720,
@@ -1058,22 +827,10 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "2099",
-				"#text": "Silke Horn"
-			},
-			{
-				"id": "1344",
-				"#text": "Raul Krauthausen"
-			},
-			{
-				"id": "2100",
-				"#text": "Barbara Wolterstädt"
-			},
-			{
-				"id": "2115",
-				"#text": "Tina Gadow"
-			}
+			"Silke Horn",
+			"Raul Krauthausen",
+			"Barbara Wolterstädt",
+			"Tina Gadow"
 		],
 		"date": "2013-05-06",
 		"startInt": 750,
@@ -1091,26 +848,11 @@
 		"type": "Workshop",
 		"abstract": "Code Literacy ist eine Schlüsselkompetenz in unserer Gesellschaft, wird aber überhaupt nicht hinreichend vermittelt.",
 		"persons": [
-			{
-				"id": "463",
-				"#text": "Nele Heise"
-			},
-			{
-				"id": "1341",
-				"#text": "Stephan Dreyer"
-			},
-			{
-				"id": "1090",
-				"#text": "Jan Schmidt"
-			},
-			{
-				"id": "1432",
-				"#text": "Katharina Johnsen"
-			},
-			{
-				"id": "1490",
-				"#text": "Sebastian Deterding"
-			}
+			"Nele Heise",
+			"Stephan Dreyer",
+			"Jan Schmidt",
+			"Katharina Johnsen",
+			"Sebastian Deterding"
 		],
 		"date": "2013-05-06",
 		"startInt": 810,
@@ -1128,18 +870,9 @@
 		"type": "Diskussion",
 		"abstract": "Wer kontrolliert die Algorithmen in einer Welt von Daten? Oder kontrollieren sie uns?",
 		"persons": [
-			{
-				"id": "241",
-				"#text": "Joerg Blumtritt"
-			},
-			{
-				"id": "2333",
-				"#text": "Martina Pickhardt"
-			},
-			{
-				"id": "2316",
-				"#text": "Stephan Noller"
-			}
+			"Joerg Blumtritt",
+			"Martina Pickhardt",
+			"Stephan Noller"
 		],
 		"date": "2013-05-06",
 		"startInt": 885,
@@ -1157,26 +890,11 @@
 		"type": "Diskussion",
 		"abstract": "Finanzblogs haben vielfältige Möglichkeiten, Finanzwissen anschaulich und interaktiv zu vermitteln. Tragen Sie damit zur Demokratisierung von Finanzkenntnissen bei? Im Anschluss an die Diskussion werden die comdirect finanzblog awards 2013 verliehen.",
 		"persons": [
-			{
-				"id": "1068",
-				"#text": "Thomas Knüwer"
-			},
-			{
-				"id": "2051",
-				"#text": "Franziska Bluhm"
-			},
-			{
-				"id": "1945",
-				"#text": "Ulrich Hegge"
-			},
-			{
-				"id": "1948",
-				"#text": "Dirk Elsner"
-			},
-			{
-				"id": "1950",
-				"#text": "Jeannine Michaelsen"
-			}
+			"Thomas Knüwer",
+			"Franziska Bluhm",
+			"Ulrich Hegge",
+			"Dirk Elsner",
+			"Jeannine Michaelsen"
 		],
 		"date": "2013-05-06",
 		"startInt": 960,
@@ -1194,10 +912,7 @@
 		"type": "Vortrag",
 		"abstract": "Der Tod ist in den sozialen Medien ein Tabuthema, eines, das berührt, und auch eines, mit dem wir uns in Zukunft auseinandersetzen müssen. Was passiert mit unseren Profilen nach unserem Tod? Wie sähe die perfekte Nachlass-App aus? Und wenn das Web so social ist, warum ist das Sprechen und Schreiben über den Tod dort immer noch eine Gratwanderung?",
 		"persons": [
-			{
-				"id": "359",
-				"#text": "Elisabeth Rank"
-			}
+			"Elisabeth Rank"
 		],
 		"date": "2013-05-06",
 		"startInt": 1065,
@@ -1215,14 +930,8 @@
 		"type": "Vortrag",
 		"abstract": "Praktische Anleitung für den führsorglichen Überwachungsstaat. Wir erklären eine erfolgreiche Kontrollstrategie am Beispiel der EU, anhand von bewährten Methoden in Mitgliedstaaten und erfolgversprechenden EU-Projekten wie der Vorratsdatenspeicherung, INDECT, ADABTS oder Clean IT.",
 		"persons": [
-			{
-				"id": "543",
-				"#text": "Kirsten Fiedler"
-			},
-			{
-				"id": "338",
-				"#text": "Alexander Sander"
-			}
+			"Kirsten Fiedler",
+			"Alexander Sander"
 		],
 		"date": "2013-05-06",
 		"startInt": 1110,
@@ -1240,10 +949,7 @@
 		"type": "Diskussion",
 		"abstract": "While the collection, storage and analysis of our data becomes ever cheaper and easier, governments around the world are eager to make the surveillance of citizens the default setting. Therefore, it has never been more important to explore countermeasures that would protect our fundamental right to privacy.",
 		"persons": [
-			{
-				"id": "905",
-				"#text": "Raegan MacDonald"
-			}
+			"Raegan MacDonald"
 		],
 		"date": "2013-05-06",
 		"startInt": 1140,
@@ -1261,14 +967,8 @@
 		"type": "Diskussion",
 		"abstract": "Crowdsourcing funktioniert auch mit Offlinern.",
 		"persons": [
-			{
-				"id": "886",
-				"#text": "Stefan Domke"
-			},
-			{
-				"id": "893",
-				"#text": "David Ohrndorf"
-			}
+			"Stefan Domke",
+			"David Ohrndorf"
 		],
 		"date": "2013-05-06",
 		"startInt": 735,
@@ -1285,14 +985,8 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1844",
-				"#text": "Katarina Peranić"
-			},
-			{
-				"id": "1845",
-				"#text": "Henrik Flor"
-			}
+			"Katarina Peranić",
+			"Henrik Flor"
 		],
 		"date": "2013-05-06",
 		"startInt": 885,
@@ -1309,10 +1003,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1824",
-				"#text": "Yussi Pick"
-			}
+			"Yussi Pick"
 		],
 		"date": "2013-05-06",
 		"startInt": 960,
@@ -1329,10 +1020,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1883",
-				"#text": "Josh Miles"
-			}
+			"Josh Miles"
 		],
 		"date": "2013-05-06",
 		"startInt": 1035,
@@ -1350,26 +1038,11 @@
 		"type": "Diskussion",
 		"abstract": "Kinder sind die spannendste Zielgruppe im WorldWideWeb. Besonders viele Herausforderungen, besonders viel Spaß.",
 		"persons": [
-			{
-				"id": "195",
-				"#text": "Sarah Pust"
-			},
-			{
-				"id": "2022",
-				"#text": "Christine Feil"
-			},
-			{
-				"id": "2031",
-				"#text": "Sabine Frank"
-			},
-			{
-				"id": "2247",
-				"#text": "Christiane Baumann"
-			},
-			{
-				"id": "2216",
-				"#text": "Verena Delius"
-			}
+			"Sarah Pust",
+			"Christine Feil",
+			"Sabine Frank",
+			"Christiane Baumann",
+			"Verena Delius"
 		],
 		"date": "2013-05-06",
 		"startInt": 735,
@@ -1387,18 +1060,9 @@
 		"type": "Vortrag",
 		"abstract": "Unter dem Label get re:ady! bündeln wir alle unsere Aktivitäten rund um Gründerthemen und Entrepreneurship. Vom GründerInnen mit ersten Geschäftsideen über erfahrene UnternehmerInnen bis hin zum Venture-Kapitalisten: auf der re:publica kommen sie zusammen.",
 		"persons": [
-			{
-				"id": "65",
-				"#text": "Andreas Gebhard"
-			},
-			{
-				"id": "2226",
-				"#text": "Maciek Laskus"
-			},
-			{
-				"id": "1863",
-				"#text": "Boris Borchert"
-			}
+			"Andreas Gebhard",
+			"Maciek Laskus",
+			"Boris Borchert"
 		],
 		"date": "2013-05-06",
 		"startInt": 810,
@@ -1416,30 +1080,12 @@
 		"type": "Vortrag",
 		"abstract": "Unter dem Label get re:ady! bündeln wir alle unsere Aktivitäten rund um Gründerthemen und Entrepreneurship. Vom GründerInnen mit ersten Geschäftsideen über erfahrene UnternehmerInnen bis hin zum Venture-Kapitalisten: auf der re:publica kommen sie zusammen.",
 		"persons": [
-			{
-				"id": "289",
-				"#text": "Frederik Fischer"
-			},
-			{
-				"id": "542",
-				"#text": "Marcus von Jordan"
-			},
-			{
-				"id": "1787",
-				"#text": "Björn Schneider"
-			},
-			{
-				"id": "1877",
-				"#text": "Michael Bräu"
-			},
-			{
-				"id": "1745",
-				"#text": "Florian Hofmann"
-			},
-			{
-				"id": "1949",
-				"#text": "Sebastian Ballweg"
-			}
+			"Frederik Fischer",
+			"Marcus von Jordan",
+			"Björn Schneider",
+			"Michael Bräu",
+			"Florian Hofmann",
+			"Sebastian Ballweg"
 		],
 		"date": "2013-05-06",
 		"startInt": 885,
@@ -1456,10 +1102,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1422",
-				"#text": "Jay Fajardo"
-			}
+			"Jay Fajardo"
 		],
 		"date": "2013-05-06",
 		"startInt": 960,
@@ -1476,10 +1119,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1439",
-				"#text": "Daniela B. Silva"
-			}
+			"Daniela B. Silva"
 		],
 		"date": "2013-05-06",
 		"startInt": 990,
@@ -1497,14 +1137,8 @@
 		"type": "Aktion",
 		"abstract": "The world craves new creative leaders. Challenge yourself to become one. LEARN what creative entrepreneurs in NYC find relevant, DO some good by designing wickedly creative futures in Berlin, and SHARE your talent with prototypers in Amsterdam.",
 		"persons": [
-			{
-				"id": "1643",
-				"#text": "Ele Jansen"
-			},
-			{
-				"id": "1647",
-				"#text": "Jörgen van der Sloot"
-			}
+			"Ele Jansen",
+			"Jörgen van der Sloot"
 		],
 		"date": "2013-05-06",
 		"startInt": 1035,
@@ -1522,22 +1156,10 @@
 		"type": "Vortrag",
 		"abstract": "Soziale Netzwerke wie z.B. Twitter ermöglichen eine politische Beteiligung, die schwellenfrei von temporärer Teilnahme bis zu langfristiger Aktivität reichen kann. Innovative netzwerkanalytische Ansätze, wie wir sie in dieser Session vorstellen werden, ermöglichen die Verortung einzelner Teilnehmer und Teilnehmergruppen in diesen komplexen Gefüge.",
 		"persons": [
-			{
-				"id": "117",
-				"#text": "Axel Bruns"
-			},
-			{
-				"id": "397",
-				"#text": "Julian Ausserhofer"
-			},
-			{
-				"id": "1417",
-				"#text": "Axel Maireder"
-			},
-			{
-				"id": "440",
-				"#text": "Christian Nuernbergk"
-			}
+			"Axel Bruns",
+			"Julian Ausserhofer",
+			"Axel Maireder",
+			"Christian Nuernbergk"
 		],
 		"date": "2013-05-06",
 		"startInt": 1110,
@@ -1555,14 +1177,8 @@
 		"type": "Aktion",
 		"abstract": "Der durchschnittliche User nutzt nur 5% seines Googlevermögens. Mit dem Googlequiz lässt sich das ausbauen. Eine gewisse Konkurrenzsituation und Kaltgetränke können hilfreich sein.",
 		"persons": [
-			{
-				"id": "2299",
-				"#text": "Blanche Fabri"
-			},
-			{
-				"id": "977",
-				"#text": "Jöran Muuß-Merholz"
-			}
+			"Blanche Fabri",
+			"Jöran Muuß-Merholz"
 		],
 		"date": "2013-05-06",
 		"startInt": 1185,
@@ -1580,14 +1196,8 @@
 		"type": "Workshop",
 		"abstract": "Wie man mit nur wenigen Strichen Worte, Vorträge und Gedanken in kurzer Zeit visuell strukturieren und dokumentieren kann, lernt man im Sketchnote Workshop. Damit man gleich in der nächsten Session seine eigenen #Sketchnotes machen kann.",
 		"persons": [
-			{
-				"id": "274",
-				"#text": "Anna Lena Schiller"
-			},
-			{
-				"id": "513",
-				"#text": "Ralf Appelt"
-			}
+			"Anna Lena Schiller",
+			"Ralf Appelt"
 		],
 		"date": "2013-05-06",
 		"startInt": 735,
@@ -1604,10 +1214,7 @@
 		"experience_level": "Beginner",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "2521",
-				"#text": "Brigitte Alice Radl"
-			}
+			"Brigitte Alice Radl"
 		],
 		"date": "2013-05-06",
 		"startInt": 885,
@@ -1624,10 +1231,7 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1843",
-				"#text": "Fabian Schuttenberg"
-			}
+			"Fabian Schuttenberg"
 		],
 		"date": "2013-05-06",
 		"startInt": 960,
@@ -1644,18 +1248,9 @@
 		"experience_level": "Beginner",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "1840",
-				"#text": "Sybille Klotz"
-			},
-			{
-				"id": "1841",
-				"#text": "Steffen Liebener"
-			},
-			{
-				"id": "1842",
-				"#text": "Michael Rouba"
-			}
+			"Sybille Klotz",
+			"Steffen Liebener",
+			"Michael Rouba"
 		],
 		"date": "2013-05-06",
 		"startInt": 1035,
@@ -1672,22 +1267,10 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "1878",
-				"#text": "Keiko Tanaka"
-			},
-			{
-				"id": "1879",
-				"#text": "Stefan Candea"
-			},
-			{
-				"id": "1880",
-				"#text": "Markus Hametner"
-			},
-			{
-				"id": "1881",
-				"#text": "Krystian Woznicki"
-			}
+			"Keiko Tanaka",
+			"Stefan Candea",
+			"Markus Hametner",
+			"Krystian Woznicki"
 		],
 		"date": "2013-05-06",
 		"startInt": 1110,
@@ -1705,14 +1288,8 @@
 		"type": "Workshop",
 		"abstract": "Kommunikation gelingt, wenn wir ihre permanente Ungenauigkeit ernst nehmen und sie als ein schönes offenes Kunstwerk verstehen. Wir verstehen den offenen, diskursiven Charakter unseres Miteinanders positiv und wollen ihn stärken und nutzen.",
 		"persons": [
-			{
-				"id": "595",
-				"#text": "Jörg Braun"
-			},
-			{
-				"id": "1995",
-				"#text": "Sabria David"
-			}
+			"Jörg Braun",
+			"Sabria David"
 		],
 		"date": "2013-05-06",
 		"startInt": 735,
@@ -1729,10 +1306,7 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "1822",
-				"#text": "Felix Kolb"
-			}
+			"Felix Kolb"
 		],
 		"date": "2013-05-06",
 		"startInt": 885,
@@ -1749,10 +1323,7 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1825",
-				"#text": "Kathrin Voss"
-			}
+			"Kathrin Voss"
 		],
 		"date": "2013-05-06",
 		"startInt": 960,
@@ -1769,10 +1340,7 @@
 		"experience_level": "Beginner",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "1823",
-				"#text": "Jona Hölderle"
-			}
+			"Jona Hölderle"
 		],
 		"date": "2013-05-06",
 		"startInt": 1035,
@@ -1789,7 +1357,7 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-06",
 		"startInt": 1110,
@@ -1806,10 +1374,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2117",
-				"#text": "Yoani Sánchez"
-			}
+			"Yoani Sánchez"
 		],
 		"date": "2013-05-06",
 		"startInt": 735,
@@ -1826,14 +1391,8 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2105",
-				"#text": "Horst Zuse"
-			},
-			{
-				"id": "47",
-				"#text": "Katharina Meyer"
-			}
+			"Horst Zuse",
+			"Katharina Meyer"
 		],
 		"date": "2013-05-06",
 		"startInt": 810,
@@ -1851,10 +1410,7 @@
 		"type": "Vortrag",
 		"abstract": "Trotz des Hypes bleibt Mass Customizatiom in der Praxis weit hinter den Möglichkeiten zurück. Warum ist das so? Was ginge eigentlich?",
 		"persons": [
-			{
-				"id": "791",
-				"#text": "Kathrin Passig"
-			}
+			"Kathrin Passig"
 		],
 		"date": "2013-05-06",
 		"startInt": 840,
@@ -1872,14 +1428,8 @@
 		"type": "Diskussion",
 		"abstract": "Markus Hündgen und Bertram Gugel werfen einen Blick auf YouTube und zeigen Goldgruben und Chancen auf YouTube, werfen jedoch auch einen Blick auf die aktuellen Problemfelder, die sich aus dem schnellen Wachstum der Plattform ergeben.",
 		"persons": [
-			{
-				"id": "462",
-				"#text": "Bertram Gugel"
-			},
-			{
-				"id": "1472",
-				"#text": "Markus Hündgen"
-			}
+			"Bertram Gugel",
+			"Markus Hündgen"
 		],
 		"date": "2013-05-06",
 		"startInt": 885,
@@ -1896,30 +1446,12 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "1999",
-				"#text": " LeFloid"
-			},
-			{
-				"id": "2059",
-				"#text": "Simon W.[ungespielt]"
-			},
-			{
-				"id": "693",
-				"#text": "Christoph Krachten"
-			},
-			{
-				"id": "1919",
-				"#text": "Hannes Jakobsen"
-			},
-			{
-				"id": "48",
-				"#text": "Johnny Haeusler"
-			},
-			{
-				"id": "2200",
-				"#text": "Amy Herzstark"
-			}
+			" LeFloid",
+			"Simon W.[ungespielt]",
+			"Christoph Krachten",
+			"Hannes Jakobsen",
+			"Johnny Haeusler",
+			"Amy Herzstark"
 		],
 		"date": "2013-05-06",
 		"startInt": 960,
@@ -1937,10 +1469,7 @@
 		"type": "Vortrag",
 		"abstract": "Der alte Kapitalismus hat ausgedient - er paßt nicht mehr zu uns, zu den selbstbewussten, selbstständigen und individuellen Menschen des 21. Jahrhunderts. Wir müssen einen neuen Kapitalismus denken, der zur Zivilgesellschaft der selbständigen Bürger passt, die sich weder von einem allmächtigen Staat noch von anonymen Strukturen beherrschen lassen wollen - sondern ihre Ökonomie selbst in die Hand nehmen.",
 		"persons": [
-			{
-				"id": "1438",
-				"#text": "Wolf Lotter"
-			}
+			"Wolf Lotter"
 		],
 		"date": "2013-05-06",
 		"startInt": 1035,
@@ -1957,14 +1486,8 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "1008",
-				"#text": "Mercedes Bunz"
-			},
-			{
-				"id": "1497",
-				"#text": "Diedrich Diederichsen"
-			}
+			"Mercedes Bunz",
+			"Diedrich Diederichsen"
 		],
 		"date": "2013-05-06",
 		"startInt": 1050,
@@ -1982,18 +1505,9 @@
 		"type": "Vortrag",
 		"abstract": "Berliner Wahlwaffeln, Binders full of Burgers - trockene und vermeintlich langweilige Daten wollen wir anschaulich appetitlich darstellen und darüber Information zu gesellschaftlich relevanten Themen vermitteln. Bon appétit!",
 		"persons": [
-			{
-				"id": "274",
-				"#text": "Anna Lena Schiller"
-			},
-			{
-				"id": "1405",
-				"#text": "Sylke Gruhnwald"
-			},
-			{
-				"id": "1410",
-				"#text": "Lisa Rienermann"
-			}
+			"Anna Lena Schiller",
+			"Sylke Gruhnwald",
+			"Lisa Rienermann"
 		],
 		"date": "2013-05-06",
 		"startInt": 1110,
@@ -2010,10 +1524,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1069",
-				"#text": "Mark Graham"
-			}
+			"Mark Graham"
 		],
 		"date": "2013-05-06",
 		"startInt": 1140,
@@ -2030,38 +1541,14 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1659",
-				"#text": "Tayo Akinyemi"
-			},
-			{
-				"id": "1812",
-				"#text": "William Zimmerman"
-			},
-			{
-				"id": "2163",
-				"#text": "Selin Carrasco Vargas"
-			},
-			{
-				"id": "1652",
-				"#text": "Sam Gichuru"
-			},
-			{
-				"id": "1795",
-				"#text": "Rene Parker"
-			},
-			{
-				"id": "1968",
-				"#text": "Wole Odetayo"
-			},
-			{
-				"id": "1874",
-				"#text": "Adetunji Eleso"
-			},
-			{
-				"id": "2048",
-				"#text": "Michael Szymanski"
-			}
+			"Tayo Akinyemi",
+			"William Zimmerman",
+			"Selin Carrasco Vargas",
+			"Sam Gichuru",
+			"Rene Parker",
+			"Wole Odetayo",
+			"Adetunji Eleso",
+			"Michael Szymanski"
 		],
 		"date": "2013-05-06",
 		"startInt": 735,
@@ -2078,10 +1565,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1646",
-				"#text": "Andriankoto Harinjaka Ratozamanana"
-			}
+			"Andriankoto Harinjaka Ratozamanana"
 		],
 		"date": "2013-05-06",
 		"startInt": 750,
@@ -2098,10 +1582,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1420",
-				"#text": "Lukonga Lindunda"
-			}
+			"Lukonga Lindunda"
 		],
 		"date": "2013-05-06",
 		"startInt": 765,
@@ -2118,10 +1599,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1763",
-				"#text": "Brian Ndyaguma"
-			}
+			"Brian Ndyaguma"
 		],
 		"date": "2013-05-06",
 		"startInt": 780,
@@ -2138,10 +1616,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2301",
-				"#text": "Victoria Wenzelmann"
-			}
+			"Victoria Wenzelmann"
 		],
 		"date": "2013-05-06",
 		"startInt": 810,
@@ -2158,10 +1633,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2372",
-				"#text": "Simon Höher"
-			}
+			"Simon Höher"
 		],
 		"date": "2013-05-06",
 		"startInt": 840,
@@ -2178,10 +1650,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1519",
-				"#text": "Rachel Gichinga "
-			}
+			"Rachel Gichinga "
 		],
 		"date": "2013-05-06",
 		"startInt": 885,
@@ -2198,10 +1667,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1835",
-				"#text": "Teemu Ropponen"
-			}
+			"Teemu Ropponen"
 		],
 		"date": "2013-05-06",
 		"startInt": 915,
@@ -2218,10 +1684,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1923",
-				"#text": "Jay Cousins"
-			}
+			"Jay Cousins"
 		],
 		"date": "2013-05-06",
 		"startInt": 960,
@@ -2238,10 +1701,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1451",
-				"#text": "Al Banda"
-			}
+			"Al Banda"
 		],
 		"date": "2013-05-06",
 		"startInt": 1035,
@@ -2258,14 +1718,8 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1449",
-				"#text": "Markos Lemma"
-			},
-			{
-				"id": "1632",
-				"#text": "Oliver Petzoldt"
-			}
+			"Markos Lemma",
+			"Oliver Petzoldt"
 		],
 		"date": "2013-05-06",
 		"startInt": 1065,
@@ -2282,14 +1736,8 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "1829",
-				"#text": "Arash T. Riahi"
-			},
-			{
-				"id": "1827",
-				"#text": "Arman Riahi"
-			}
+			"Arash T. Riahi",
+			"Arman Riahi"
 		],
 		"date": "2013-05-06",
 		"startInt": 885,
@@ -2306,10 +1754,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2031",
-				"#text": "Sabine Frank"
-			}
+			"Sabine Frank"
 		],
 		"date": "2013-05-06",
 		"startInt": 960,
@@ -2326,10 +1771,7 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "1830",
-				"#text": "Hannes Jähnert"
-			}
+			"Hannes Jähnert"
 		],
 		"date": "2013-05-06",
 		"startInt": 1035,
@@ -2346,22 +1788,10 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "526",
-				"#text": "Alexander Hauser"
-			},
-			{
-				"id": "1424",
-				"#text": "Don Dahlmann"
-			},
-			{
-				"id": "1724",
-				"#text": "Sebastian Fiebrig"
-			},
-			{
-				"id": "1416",
-				"#text": "Kai Pahl"
-			}
+			"Alexander Hauser",
+			"Don Dahlmann",
+			"Sebastian Fiebrig",
+			"Kai Pahl"
 		],
 		"date": "2013-05-06",
 		"startInt": 1110,
@@ -2379,10 +1809,7 @@
 		"type": "Vortrag",
 		"abstract": "How should the blogosphere be preserved for future generations? The preservation of the blogosphere needs new approaches and immediate action.",
 		"persons": [
-			{
-				"id": "1873",
-				"#text": "Hendrik Kalb"
-			}
+			"Hendrik Kalb"
 		],
 		"date": "2013-05-06",
 		"startInt": 1155,
@@ -2399,7 +1826,7 @@
 		"experience_level": "Beginner",
 		"type": "Aktion",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-06",
 		"startInt": 1200,
@@ -2416,10 +1843,7 @@
 		"experience_level": "Beginner",
 		"type": "Aktion",
 		"persons": [
-			{
-				"id": "2374",
-				"#text": "Pedro Coquenão"
-			}
+			"Pedro Coquenão"
 		],
 		"date": "2013-05-06",
 		"startInt": 1320,
@@ -2437,10 +1861,7 @@
 		"type": "Vortrag",
 		"abstract": "Radio Universal ist die Utopie eines Community-orientierten und -gestützten Radios, das den Hörer/die Hörerin umfangreich in das Programm mit einbezieht und viele Möglichkeiten des Webs beim Publizieren berücksichtigt. Die Podlove Initiative ist angetreten, diese Vision schrittweise in einem offenen Prozess umzusetzen.",
 		"persons": [
-			{
-				"id": "870",
-				"#text": "Tim Pritlove"
-			}
+			"Tim Pritlove"
 		],
 		"date": "2013-05-07",
 		"startInt": 600,
@@ -2458,10 +1879,7 @@
 		"type": "Vortrag",
 		"abstract": "Über die Herausforderungen und Möglichkeiten einer Refinanzierung von Onlinejournalismus.",
 		"persons": [
-			{
-				"id": "46",
-				"#text": "Markus Beckedahl"
-			}
+			"Markus Beckedahl"
 		],
 		"date": "2013-05-07",
 		"startInt": 675,
@@ -2478,10 +1896,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "896",
-				"#text": "R. Trebor Scholz"
-			}
+			"R. Trebor Scholz"
 		],
 		"date": "2013-05-07",
 		"startInt": 750,
@@ -2498,18 +1913,9 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1450",
-				"#text": "Ben Scott"
-			},
-			{
-				"id": "2357",
-				"#text": "Hannah Seiffert"
-			},
-			{
-				"id": "46",
-				"#text": "Markus Beckedahl"
-			}
+			"Ben Scott",
+			"Hannah Seiffert",
+			"Markus Beckedahl"
 		],
 		"date": "2013-05-07",
 		"startInt": 825,
@@ -2527,14 +1933,8 @@
 		"type": "Vortrag",
 		"abstract": "The Kids Are Alright.",
 		"persons": [
-			{
-				"id": "2003",
-				"#text": "Tanja Haeusler"
-			},
-			{
-				"id": "48",
-				"#text": "Johnny Haeusler"
-			}
+			"Tanja Haeusler",
+			"Johnny Haeusler"
 		],
 		"date": "2013-05-07",
 		"startInt": 900,
@@ -2552,10 +1952,7 @@
 		"type": "Vortrag",
 		"abstract": "Kinder bekommen was auf die Reihe, nicht trotz, sondern gerade wegen ihres Aufwachsens in Digitalistan. Sie interessieren sich sehrwohl für ihre Welt. Und sie gestalten sie - schon heute. Der Vortrag zeigt auf, was sie konret tun. Und was sie dafür brauchen - aus ihrer Sicht.",
 		"persons": [
-			{
-				"id": "828",
-				"#text": "Manuela Schauerhammer"
-			}
+			"Manuela Schauerhammer"
 		],
 		"date": "2013-05-07",
 		"startInt": 930,
@@ -2572,10 +1969,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2110",
-				"#text": "lidi brouwer"
-			}
+			"lidi brouwer"
 		],
 		"date": "2013-05-07",
 		"startInt": 975,
@@ -2593,22 +1987,10 @@
 		"type": "Vortrag",
 		"abstract": "Netzpolitisches Engagement braucht kreative Köpfe, Zeit und - leider, leider - auch Geld, um gegen die 'Großen' gegenanstinken zu können.",
 		"persons": [
-			{
-				"id": "2010",
-				"#text": "Linnea Riensberg"
-			},
-			{
-				"id": "2040",
-				"#text": "Lavinia Steiner"
-			},
-			{
-				"id": "1685",
-				"#text": "Ulf Buermeyer"
-			},
-			{
-				"id": "1688",
-				"#text": "Leonhard Dobusch"
-			}
+			"Linnea Riensberg",
+			"Lavinia Steiner",
+			"Ulf Buermeyer",
+			"Leonhard Dobusch"
 		],
 		"date": "2013-05-07",
 		"startInt": 1050,
@@ -2625,14 +2007,8 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1681",
-				"#text": "Moon Ribas"
-			},
-			{
-				"id": "1682",
-				"#text": "Neil Harbisson"
-			}
+			"Moon Ribas",
+			"Neil Harbisson"
 		],
 		"date": "2013-05-07",
 		"startInt": 1125,
@@ -2650,18 +2026,9 @@
 		"type": "Diskussion",
 		"abstract": "Die digitale Sphäre durchdringt immer mehr Lebensbereiche. Das Netz ist Infrastruktur- und Wirtschaftsfaktor, Kultur- und Lebensform. Die Diskussion darüber ist zu wichtig, um sie Lobbyisten und Bürokraten zu überlassen. Und zu spannend für TV-Talkshows.",
 		"persons": [
-			{
-				"id": "168",
-				"#text": "Ulrike Langer"
-			},
-			{
-				"id": "1068",
-				"#text": "Thomas Knüwer"
-			},
-			{
-				"id": "2452",
-				"#text": "Daniel Fiene"
-			}
+			"Ulrike Langer",
+			"Thomas Knüwer",
+			"Daniel Fiene"
 		],
 		"date": "2013-05-07",
 		"startInt": 1200,
@@ -2679,10 +2046,7 @@
 		"type": "Vortrag",
 		"abstract": "Bytes, die die Welt bedeuten – Einen Bericht aus der nächsten Atopia und der Grazie, mit der wir uns dort wieder bewegen können liefert Manouchehr Shamsrizi FRSA, Dramaturg des Zentrums für Politische Schoenheit, Global Justice Fellow der Yale University und Mitglied der \"beta-group\" der ZEIT Stiftung.",
 		"persons": [
-			{
-				"id": "1089",
-				"#text": "Manouchehr Shamsrizi"
-			}
+			"Manouchehr Shamsrizi"
 		],
 		"date": "2013-05-07",
 		"startInt": 600,
@@ -2699,10 +2063,7 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1518",
-				"#text": "Friedrich von Borries"
-			}
+			"Friedrich von Borries"
 		],
 		"date": "2013-05-07",
 		"startInt": 675,
@@ -2720,10 +2081,7 @@
 		"type": "Vortrag",
 		"abstract": "If, as Thomas and Cook state, ‘visual representations and digital visualization techniques take advantage of the human eye’s broad bandwidth pathway into the mind to allow users to see, explore, and understand large amounts of information at once’ what are the consequences of a technology that does not pretend anymore to “simulate” reality or its visualization but now “naturally” creates the way we see the world and experience it?",
 		"persons": [
-			{
-				"id": "894",
-				"#text": "Francesco Lapenta"
-			}
+			"Francesco Lapenta"
 		],
 		"date": "2013-05-07",
 		"startInt": 705,
@@ -2741,22 +2099,10 @@
 		"type": "Diskussion",
 		"abstract": "Wissenschaft braucht Partizipation. Es geht längst nicht mehr nur darum, Forschungsergebnisse zu erklären, sondern darum, Partizipationsmöglichkeiten auszuprobieren und einen Diskurs zu führen: Was ist wünschenswert, was akzeptieren wir als Gesellschaft? Was nicht? Damit ist auch die Rolle des Wissenschaftlers und der Wissenschaftlerin im Umbruch.",
 		"persons": [
-			{
-				"id": "407",
-				"#text": "Solveig Wehking"
-			},
-			{
-				"id": "514",
-				"#text": "Lars Fischer"
-			},
-			{
-				"id": "1667",
-				"#text": "Anders Levermann"
-			},
-			{
-				"id": "604",
-				"#text": "Ruth Schöllhammer"
-			}
+			"Solveig Wehking",
+			"Lars Fischer",
+			"Anders Levermann",
+			"Ruth Schöllhammer"
 		],
 		"date": "2013-05-07",
 		"startInt": 750,
@@ -2774,22 +2120,10 @@
 		"type": "Diskussion",
 		"abstract": "What is a critical idea of \"open\" and what might radical digital humanities be? In memoriam Aaron Schwartz.",
 		"persons": [
-			{
-				"id": "1008",
-				"#text": "Mercedes Bunz"
-			},
-			{
-				"id": "1359",
-				"#text": "Nishant Shah"
-			},
-			{
-				"id": "1460",
-				"#text": "David Berry"
-			},
-			{
-				"id": "1817",
-				"#text": "Cornelius Puschmann"
-			}
+			"Mercedes Bunz",
+			"Nishant Shah",
+			"David Berry",
+			"Cornelius Puschmann"
 		],
 		"date": "2013-05-07",
 		"startInt": 825,
@@ -2807,22 +2141,10 @@
 		"type": "Diskussion",
 		"abstract": "Der Nachweis des Higgs-Teilchens mit der Riesenmaschine LHC war *das* Forschungshighlight 2012. Dieser Erfolg stellt neben dem wissenschaftlichen Durchbruch auch eine besondere Kulturleistung unserer Gesellschaft dar.",
 		"persons": [
-			{
-				"id": "2017",
-				"#text": "Kerstin Tackmann"
-			},
-			{
-				"id": "1814",
-				"#text": "Christoph Wissing"
-			},
-			{
-				"id": "2024",
-				"#text": "Kerstin Borras"
-			},
-			{
-				"id": "606",
-				"#text": "Henning Krause"
-			}
+			"Kerstin Tackmann",
+			"Christoph Wissing",
+			"Kerstin Borras",
+			"Henning Krause"
 		],
 		"date": "2013-05-07",
 		"startInt": 900,
@@ -2840,14 +2162,8 @@
 		"type": "Vortrag",
 		"abstract": "Gehäkelt, gestrickt und gestickt wurde schon immer, doch Crafting war lange Zeit völlig aus der öffentlichen Wahrnehmung verschwunden. Über das Internet aber vernetzten sich die Crafter wie kaum eine andere Gruppierung intensiv miteinander, um sich nun den öffentlichen Raum zurückzuerobern - mit ökonomischen, politischen und sozialen Folgen.",
 		"persons": [
-			{
-				"id": "341",
-				"#text": "Daniela Warndorf"
-			},
-			{
-				"id": "406",
-				"#text": "Kiki Haas"
-			}
+			"Daniela Warndorf",
+			"Kiki Haas"
 		],
 		"date": "2013-05-07",
 		"startInt": 975,
@@ -2865,14 +2181,8 @@
 		"type": "Vortrag",
 		"abstract": "Zahlreiche Beispiele zeigen: Die Online-Bewerbung über den eigenen Blog führt zum Erfolg. Mithilfe eines funktionierenden Netzwerks, einer schönen Geschichte, einer multimedialen Aufbereitung und Kontakt zu Multiplikatoren wird der zukünftige Arbeitgeber euch finden!",
 		"persons": [
-			{
-				"id": "625",
-				"#text": "Christine Heller"
-			},
-			{
-				"id": "1067",
-				"#text": "Jochen Mai"
-			}
+			"Christine Heller",
+			"Jochen Mai"
 		],
 		"date": "2013-05-07",
 		"startInt": 1005,
@@ -2890,14 +2200,8 @@
 		"type": "Diskussion",
 		"abstract": "Founded by scientists and engineers in their spare time, the Part-Time Scientists compete in a new space race towards landing the first private spacecraft on the moon. Will this be the end for missions like Curiosity? Or is this the dawn of a new Space 2.0? Get to know the Part-Time Scientists, their team of rocket scientists, and embark with them and the German Aerospace Center (DLR) on a heartful discussion on the future of private space exploration!",
 		"persons": [
-			{
-				"id": "1998",
-				"#text": "Karsten Becker"
-			},
-			{
-				"id": "1928",
-				"#text": "Robert Böhme"
-			}
+			"Karsten Becker",
+			"Robert Böhme"
 		],
 		"date": "2013-05-07",
 		"startInt": 1050,
@@ -2914,14 +2218,8 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "465",
-				"#text": "Thorsten Feldmann"
-			},
-			{
-				"id": "104",
-				"#text": "Henning Krieg"
-			}
+			"Thorsten Feldmann",
+			"Henning Krieg"
 		],
 		"date": "2013-05-07",
 		"startInt": 1125,
@@ -2938,7 +2236,7 @@
 		"experience_level": "Beginner",
 		"type": "Aktion",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 600,
@@ -2955,7 +2253,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 675,
@@ -2972,7 +2270,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 750,
@@ -2989,7 +2287,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 825,
@@ -3006,7 +2304,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 900,
@@ -3023,7 +2321,7 @@
 		"experience_level": "Beginner",
 		"type": "Aktion",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 975,
@@ -3041,10 +2339,7 @@
 		"type": "Diskussion",
 		"abstract": "We claim space is for the people - let's bring it to the people!",
 		"persons": [
-			{
-				"id": "608",
-				"#text": "Marco Trovatello"
-			}
+			"Marco Trovatello"
 		],
 		"date": "2013-05-07",
 		"startInt": 1125,
@@ -3062,18 +2357,9 @@
 		"type": "Diskussion",
 		"abstract": "Das Internet heizt sozialen Wandel an, ermöglicht neue soziale Bewegungen und ist damit auch eine Bedrohung für die herrschende Ordnung. Während Staaten, Sicherheitsapparate und Kapital immer konzentrierter versuchen, gesellschaftlichen Veränderungsdruck durch die Regulierung des Internets in den Griff zu bekommen, sind die sozialen Bewegungen gefordert, den Kampf um das offene Internet gemeinsam zu gewinnen.",
 		"persons": [
-			{
-				"id": "450",
-				"#text": "Kathrin Ganz"
-			},
-			{
-				"id": "806",
-				"#text": "Hans Christian Voigt"
-			},
-			{
-				"id": "1390",
-				"#text": "Anne Roth"
-			}
+			"Kathrin Ganz",
+			"Hans Christian Voigt",
+			"Anne Roth"
 		],
 		"date": "2013-05-07",
 		"startInt": 600,
@@ -3091,26 +2377,11 @@
 		"type": "Diskussion",
 		"abstract": "Infrastruktur-Betreiber entwickeln eine neue Aufmerksamkeit für die Inhalte, die sie transportieren sollen - mit noch ungeahnten Folgen für die Erfahrung “Internet”.",
 		"persons": [
-			{
-				"id": "281",
-				"#text": "Uta Meier-Hahn"
-			},
-			{
-				"id": "1938",
-				"#text": "Cara Schwarz-Schilling"
-			},
-			{
-				"id": "2029",
-				"#text": "Klaus Landefeld"
-			},
-			{
-				"id": "2028",
-				"#text": "Jan Krancke"
-			},
-			{
-				"id": "2030",
-				"#text": "Simon Schlauri"
-			}
+			"Uta Meier-Hahn",
+			"Cara Schwarz-Schilling",
+			"Klaus Landefeld",
+			"Jan Krancke",
+			"Simon Schlauri"
 		],
 		"date": "2013-05-07",
 		"startInt": 675,
@@ -3127,26 +2398,11 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "1886",
-				"#text": "Wael Fakharany"
-			},
-			{
-				"id": "561",
-				"#text": "Jillian York"
-			},
-			{
-				"id": "2029",
-				"#text": "Klaus Landefeld"
-			},
-			{
-				"id": "2086",
-				"#text": "Moez Chakchouk"
-			},
-			{
-				"id": "1350",
-				"#text": "Ben Wagner"
-			}
+			"Wael Fakharany",
+			"Jillian York",
+			"Klaus Landefeld",
+			"Moez Chakchouk",
+			"Ben Wagner"
 		],
 		"date": "2013-05-07",
 		"startInt": 750,
@@ -3163,10 +2419,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "95",
-				"#text": "Marco Maas"
-			}
+			"Marco Maas"
 		],
 		"date": "2013-05-07",
 		"startInt": 825,
@@ -3184,10 +2437,7 @@
 		"type": "Vortrag",
 		"abstract": "Musikroboter bieten eine neue Rezeptions und in diesem Fall Interaktionsstufe für die Wahrnehmung von Klang. Der hier beispielhaft vorgestellte Drumroboter MR-808 ist ein Replikat der stilprägenden analogen 80er Drum Machine TR-808 – allerdings mit mechanischer Klangerzeugung!",
 		"persons": [
-			{
-				"id": "198",
-				"#text": "Moritz Simon Geist"
-			}
+			"Moritz Simon Geist"
 		],
 		"date": "2013-05-07",
 		"startInt": 900,
@@ -3205,26 +2455,11 @@
 		"type": "Diskussion",
 		"abstract": "Pop ist tot! Lange lebe Pop! Die digitale Musikwirtschaft ist ein Beispiel für anhaltende und immer häufiger auch gelungene Veränderungen. Nach einer Phase der Orientierunglosigkeit hat man sich auf wandelnde Nutzungs- und Verwertungslogiken eingestellt. Eingebettet in die richtigen Förderungsstrukturen kann die Musikindustrie nach wie vor ein wichtiger Faktor in der Entwicklung von Wirtschaftsräumen sein.",
 		"persons": [
-			{
-				"id": "1655",
-				"#text": "Hubert Wandjo"
-			},
-			{
-				"id": "1671",
-				"#text": "Andreas Rubin-Schwarz"
-			},
-			{
-				"id": "1578",
-				"#text": "Sebastian Andrej Schweizer"
-			},
-			{
-				"id": "1860",
-				"#text": "Janina Klabes"
-			},
-			{
-				"id": "1888",
-				"#text": "Tim Otto"
-			}
+			"Hubert Wandjo",
+			"Andreas Rubin-Schwarz",
+			"Sebastian Andrej Schweizer",
+			"Janina Klabes",
+			"Tim Otto"
 		],
 		"date": "2013-05-07",
 		"startInt": 975,
@@ -3242,10 +2477,7 @@
 		"type": "Vortrag",
 		"abstract": "From HAL to Wiimotes and Kinect, musicians have predicted the future of machine/human interaction. Because music connects with time, body, and emotion in a unique way, they test the limits of technology. Now it's time to work out what comes next.",
 		"persons": [
-			{
-				"id": "933",
-				"#text": "Peter Kirn"
-			}
+			"Peter Kirn"
 		],
 		"date": "2013-05-07",
 		"startInt": 1050,
@@ -3263,14 +2495,8 @@
 		"type": "Diskussion",
 		"abstract": "Music recommendation is an essential part of the music business. Artists like Trent Reznor have started to get involved in music disovery systems and talk of \"Intelligent Curation\". It might be time to envision a more emotional, i.e. relationship based approach to recommendations.",
 		"persons": [
-			{
-				"id": "725",
-				"#text": "Christian Tjaben"
-			},
-			{
-				"id": "2055",
-				"#text": "Oke Göttlich"
-			}
+			"Christian Tjaben",
+			"Oke Göttlich"
 		],
 		"date": "2013-05-07",
 		"startInt": 1080,
@@ -3288,22 +2514,10 @@
 		"type": "Diskussion",
 		"abstract": "The selection of music online is enormous. But many users would like better recommendation systems. Experts say inadequate recommendations are the biggest hurdle facing commercial success of streaming services. <deutsch:>Die Auswahl an Musik im Netz ist riesig. Doch viele Nutzer wünschen sich bessere Empfehlungsfunktionen. Das ist die eigentliche Hürde, die dem Durchbruch von Streamingdiensten noch im Wege steht.",
 		"persons": [
-			{
-				"id": "743",
-				"#text": "Eric Eitel"
-			},
-			{
-				"id": "1470",
-				"#text": "Stephan Baumann"
-			},
-			{
-				"id": "1473",
-				"#text": "Amélie Anglade"
-			},
-			{
-				"id": "1476",
-				"#text": "Marie Heimer"
-			}
+			"Eric Eitel",
+			"Stephan Baumann",
+			"Amélie Anglade",
+			"Marie Heimer"
 		],
 		"date": "2013-05-07",
 		"startInt": 1125,
@@ -3321,30 +2535,12 @@
 		"type": "Aktion",
 		"abstract": "\"People doing strange things with electricity.\"",
 		"persons": [
-			{
-				"id": "2359",
-				"#text": "Joanna Dauner"
-			},
-			{
-				"id": "1975",
-				"#text": "Mario Sixtus"
-			},
-			{
-				"id": "605",
-				"#text": "Mey Lean Kronemann"
-			},
-			{
-				"id": "534",
-				"#text": "Gregor Sedlag"
-			},
-			{
-				"id": "2437",
-				"#text": "Mariska de Groot"
-			},
-			{
-				"id": "2416",
-				"#text": "Marjam Fels"
-			}
+			"Joanna Dauner",
+			"Mario Sixtus",
+			"Mey Lean Kronemann",
+			"Gregor Sedlag",
+			"Mariska de Groot",
+			"Marjam Fels"
 		],
 		"date": "2013-05-07",
 		"startInt": 1200,
@@ -3362,22 +2558,10 @@
 		"type": "Diskussion",
 		"abstract": "Sind Modeblog-Netzwerke die Verlage der Fashionblog-Szene?",
 		"persons": [
-			{
-				"id": "700",
-				"#text": "Anna Weilberg"
-			},
-			{
-				"id": "1407",
-				"#text": "David Kurth Karl Roth"
-			},
-			{
-				"id": "1523",
-				"#text": "Katja Dalhöfer"
-			},
-			{
-				"id": "1509",
-				"#text": "Katja Schweitzberger"
-			}
+			"Anna Weilberg",
+			"David Kurth Karl Roth",
+			"Katja Dalhöfer",
+			"Katja Schweitzberger"
 		],
 		"date": "2013-05-07",
 		"startInt": 600,
@@ -3395,10 +2579,7 @@
 		"type": "Vortrag",
 		"abstract": "Maschinen übernehmen mehr Arbeit als wir gerade neue schaffen können. Das stellt uns vor die Frage, wie wir eigentlich in Zukunft leben wollen.",
 		"persons": [
-			{
-				"id": "253",
-				"#text": "Johannes Kleske"
-			}
+			"Johannes Kleske"
 		],
 		"date": "2013-05-07",
 		"startInt": 675,
@@ -3415,14 +2596,8 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1929",
-				"#text": "Stephanie Hankey"
-			},
-			{
-				"id": "956",
-				"#text": "Marek Tuszynski"
-			}
+			"Stephanie Hankey",
+			"Marek Tuszynski"
 		],
 		"date": "2013-05-07",
 		"startInt": 750,
@@ -3440,14 +2615,8 @@
 		"type": "Workshop",
 		"abstract": "Journalism needs to explore new ways of tell stories - to start using the web as a medium more fully and move beyond the established form of the article. In our workshop, we want to explore what the best format is to express a range of news stories.",
 		"persons": [
-			{
-				"id": "574",
-				"#text": "Annabel Church"
-			},
-			{
-				"id": "578",
-				"#text": "Friedrich Lindenberg"
-			}
+			"Annabel Church",
+			"Friedrich Lindenberg"
 		],
 		"date": "2013-05-07",
 		"startInt": 780,
@@ -3465,14 +2634,8 @@
 		"type": "Vortrag",
 		"abstract": "Was bleibt von den Ideen und Idealen freier Arbeit, von Free Software und Freiem Wissen, wenn Menschen im Rennen gegen Maschinen, sowie Menschen im Rennen gegeneinander bestehen müssen? Wie kann Freiheit, Selbstbestimmung und Teilhabe heute noch gesichert werden? – Wir stellen zwei Konzepte vor: Freelancer-Solidarität mit Joel Dullroy & das bedingungslose Grundeinkommen mit Matthias Spielkamp.",
 		"persons": [
-			{
-				"id": "141",
-				"#text": "Matthias Spielkamp"
-			},
-			{
-				"id": "461",
-				"#text": "Joel Dullroy"
-			}
+			"Matthias Spielkamp",
+			"Joel Dullroy"
 		],
 		"date": "2013-05-07",
 		"startInt": 825,
@@ -3490,18 +2653,9 @@
 		"type": "Diskussion",
 		"abstract": "It’s about time to connect with the arising middle classes of young African achievers. THE NEW//AFRICA is a new media brand with a social impact, sharing success stories, building new alliances, putting young professionals, startups and entrepreneurs on the international agenda. Let’s forget clichés and misconceptions, still prevailing in the perception of the public: We are focussing on perspectives and progress, on chances, challenges and changes.",
 		"persons": [
-			{
-				"id": "2119",
-				"#text": "Beate Wedekind"
-			},
-			{
-				"id": "2196",
-				"#text": "Preethi Mariappan"
-			},
-			{
-				"id": "2197",
-				"#text": "Julian Tadesse"
-			}
+			"Beate Wedekind",
+			"Preethi Mariappan",
+			"Julian Tadesse"
 		],
 		"date": "2013-05-07",
 		"startInt": 900,
@@ -3519,18 +2673,9 @@
 		"type": "Workshop",
 		"abstract": "Conspiracy theories are widely spread in social media, find new followers, get shared. But how to debunk them when your friends are completely lost in them? We'll talk about that!",
 		"persons": [
-			{
-				"id": "484",
-				"#text": "Anna Groß"
-			},
-			{
-				"id": "1650",
-				"#text": "Johannes Baldauf"
-			},
-			{
-				"id": "1638",
-				"#text": "Alice Lanzke"
-			}
+			"Anna Groß",
+			"Johannes Baldauf",
+			"Alice Lanzke"
 		],
 		"date": "2013-05-07",
 		"startInt": 975,
@@ -3548,10 +2693,7 @@
 		"type": "Vortrag",
 		"abstract": "Cologne with its creative, startup and tech scene is as fantastic place to develop new ideas and businesses. Interactive Cologne will be a unique week full of tech, biz, creativity and music.",
 		"persons": [
-			{
-				"id": "2047",
-				"#text": "Joachim Vranken"
-			}
+			"Joachim Vranken"
 		],
 		"date": "2013-05-07",
 		"startInt": 1050,
@@ -3569,10 +2711,7 @@
 		"type": "Diskussion",
 		"abstract": "Über Pop und Politik zu bloggen ist scheiße, birgt aber viele Möglichkeiten in sich.",
 		"persons": [
-			{
-				"id": "135",
-				"#text": "Daniel Decker"
-			}
+			"Daniel Decker"
 		],
 		"date": "2013-05-07",
 		"startInt": 1125,
@@ -3590,10 +2729,7 @@
 		"type": "Vortrag",
 		"abstract": "PopcornPiraten ist ein unterhaltendes politisches Blog, das von verschiedenen Interessengruppen aus unterschiedlichen Motiven gelesen und unterstützt wird. Es stellt die Frage nach dem In/Side/Out des politisches Bloggens und der Rolle der Transparenz in einer vernetzten Gesellschaft (am Beispiel der Piraten).",
 		"persons": [
-			{
-				"id": "76",
-				"#text": "Caspar Clemens Mierau"
-			}
+			"Caspar Clemens Mierau"
 		],
 		"date": "2013-05-07",
 		"startInt": 1155,
@@ -3611,14 +2747,8 @@
 		"type": "Vortrag",
 		"abstract": "Wenn Preisverleihungen immer scheisse sind - warum machen wir dann nicht mal eine Gute? Jeder Internetmensch ist ein Gewinner.",
 		"persons": [
-			{
-				"id": "235",
-				"#text": "Nilz Bokelberg"
-			},
-			{
-				"id": "2325",
-				"#text": "Markus Herrmann"
-			}
+			"Nilz Bokelberg",
+			"Markus Herrmann"
 		],
 		"date": "2013-05-07",
 		"startInt": 1200,
@@ -3636,10 +2766,7 @@
 		"type": "Vortrag",
 		"abstract": "Der Aufbruch ins digitale Zeitalter kann uns neue Freiheiten verschaffen: Spielräume für kreatives Arbeiten und neue Formen der Selbstverwirklichung, eine höhere Selbstbestimmung und Flexibilität. Doch noch steht das Tempo der technischen Innovation in keinem Verhältnis zur Innovationsbereitschaft am Arbeitsplatz. Die Zukunft der Arbeit müssen wir jetzt gemeinsam gründen.",
 		"persons": [
-			{
-				"id": "698",
-				"#text": "Teresa Bücker"
-			}
+			"Teresa Bücker"
 		],
 		"date": "2013-05-07",
 		"startInt": 600,
@@ -3656,10 +2783,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1030",
-				"#text": "Jutta Allmendinger"
-			}
+			"Jutta Allmendinger"
 		],
 		"date": "2013-05-07",
 		"startInt": 630,
@@ -3677,10 +2801,7 @@
 		"type": "Vortrag",
 		"abstract": "I will share how amazing it is to take astronomy to the people and to share the skills we have learnt as astronomers, and to see first hand how it can change the world!",
 		"persons": [
-			{
-				"id": "1409",
-				"#text": "Carolina Ödman-Govender"
-			}
+			"Carolina Ödman-Govender"
 		],
 		"date": "2013-05-07",
 		"startInt": 675,
@@ -3697,10 +2818,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2033",
-				"#text": "Andrew Rasiej"
-			}
+			"Andrew Rasiej"
 		],
 		"date": "2013-05-07",
 		"startInt": 750,
@@ -3717,14 +2835,8 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "1477",
-				"#text": "Dieter Zetsche"
-			},
-			{
-				"id": "2310",
-				"#text": "Martin Randelhoff"
-			}
+			"Dieter Zetsche",
+			"Martin Randelhoff"
 		],
 		"date": "2013-05-07",
 		"startInt": 825,
@@ -3741,14 +2853,8 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1682",
-				"#text": "Neil Harbisson"
-			},
-			{
-				"id": "1681",
-				"#text": "Moon Ribas"
-			}
+			"Neil Harbisson",
+			"Moon Ribas"
 		],
 		"date": "2013-05-07",
 		"startInt": 900,
@@ -3765,10 +2871,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1014",
-				"#text": "Kate Darling"
-			}
+			"Kate Darling"
 		],
 		"date": "2013-05-07",
 		"startInt": 975,
@@ -3785,10 +2888,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2117",
-				"#text": "Yoani Sánchez"
-			}
+			"Yoani Sánchez"
 		],
 		"date": "2013-05-07",
 		"startInt": 1050,
@@ -3805,10 +2905,7 @@
 		"experience_level": "Beginner",
 		"type": "Aktion",
 		"persons": [
-			{
-				"id": "962",
-				"#text": "Kate Miltner"
-			}
+			"Kate Miltner"
 		],
 		"date": "2013-05-07",
 		"startInt": 1125,
@@ -3826,34 +2923,13 @@
 		"type": "Diskussion",
 		"abstract": "Wir müssen reden, über das aktuell brennende Thema: “Von Human Resources zu Human Relations – wie sieht die Arbeit der Zukunft aus?\" Und das ohne Herrenwitze und Dauermattscheibengrinsen.",
 		"persons": [
-			{
-				"id": "496",
-				"#text": "Sue Reindke"
-			},
-			{
-				"id": "2474",
-				"#text": "Joachim Hasebrook"
-			},
-			{
-				"id": "698",
-				"#text": "Teresa Bücker"
-			},
-			{
-				"id": "2485",
-				"#text": "Anke Domscheit-Berg"
-			},
-			{
-				"id": "2525",
-				"#text": "Stefan Sell"
-			},
-			{
-				"id": "2102",
-				"#text": "Anna-Mareike Krause"
-			},
-			{
-				"id": "2484",
-				"#text": "Tilo Jung"
-			}
+			"Sue Reindke",
+			"Joachim Hasebrook",
+			"Teresa Bücker",
+			"Anke Domscheit-Berg",
+			"Stefan Sell",
+			"Anna-Mareike Krause",
+			"Tilo Jung"
 		],
 		"date": "2013-05-07",
 		"startInt": 1200,
@@ -3871,26 +2947,11 @@
 		"type": "Diskussion",
 		"abstract": "Die Möglichkeiten des Crowdsourcing werden bisher im Wissenschaftsjournalismus kaum diskutiert. Kooperationen von hacks und hackers könnten neue Wege in der kritischen Berichterstattung über Wissenschaft ermöglichen...",
 		"persons": [
-			{
-				"id": "1380",
-				"#text": "Ralf Grötker"
-			},
-			{
-				"id": "95",
-				"#text": "Marco Maas"
-			},
-			{
-				"id": "1974",
-				"#text": "Nicola Kuhrt"
-			},
-			{
-				"id": "1771",
-				"#text": "Grit Kienzlen"
-			},
-			{
-				"id": "1347",
-				"#text": "Patrick Klügel"
-			}
+			"Ralf Grötker",
+			"Marco Maas",
+			"Nicola Kuhrt",
+			"Grit Kienzlen",
+			"Patrick Klügel"
 		],
 		"date": "2013-05-07",
 		"startInt": 600,
@@ -3908,22 +2969,10 @@
 		"type": "Diskussion",
 		"abstract": "Die Innovationsträgheit der großen Medienhäuser bietet unternehmerisch denkenden freien Wissenschaftsjournalisten die Chance sich (in inhaltlichen Nischen) zu profilieren und Lücken zu besetzen.",
 		"persons": [
-			{
-				"id": "168",
-				"#text": "Ulrike Langer"
-			},
-			{
-				"id": "1508",
-				"#text": "Dino Trescher"
-			},
-			{
-				"id": "1347",
-				"#text": "Patrick Klügel"
-			},
-			{
-				"id": "1684",
-				"#text": "Sebastian Turner"
-			}
+			"Ulrike Langer",
+			"Dino Trescher",
+			"Patrick Klügel",
+			"Sebastian Turner"
 		],
 		"date": "2013-05-07",
 		"startInt": 675,
@@ -3941,10 +2990,7 @@
 		"type": "Workshop",
 		"abstract": "Wir müssen das Buch neu denken. Dazu gehört die Auseinandersetzung, was das Buch eigentlich war, ist und sein kann.",
 		"persons": [
-			{
-				"id": "358",
-				"#text": "Wibke Ladwig"
-			}
+			"Wibke Ladwig"
 		],
 		"date": "2013-05-07",
 		"startInt": 750,
@@ -3962,10 +3008,7 @@
 		"type": "Vortrag",
 		"abstract": "Cookies waren gestern: Jeder Browser hinterlässt einen einzigartigen Fingerabdruck im Netz, der eine Wiedererkennung ermöglicht. Tracking im Netz lässt sich fast nicht mehr verhindern – wir müssen Datenschutzdiskussionen neu denken!",
 		"persons": [
-			{
-				"id": "94",
-				"#text": "Henning Tillmann"
-			}
+			"Henning Tillmann"
 		],
 		"date": "2013-05-07",
 		"startInt": 825,
@@ -3983,10 +3026,7 @@
 		"type": "Vortrag",
 		"abstract": "At heart the W3C DNT process is an attempt to redress the FTC's lack of mandate in the field of online privacy protection. It is also an attempt by some parts of industry to fend of stricter regulation on the US side of the Atlantic. It is also a bridgehead for lobbying in Brussels for more lax regulation than the current framework. As such this standard is almost doomed not to bring what it pretends to do: to give users safeguards against unfettered monitoring of their web browsing behaviour.",
 		"persons": [
-			{
-				"id": "154",
-				"#text": "Walter van Holst"
-			}
+			"Walter van Holst"
 		],
 		"date": "2013-05-07",
 		"startInt": 855,
@@ -4004,10 +3044,7 @@
 		"type": "Diskussion",
 		"abstract": "In der Mobilität zeichnet sich eine weitreichende Verschmelzung des Digitalen mit dem Analogen ab. Rechtzeitig erkannt wird daraus ein Feld für Kreative und Innovateure.",
 		"persons": [
-			{
-				"id": "1983",
-				"#text": "Alexander Mankowsky"
-			}
+			"Alexander Mankowsky"
 		],
 		"date": "2013-05-07",
 		"startInt": 900,
@@ -4025,18 +3062,9 @@
 		"type": "Vortrag",
 		"abstract": "Wie begeistert man Frauen mit ganz unterschiedlichem technischem Hintergrund für die App-Entwicklung? Wir Webgrrls meinen: Es kommt nicht auf das Alter oder den erlernten / studierten Beruf an. Der Spaß am gemeinsamen Lernen ist der Zaubertrank.",
 		"persons": [
-			{
-				"id": "96",
-				"#text": "Gaby Becker"
-			},
-			{
-				"id": "1187",
-				"#text": "Martina Rüdiger"
-			},
-			{
-				"id": "1294",
-				"#text": "Renate Hermanns"
-			}
+			"Gaby Becker",
+			"Martina Rüdiger",
+			"Renate Hermanns"
 		],
 		"date": "2013-05-07",
 		"startInt": 975,
@@ -4054,18 +3082,9 @@
 		"type": "Vortrag",
 		"abstract": "Damit emanzipierte Frauen nicht den Anschluss im technologischen Feld verpassen, sind zumindest rudimentäre Kenntnisse der Programmiersprachen (genau wie Fremdsprachen) notwendig. Der Zusammenschluss in einem rein weiblich besetzen Raum setzt der bislang vor allem männlich dominierten Branche eine Alternative vor und schafft sowohl im digitalen wie analogen Ansprechpartner.",
 		"persons": [
-			{
-				"id": "694",
-				"#text": "Julia Hoffmann"
-			},
-			{
-				"id": "346",
-				"#text": "Natalie Sontopski"
-			},
-			{
-				"id": "1077",
-				"#text": "theresa heilmann"
-			}
+			"Julia Hoffmann",
+			"Natalie Sontopski",
+			"theresa heilmann"
 		],
 		"date": "2013-05-07",
 		"startInt": 1005,
@@ -4083,22 +3102,10 @@
 		"type": "Diskussion",
 		"abstract": "Das lineare Fernsehprogramm ist ein Auslaufmodell? Keineswegs, denn Trends wie “Social TV” und Second-Screen-Anwendungen beweisen gerade das Gegenteil. Doch Twittern beim “Tatort” - ist das wirklich schon alles? Der SWR sagt Nein! Das Web bietet noch viel mehr Möglichkeiten für fiktionale Formate. Interaktion mit dem Nutzer und Integration ins lineare TV sind die Meilensteine für innovative Projekte, die Signale für alle Teile der Gesellschaft, auch für jüngere Zielgruppen, setzen.",
 		"persons": [
-			{
-				"id": "1637",
-				"#text": "Guido Bülow"
-			},
-			{
-				"id": "2038",
-				"#text": "Bettina Fächer"
-			},
-			{
-				"id": "2049",
-				"#text": "Alexander Maximilian Otto Serrano"
-			},
-			{
-				"id": "2468",
-				"#text": "Jürgen Ebenau"
-			}
+			"Guido Bülow",
+			"Bettina Fächer",
+			"Alexander Maximilian Otto Serrano",
+			"Jürgen Ebenau"
 		],
 		"date": "2013-05-07",
 		"startInt": 1050,
@@ -4115,30 +3122,12 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "1564",
-				"#text": "Sandra Schüssel"
-			},
-			{
-				"id": "1562",
-				"#text": "Daniela Geyer"
-			},
-			{
-				"id": "2091",
-				"#text": "Linda Steglich"
-			},
-			{
-				"id": "2093",
-				"#text": "Tobias Proksch"
-			},
-			{
-				"id": "2417",
-				"#text": "Ralf Biesemeier"
-			},
-			{
-				"id": "2413",
-				"#text": "Henrik Berggren"
-			}
+			"Sandra Schüssel",
+			"Daniela Geyer",
+			"Linda Steglich",
+			"Tobias Proksch",
+			"Ralf Biesemeier",
+			"Henrik Berggren"
 		],
 		"date": "2013-05-07",
 		"startInt": 1125,
@@ -4155,10 +3144,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1773",
-				"#text": "Catherine Barba"
-			}
+			"Catherine Barba"
 		],
 		"date": "2013-05-07",
 		"startInt": 630,
@@ -4176,26 +3162,11 @@
 		"type": "Diskussion",
 		"abstract": "Impact Investing can create the future Economy, and you can contribute to it.",
 		"persons": [
-			{
-				"id": "1324",
-				"#text": "Mariana Bozesan"
-			},
-			{
-				"id": "1073",
-				"#text": "Maximilian Martin"
-			},
-			{
-				"id": "1098",
-				"#text": "Ben White"
-			},
-			{
-				"id": "1075",
-				"#text": "Andrea Kolb"
-			},
-			{
-				"id": "671",
-				"#text": "Ulf Brandes"
-			}
+			"Mariana Bozesan",
+			"Maximilian Martin",
+			"Ben White",
+			"Andrea Kolb",
+			"Ulf Brandes"
 		],
 		"date": "2013-05-07",
 		"startInt": 675,
@@ -4212,14 +3183,8 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1762",
-				"#text": "Will Mutua"
-			},
-			{
-				"id": "1775",
-				"#text": "Mark Kaigwa"
-			}
+			"Will Mutua",
+			"Mark Kaigwa"
 		],
 		"date": "2013-05-07",
 		"startInt": 750,
@@ -4237,38 +3202,14 @@
 		"type": "Vortrag",
 		"abstract": "Unter dem Label get re:ady! bündeln wir alle unsere Aktivitäten rund um Gründerthemen und Entrepreneurship. Vom GründerInnen mit ersten Geschäftsideen über erfahrene UnternehmerInnen bis hin zum Venture-Kapitalisten: auf der re:publica kommen sie zusammen.",
 		"persons": [
-			{
-				"id": "2097",
-				"#text": "Katja Andes"
-			},
-			{
-				"id": "2167",
-				"#text": "Robert Koecke"
-			},
-			{
-				"id": "2305",
-				"#text": "Holger Seim"
-			},
-			{
-				"id": "2226",
-				"#text": "Maciek Laskus"
-			},
-			{
-				"id": "1773",
-				"#text": "Catherine Barba"
-			},
-			{
-				"id": "1985",
-				"#text": "Bettina Stengel"
-			},
-			{
-				"id": "2424",
-				"#text": "Peter Borchers"
-			},
-			{
-				"id": "1745",
-				"#text": "Florian Hofmann"
-			}
+			"Katja Andes",
+			"Robert Koecke",
+			"Holger Seim",
+			"Maciek Laskus",
+			"Catherine Barba",
+			"Bettina Stengel",
+			"Peter Borchers",
+			"Florian Hofmann"
 		],
 		"date": "2013-05-07",
 		"startInt": 825,
@@ -4285,22 +3226,10 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "523",
-				"#text": "Miriam Quentin"
-			},
-			{
-				"id": "1366",
-				"#text": "Tobias Neisecke"
-			},
-			{
-				"id": "2453",
-				"#text": "Markus Müschenich"
-			},
-			{
-				"id": "2465",
-				"#text": "Sebastian Vorberg "
-			}
+			"Miriam Quentin",
+			"Tobias Neisecke",
+			"Markus Müschenich",
+			"Sebastian Vorberg "
 		],
 		"date": "2013-05-07",
 		"startInt": 900,
@@ -4317,10 +3246,7 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "1359",
-				"#text": "Nishant Shah"
-			}
+			"Nishant Shah"
 		],
 		"date": "2013-05-07",
 		"startInt": 975,
@@ -4338,10 +3264,7 @@
 		"type": "Vortrag",
 		"abstract": "DesignerInnen haben zwar so viele Möglichkeiten der Gestaltung, wie nie zuvor, sind aber gleichzeitig auch einem dichten Regelwerk ausgesetzt. Wie können wir diese Regeln für unsere Arbeit nutzen? Und wie können wir sie brechen, wenn sie uns unnütz sind?",
 		"persons": [
-			{
-				"id": "690",
-				"#text": "Magdalena Reiter"
-			}
+			"Magdalena Reiter"
 		],
 		"date": "2013-05-07",
 		"startInt": 1050,
@@ -4359,10 +3282,7 @@
 		"type": "Diskussion",
 		"abstract": "Eigentum und die Kontrolle darüber sind identitätsstiftend und daher emotional behaftet. Am Beipiel lovepicking möchte ich zeigen, wie Kunst gesellschaftliche Konventionen aufzeigen und hinterfragen kann.",
 		"persons": [
-			{
-				"id": "605",
-				"#text": "Mey Lean Kronemann"
-			}
+			"Mey Lean Kronemann"
 		],
 		"date": "2013-05-07",
 		"startInt": 1080,
@@ -4380,14 +3300,8 @@
 		"type": "Vortrag",
 		"abstract": "Der digitale Wandel wird als Bedrohung für analoge Medien empfunden. Er könnte dem Analogen jedoch ganz neue Spielräume eröffnen, in dem es sich auf seine wahren Stärken besinnen und neu erfinden kann.",
 		"persons": [
-			{
-				"id": "443",
-				"#text": "Marcel-André Casasola Merkle"
-			},
-			{
-				"id": "444",
-				"#text": "Agnes Lison"
-			}
+			"Marcel-André Casasola Merkle",
+			"Agnes Lison"
 		],
 		"date": "2013-05-07",
 		"startInt": 1125,
@@ -4405,14 +3319,8 @@
 		"type": "Aktion",
 		"abstract": "In der Wikipedia von einem Ende zum anderen zu gelangen ist möglich unterhaltsam.",
 		"persons": [
-			{
-				"id": "144",
-				"#text": "Sebastian Vollnhals"
-			},
-			{
-				"id": "1382",
-				"#text": "Julian Finn"
-			}
+			"Sebastian Vollnhals",
+			"Julian Finn"
 		],
 		"date": "2013-05-07",
 		"startInt": 1200,
@@ -4429,10 +3337,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2389",
-				"#text": "Adam Thomas"
-			}
+			"Adam Thomas"
 		],
 		"date": "2013-05-07",
 		"startInt": 630,
@@ -4449,10 +3354,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2384",
-				"#text": "Loren Treisman"
-			}
+			"Loren Treisman"
 		],
 		"date": "2013-05-07",
 		"startInt": 675,
@@ -4469,10 +3371,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2048",
-				"#text": "Michael Szymanski"
-			}
+			"Michael Szymanski"
 		],
 		"date": "2013-05-07",
 		"startInt": 705,
@@ -4489,22 +3388,10 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "1632",
-				"#text": "Oliver Petzoldt"
-			},
-			{
-				"id": "2283",
-				"#text": "Katrin Proschek"
-			},
-			{
-				"id": "2285",
-				"#text": "Jörn Schultz"
-			},
-			{
-				"id": "1449",
-				"#text": "Markos Lemma"
-			}
+			"Oliver Petzoldt",
+			"Katrin Proschek",
+			"Jörn Schultz",
+			"Markos Lemma"
 		],
 		"date": "2013-05-07",
 		"startInt": 750,
@@ -4521,10 +3408,7 @@
 		"experience_level": "Beginner",
 		"type": "Aktion",
 		"persons": [
-			{
-				"id": "1923",
-				"#text": "Jay Cousins"
-			}
+			"Jay Cousins"
 		],
 		"date": "2013-05-07",
 		"startInt": 825,
@@ -4541,14 +3425,8 @@
 		"experience_level": "Beginner",
 		"type": "Aktion",
 		"persons": [
-			{
-				"id": "1923",
-				"#text": "Jay Cousins"
-			},
-			{
-				"id": "2577",
-				"#text": "Stefania Druga"
-			}
+			"Jay Cousins",
+			"Stefania Druga"
 		],
 		"date": "2013-05-07",
 		"startInt": 855,
@@ -4565,10 +3443,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1553",
-				"#text": "Felipe Fonseca"
-			}
+			"Felipe Fonseca"
 		],
 		"date": "2013-05-07",
 		"startInt": 900,
@@ -4585,30 +3460,12 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1839",
-				"#text": "Irene Agrivina"
-			},
-			{
-				"id": "1875",
-				"#text": "Lagu Stephen Samuel"
-			},
-			{
-				"id": "1553",
-				"#text": "Felipe Fonseca"
-			},
-			{
-				"id": "1390",
-				"#text": "Anne Roth"
-			},
-			{
-				"id": "1887",
-				"#text": "Eugenio Tisselli"
-			},
-			{
-				"id": "1872",
-				"#text": "Stephen Kovats"
-			}
+			"Irene Agrivina",
+			"Lagu Stephen Samuel",
+			"Felipe Fonseca",
+			"Anne Roth",
+			"Eugenio Tisselli",
+			"Stephen Kovats"
 		],
 		"date": "2013-05-07",
 		"startInt": 975,
@@ -4625,10 +3482,7 @@
 		"experience_level": "Beginner",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "1923",
-				"#text": "Jay Cousins"
-			}
+			"Jay Cousins"
 		],
 		"date": "2013-05-07",
 		"startInt": 1050,
@@ -4645,7 +3499,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 675,
@@ -4662,7 +3516,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 750,
@@ -4679,7 +3533,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 825,
@@ -4696,7 +3550,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 900,
@@ -4714,10 +3568,7 @@
 		"type": "Vortrag",
 		"abstract": "Es braucht keine Superkräfte, um die Freiheit des Internets und die Zukunft der digitalen Gesellschaft zu verteidigen, aber es wäre so viel aufregender! Die netzpolitischen Debatten und Problemfelder in Form eines Superhelden-Comics und seinen Protagonisten zu präsentieren, popularisiert das Anliegen der Netzgemeinde für weitere Kreise der Internetnutzer und lädt damit zur Identifikation ein.",
 		"persons": [
-			{
-				"id": "534",
-				"#text": "Gregor Sedlag"
-			}
+			"Gregor Sedlag"
 		],
 		"date": "2013-05-07",
 		"startInt": 1125,
@@ -4735,10 +3586,7 @@
 		"type": "Vortrag",
 		"abstract": "Wer richtig Bratwurst essen kann, wird Kanzler.",
 		"persons": [
-			{
-				"id": "199",
-				"#text": "Constantin Alexander"
-			}
+			"Constantin Alexander"
 		],
 		"date": "2013-05-07",
 		"startInt": 1155,
@@ -4755,7 +3603,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 675,
@@ -4772,7 +3620,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 750,
@@ -4789,7 +3637,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 825,
@@ -4806,7 +3654,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 900,
@@ -4823,10 +3671,7 @@
 		"experience_level": "Beginner",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "946",
-				"#text": "Faith Bosworth "
-			}
+			"Faith Bosworth "
 		],
 		"date": "2013-05-07",
 		"startInt": 1125,
@@ -4844,10 +3689,7 @@
 		"type": "Workshop",
 		"abstract": "Was wäre wenn alle Menschen im Netz wüssten, wer ich wirklich bin? Wie abhängig wir von Selbst- und Fremddarstellung sind und warum wir selten alles preisgeben.",
 		"persons": [
-			{
-				"id": "246",
-				"#text": "Ninia Binias"
-			}
+			"Ninia Binias"
 		],
 		"date": "2013-05-07",
 		"startInt": 1155,
@@ -4864,7 +3706,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 675,
@@ -4881,7 +3723,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 750,
@@ -4898,7 +3740,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 825,
@@ -4915,7 +3757,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-07",
 		"startInt": 900,
@@ -4932,10 +3774,7 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "670",
-				"#text": "Michał Woźniak"
-			}
+			"Michał Woźniak"
 		],
 		"date": "2013-05-07",
 		"startInt": 1125,
@@ -4952,10 +3791,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1643",
-				"#text": "Ele Jansen"
-			}
+			"Ele Jansen"
 		],
 		"date": "2013-05-07",
 		"startInt": 675,
@@ -4972,10 +3808,7 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "2369",
-				"#text": "newthinking "
-			}
+			"newthinking "
 		],
 		"date": "2013-05-07",
 		"startInt": 750,
@@ -4992,10 +3825,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2369",
-				"#text": "newthinking "
-			}
+			"newthinking "
 		],
 		"date": "2013-05-07",
 		"startInt": 825,
@@ -5012,10 +3842,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2369",
-				"#text": "newthinking "
-			}
+			"newthinking "
 		],
 		"date": "2013-05-07",
 		"startInt": 900,
@@ -5033,14 +3860,8 @@
 		"type": "Aktion",
 		"abstract": "1Std Tanzen in der Mittagspause. Findet in der re:fill Bar statt!",
 		"persons": [
-			{
-				"id": "421",
-				"#text": "Inken Meyer"
-			},
-			{
-				"id": "669",
-				"#text": "Dan Weigl"
-			}
+			"Inken Meyer",
+			"Dan Weigl"
 		],
 		"date": "2013-05-07",
 		"startInt": 705,
@@ -5057,14 +3878,8 @@
 		"experience_level": "Beginner",
 		"type": "Aktion",
 		"persons": [
-			{
-				"id": "2324",
-				"#text": "Andrea Goetzke"
-			},
-			{
-				"id": "743",
-				"#text": "Eric Eitel"
-			}
+			"Andrea Goetzke",
+			"Eric Eitel"
 		],
 		"date": "2013-05-07",
 		"startInt": 1200,
@@ -5081,26 +3896,11 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "1826",
-				"#text": "Andreas Schleicher"
-			},
-			{
-				"id": "1885",
-				"#text": "Michel Schröder"
-			},
-			{
-				"id": "1378",
-				"#text": "Kevin Heidenreich"
-			},
-			{
-				"id": "2002",
-				"#text": "Ilona Bernsdorf"
-			},
-			{
-				"id": "2003",
-				"#text": "Tanja Haeusler"
-			}
+			"Andreas Schleicher",
+			"Michel Schröder",
+			"Kevin Heidenreich",
+			"Ilona Bernsdorf",
+			"Tanja Haeusler"
 		],
 		"date": "2013-05-08",
 		"startInt": 600,
@@ -5118,10 +3918,7 @@
 		"type": "Vortrag",
 		"abstract": "A fast talk through the past, present and future of CyberPunk, science fiction and popular culture and learn how Cyberpunk fiction inspired the reality of hacker culture today, why hackers are heroes, too, and how more women can be inspired to follow in the footsteps of infamous hacker ladies of fiction.",
 		"persons": [
-			{
-				"id": "1799",
-				"#text": "Keren Elazari"
-			}
+			"Keren Elazari"
 		],
 		"date": "2013-05-08",
 		"startInt": 675,
@@ -5139,10 +3936,7 @@
 		"type": "Vortrag",
 		"abstract": "To witness a new means of activism, to encourage unlikely platforms for dialogue and to critically look at our futures in times of crisis.",
 		"persons": [
-			{
-				"id": "1074",
-				"#text": "Lisa Ma"
-			}
+			"Lisa Ma"
 		],
 		"date": "2013-05-08",
 		"startInt": 750,
@@ -5159,10 +3953,7 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1727",
-				"#text": "Lothar Müller"
-			}
+			"Lothar Müller"
 		],
 		"date": "2013-05-08",
 		"startInt": 780,
@@ -5180,30 +3971,12 @@
 		"type": "Diskussion",
 		"abstract": "Sind Datenschutz und Innovationsfähigkeit im Internet ein Widerspruch?",
 		"persons": [
-			{
-				"id": "1856",
-				"#text": "Jan Philipp Albrecht"
-			},
-			{
-				"id": "2114",
-				"#text": "Paul Nemitz"
-			},
-			{
-				"id": "2286",
-				"#text": "Ninja Marnau"
-			},
-			{
-				"id": "1096",
-				"#text": "Max Schrems"
-			},
-			{
-				"id": "2010",
-				"#text": "Linnea Riensberg"
-			},
-			{
-				"id": "2553",
-				"#text": "Susanne Dehmel"
-			}
+			"Jan Philipp Albrecht",
+			"Paul Nemitz",
+			"Ninja Marnau",
+			"Max Schrems",
+			"Linnea Riensberg",
+			"Susanne Dehmel"
 		],
 		"date": "2013-05-08",
 		"startInt": 825,
@@ -5220,10 +3993,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "971",
-				"#text": "Cory Doctorow"
-			}
+			"Cory Doctorow"
 		],
 		"date": "2013-05-08",
 		"startInt": 900,
@@ -5240,10 +4010,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2101",
-				"#text": "Anne Wizorek"
-			}
+			"Anne Wizorek"
 		],
 		"date": "2013-05-08",
 		"startInt": 975,
@@ -5260,7 +4027,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-08",
 		"startInt": 1050,
@@ -5277,22 +4044,10 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "48",
-				"#text": "Johnny Haeusler"
-			},
-			{
-				"id": "2003",
-				"#text": "Tanja Haeusler"
-			},
-			{
-				"id": "46",
-				"#text": "Markus Beckedahl"
-			},
-			{
-				"id": "65",
-				"#text": "Andreas Gebhard"
-			}
+			"Johnny Haeusler",
+			"Tanja Haeusler",
+			"Markus Beckedahl",
+			"Andreas Gebhard"
 		],
 		"date": "2013-05-08",
 		"startInt": 1080,
@@ -5310,10 +4065,7 @@
 		"type": "Diskussion",
 		"abstract": "Die Netzgemeinde hat ein so komplexes und strenges Format wie eine Enzyklopädie hinbekommen, warum nicht auch Grundversorgung?",
 		"persons": [
-			{
-				"id": "569",
-				"#text": "Volker Grassmuck"
-			}
+			"Volker Grassmuck"
 		],
 		"date": "2013-05-08",
 		"startInt": 600,
@@ -5331,10 +4083,7 @@
 		"type": "Vortrag",
 		"abstract": "Selbst wenn man von dem umfassenden Auftrag einer Grundversorgung in allen Bereichen absieht und sich auf die eher subsidiären Aufgabenfelder konzentriert, wird man eine ganze Reihe von spezifischen publizistischen Aufgaben im Internet finden, die nur die Öffentlich-Rechtlichen sinnvoll übernehmen können. Jetzt kommt es darauf an, diese auch nachdrücklich einzufordern.",
 		"persons": [
-			{
-				"id": "829",
-				"#text": "Lorenz Lorenz-Meyer"
-			}
+			"Lorenz Lorenz-Meyer"
 		],
 		"date": "2013-05-08",
 		"startInt": 630,
@@ -5352,18 +4101,9 @@
 		"type": "Vortrag",
 		"abstract": "OpenData ist einfach und machbar für alle.",
 		"persons": [
-			{
-				"id": "144",
-				"#text": "Sebastian Vollnhals"
-			},
-			{
-				"id": "145",
-				"#text": "Jens Ohlig"
-			},
-			{
-				"id": "545",
-				"#text": "Michael Kreil"
-			}
+			"Sebastian Vollnhals",
+			"Jens Ohlig",
+			"Michael Kreil"
 		],
 		"date": "2013-05-08",
 		"startInt": 675,
@@ -5381,26 +4121,11 @@
 		"type": "Diskussion",
 		"abstract": "Neuartige Formen der Überwachung digitaler Geräte bedrohen die Informationsfreiheit im Internet. Häufig sind deutsche Firmen beteiligt, wenn autoritäre Regime Journalisten, Dissidenten und Aktivisten ausspionieren. Dieses Panel soll sich ebenso mit dem Status quo auseinandersetzen wie mit Möglichkeiten, den Zugang zu Überwachungstechnologien besser zu kontrollieren",
 		"persons": [
-			{
-				"id": "1832",
-				"#text": "Eric King"
-			},
-			{
-				"id": "2111",
-				"#text": "Markus Löning"
-			},
-			{
-				"id": "2026",
-				"#text": "Christian Mihr"
-			},
-			{
-				"id": "2483",
-				"#text": "Andreas Bogk"
-			},
-			{
-				"id": "1099",
-				"#text": "Geraldine de Bastion"
-			}
+			"Eric King",
+			"Markus Löning",
+			"Christian Mihr",
+			"Andreas Bogk",
+			"Geraldine de Bastion"
 		],
 		"date": "2013-05-08",
 		"startInt": 750,
@@ -5417,18 +4142,9 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1923",
-				"#text": "Jay Cousins"
-			},
-			{
-				"id": "1920",
-				"#text": "Adam Molyneux-Berry"
-			},
-			{
-				"id": "1886",
-				"#text": "Wael Fakharany"
-			}
+			"Jay Cousins",
+			"Adam Molyneux-Berry",
+			"Wael Fakharany"
 		],
 		"date": "2013-05-08",
 		"startInt": 825,
@@ -5446,10 +4162,7 @@
 		"type": "Vortrag",
 		"abstract": "Open Journalism ist ein zukunftsträchtiges Modell für modernen und offenen Journalismus, das Konsument und Journalist einander näher bringt, so dass beide Seiten davon profitieren. Allerdings trägt es das Risiko der Überarbeitung und der Arbeitszeitvernichtung mit sich und taugt auch nur bedingt für investigativen Journalismus.",
 		"persons": [
-			{
-				"id": "125",
-				"#text": "Daniel Bröckerhoff"
-			}
+			"Daniel Bröckerhoff"
 		],
 		"date": "2013-05-08",
 		"startInt": 900,
@@ -5467,14 +4180,8 @@
 		"type": "Vortrag",
 		"abstract": "\"Sorge dich nicht, zensiere!\"",
 		"persons": [
-			{
-				"id": "431",
-				"#text": "Deef Pirmasens"
-			},
-			{
-				"id": "553",
-				"#text": "Simone Stoffers"
-			}
+			"Deef Pirmasens",
+			"Simone Stoffers"
 		],
 		"date": "2013-05-08",
 		"startInt": 930,
@@ -5492,26 +4199,11 @@
 		"type": "Diskussion",
 		"abstract": "Wir wollen dem offenen Netz die Wertschätzung erweisen, die es verdient. Und wie könnte man das besser machen als durch eigene Blogs und gemeinsame Motivation! (Und Bier, aber das wäre ein Satz zuviel.)",
 		"persons": [
-			{
-				"id": "347",
-				"#text": "Nicole Ebber"
-			},
-			{
-				"id": "1065",
-				"#text": "Johannes Schleimer"
-			},
-			{
-				"id": "1083",
-				"#text": "Kathrin Kaufmann"
-			},
-			{
-				"id": "1086",
-				"#text": "Thomas Renger"
-			},
-			{
-				"id": "1413",
-				"#text": "Steffen Voß"
-			}
+			"Nicole Ebber",
+			"Johannes Schleimer",
+			"Kathrin Kaufmann",
+			"Thomas Renger",
+			"Steffen Voß"
 		],
 		"date": "2013-05-08",
 		"startInt": 975,
@@ -5529,18 +4221,9 @@
 		"type": "Diskussion",
 		"abstract": "The promise of a 3D printing revolution has to be proved. To make it a revolution, we have to deal with some uncomfortable questions first.",
 		"persons": [
-			{
-				"id": "151",
-				"#text": "Peter Troxler"
-			},
-			{
-				"id": "1864",
-				"#text": "Philip Steffan"
-			},
-			{
-				"id": "1371",
-				"#text": "Marlene Vogel"
-			}
+			"Peter Troxler",
+			"Philip Steffan",
+			"Marlene Vogel"
 		],
 		"date": "2013-05-08",
 		"startInt": 600,
@@ -5557,18 +4240,9 @@
 		"experience_level": "Fortgeschrittene",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "2032",
-				"#text": "Ravish Kumar"
-			},
-			{
-				"id": "2035",
-				"#text": "Hu Yong"
-			},
-			{
-				"id": "2036",
-				"#text": "Shahidul Alam"
-			}
+			"Ravish Kumar",
+			"Hu Yong",
+			"Shahidul Alam"
 		],
 		"date": "2013-05-08",
 		"startInt": 675,
@@ -5586,10 +4260,7 @@
 		"type": "Vortrag",
 		"abstract": "Es gibt Wege die Welt zu verbessern und ich will nach intensiver Recherche mindestens 10 davon präsentieren.",
 		"persons": [
-			{
-				"id": "659",
-				"#text": "Felix Schwenzel"
-			}
+			"Felix Schwenzel"
 		],
 		"date": "2013-05-08",
 		"startInt": 750,
@@ -5607,14 +4278,8 @@
 		"type": "Vortrag",
 		"abstract": "Der – sehr deutsche – Glaube, die sozialen Netzwerke seien vor allem basisdemokratisch und friedlich, ist eine Schimäre. Aber was bedeutet das? Und vor allem: Wie schließt man Frieden im Social Web?",
 		"persons": [
-			{
-				"id": "75",
-				"#text": "Thomas Wiegold"
-			},
-			{
-				"id": "152",
-				"#text": "Sascha Stoltenow"
-			}
+			"Thomas Wiegold",
+			"Sascha Stoltenow"
 		],
 		"date": "2013-05-08",
 		"startInt": 825,
@@ -5632,14 +4297,8 @@
 		"type": "Vortrag",
 		"abstract": "Massive open online courses will disrupt higher education by putting unprecedented pressure on universities, both financially and in terms of quality (or the lack thereof). But without a clear goal for the purpose of higher education, that disruption is bound to leave a pile of educational rubble, and us none the wiser.",
 		"persons": [
-			{
-				"id": "495",
-				"#text": "Sebastian Wernicke"
-			},
-			{
-				"id": "420",
-				"#text": "Jörn Loviscach"
-			}
+			"Sebastian Wernicke",
+			"Jörn Loviscach"
 		],
 		"date": "2013-05-08",
 		"startInt": 900,
@@ -5657,10 +4316,7 @@
 		"type": "Vortrag",
 		"abstract": "There is an incredible opportunity to build new and interesting ways to learn together online. MOOCs dominate the conversation, but only scratch the surface of what is possible. Better learning will happen when more people, not just academics and universities, gets involved in building, experimenting, and innovating.",
 		"persons": [
-			{
-				"id": "942",
-				"#text": "Jan Philipp Schmidt"
-			}
+			"Jan Philipp Schmidt"
 		],
 		"date": "2013-05-08",
 		"startInt": 930,
@@ -5678,22 +4334,10 @@
 		"type": "Diskussion",
 		"abstract": "Der Weg in die digitale Nachrichtenwelt ist lang und steinig. Wie weit sind Deutschlands größte Nachrichtenportale und ihre LeserInnen?",
 		"persons": [
-			{
-				"id": "1059",
-				"#text": "Jochen Wegner"
-			},
-			{
-				"id": "1538",
-				"#text": "Stefan Plöchinger"
-			},
-			{
-				"id": "1820",
-				"#text": "Katharina Borchert"
-			},
-			{
-				"id": "1828",
-				"#text": "Friedemann Karig"
-			}
+			"Jochen Wegner",
+			"Stefan Plöchinger",
+			"Katharina Borchert",
+			"Friedemann Karig"
 		],
 		"date": "2013-05-08",
 		"startInt": 975,
@@ -5711,10 +4355,7 @@
 		"type": "Workshop",
 		"abstract": "You cannot always control what goes on outside. But you can always control what goes on inside.",
 		"persons": [
-			{
-				"id": "129",
-				"#text": "Annina Luzie Schmid"
-			}
+			"Annina Luzie Schmid"
 		],
 		"date": "2013-05-08",
 		"startInt": 600,
@@ -5731,14 +4372,8 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1757",
-				"#text": "Tina Hoffmann"
-			},
-			{
-				"id": "1761",
-				"#text": "Andreas Thies"
-			}
+			"Tina Hoffmann",
+			"Andreas Thies"
 		],
 		"date": "2013-05-08",
 		"startInt": 675,
@@ -5756,14 +4391,8 @@
 		"type": "Vortrag",
 		"abstract": "Es lohnt sich, einen Blick auf die sozialen Medien im Laufe des Bundestagswahlkampfes 2013 zu werfen. Welche Themen beschäftigen sie? Und wer erzielt besonders viel Resonanz?",
 		"persons": [
-			{
-				"id": "2008",
-				"#text": "Christian Rapp"
-			},
-			{
-				"id": "1924",
-				"#text": "Christoph Neuberger"
-			}
+			"Christian Rapp",
+			"Christoph Neuberger"
 		],
 		"date": "2013-05-08",
 		"startInt": 750,
@@ -5781,18 +4410,9 @@
 		"type": "Vortrag",
 		"abstract": "Possibilities and Impossibilities of an online/offline social network",
 		"persons": [
-			{
-				"id": "596",
-				"#text": "Andreas Unteidig"
-			},
-			{
-				"id": "597",
-				"#text": "Florian Sametinger"
-			},
-			{
-				"id": "603",
-				"#text": "Jennifer Schubert"
-			}
+			"Andreas Unteidig",
+			"Florian Sametinger",
+			"Jennifer Schubert"
 		],
 		"date": "2013-05-08",
 		"startInt": 780,
@@ -5810,10 +4430,7 @@
 		"type": "Diskussion",
 		"abstract": "Netzwerkanalyse bringt einen neuen Begriff von Öffentlichkeit hervor. Damit ändern sich auch die Agenda und die Handlungsweisen politischer Akteure.",
 		"persons": [
-			{
-				"id": "667",
-				"#text": "Stefan Heidenreich"
-			}
+			"Stefan Heidenreich"
 		],
 		"date": "2013-05-08",
 		"startInt": 825,
@@ -5831,10 +4448,7 @@
 		"type": "Diskussion",
 		"abstract": "Die Gaming-Industrie und -Szene hängen in einer pre-feministischen Epoche fest. Dieses Panel ist einer von vielen Rohrposttunneln auf dem Weg in die Gegenwart.",
 		"persons": [
-			{
-				"id": "325",
-				"#text": "Kirsten Gross"
-			}
+			"Kirsten Gross"
 		],
 		"date": "2013-05-08",
 		"startInt": 900,
@@ -5852,10 +4466,7 @@
 		"type": "Diskussion",
 		"abstract": "Eine Smart City erfordert den Einsatz neuer Technologien, welche hauptsächlich mobile und immobile Sensoren sind und die die technische Infrastruktur zukünftiger Städte darstellen. Für eine zukunftsfähige Stadtentwicklung müssen smarte Cities jedoch durch Sensoren erhobene Daten zum Nutzen der Bürger, im Sinne eines bottom-up-Prozesses, verwenden - ein Perspektivenwechsel von der Smart zur Open city ist notwendig.",
 		"persons": [
-			{
-				"id": "802",
-				"#text": "Marc Altenburg"
-			}
+			"Marc Altenburg"
 		],
 		"date": "2013-05-08",
 		"startInt": 975,
@@ -5873,14 +4484,8 @@
 		"type": "Vortrag",
 		"abstract": "Es gibt Trolle und Idioten. Die solide Dartenbasis von re:Fefe erlaubt eine trennscharfe Klassifikation.",
 		"persons": [
-			{
-				"id": "288",
-				"#text": "Linus Neumann"
-			},
-			{
-				"id": "545",
-				"#text": "Michael Kreil"
-			}
+			"Linus Neumann",
+			"Michael Kreil"
 		],
 		"date": "2013-05-08",
 		"startInt": 600,
@@ -5898,10 +4503,7 @@
 		"type": "Vortrag",
 		"abstract": "Warum es Internettrollerei gibt, dass man nichts dagegen tun kann, dass Maßnahmen gegen Internettrollerei nicht nötig sind und dass die Chancen, die das Internet liefert, nicht gut genutzt werden können, solange ständig das Gegenteil versucht wird.",
 		"persons": [
-			{
-				"id": "88",
-				"#text": "Klaus Kusanowsky"
-			}
+			"Klaus Kusanowsky"
 		],
 		"date": "2013-05-08",
 		"startInt": 630,
@@ -5919,10 +4521,7 @@
 		"type": "Vortrag",
 		"abstract": "Ohne ein persönliches Lernnetzwerk bleibt man in Zukunft Analphabet.",
 		"persons": [
-			{
-				"id": "213",
-				"#text": "Lisa Rosa"
-			}
+			"Lisa Rosa"
 		],
 		"date": "2013-05-08",
 		"startInt": 675,
@@ -5940,10 +4539,7 @@
 		"type": "Vortrag",
 		"abstract": "Der digitale Wandel hat uns grandiose Chancen für selbstbestimmtes, kreatives, kollaboratives, kritisches und demokratisches Lernen gebracht. Wir haben sie nicht genutzt.",
 		"persons": [
-			{
-				"id": "977",
-				"#text": "Jöran Muuß-Merholz"
-			}
+			"Jöran Muuß-Merholz"
 		],
 		"date": "2013-05-08",
 		"startInt": 705,
@@ -5961,14 +4557,8 @@
 		"type": "Vortrag",
 		"abstract": "Medienkompetenz gehört auf den Lehrplan! – Gehört Medienkompetenz auf den Lehrplan?",
 		"persons": [
-			{
-				"id": "826",
-				"#text": "Ute Pannen"
-			},
-			{
-				"id": "1885",
-				"#text": "Michel Schröder"
-			}
+			"Ute Pannen",
+			"Michel Schröder"
 		],
 		"date": "2013-05-08",
 		"startInt": 750,
@@ -5986,14 +4576,8 @@
 		"type": "Vortrag",
 		"abstract": "Welche Fertigkeiten benötige ich, um im 21. Jahrhundert beruflich erfolgreich zu sein? Wie erlange ich diese Fertigkeiten, die bisher kaum in der Ausbildung berücksichtigt wurden? Um diesen Fragen auf den Grund zu gehen, geben wir auf der re:publica zwei unterschiedlichen Organisationen die Möglichkeit, in 2 Kurzpräsentationen ihre Anliegen \"Digitale Nachhilfe für Azubis und Meister\" sowie auf der anderen Seite \"Nachwuchsförderung in der IT-Branche\" vorzustellen.",
 		"persons": [
-			{
-				"id": "1378",
-				"#text": "Kevin Heidenreich"
-			},
-			{
-				"id": "2000",
-				"#text": "Dirk Primbs"
-			}
+			"Kevin Heidenreich",
+			"Dirk Primbs"
 		],
 		"date": "2013-05-08",
 		"startInt": 780,
@@ -6011,10 +4595,7 @@
 		"type": "Vortrag",
 		"abstract": "Süd-Korea hat gezeigt, wie man durch den Ausbau der digitalen Infrastruktur und einen anderen Umgang mit kulturellen Inhalten einen digitalen Wandel herbeiführen kann. Dieses Modell kann - unter Berücksichtigung der positiven und negativen Konsequenzen - als Vorbild für den deutschen Kultur- und Bildungssektor dienen.",
 		"persons": [
-			{
-				"id": "637",
-				"#text": "Christoph Deeg"
-			}
+			"Christoph Deeg"
 		],
 		"date": "2013-05-08",
 		"startInt": 825,
@@ -6032,26 +4613,11 @@
 		"type": "Vortrag",
 		"abstract": "Nachdem Medienkompetenz längst nicht nur die – wenn auch kritische – Integration von neuen Medien in den Alltag meint, sondern längst auch deren Implementierung in Bildungsprozesse, sind eine Menge spannender Praxisprototypen dabei herausgekommen. Wir stellen 3 Best-Practice-Projekte vor:",
 		"persons": [
-			{
-				"id": "182",
-				"#text": "Angelika Beranek"
-			},
-			{
-				"id": "591",
-				"#text": "Andrea Scheer"
-			},
-			{
-				"id": "340",
-				"#text": "Guido Brombach"
-			},
-			{
-				"id": "387",
-				"#text": "Beate Kremser"
-			},
-			{
-				"id": "1479",
-				"#text": "Elias Barrasch"
-			}
+			"Angelika Beranek",
+			"Andrea Scheer",
+			"Guido Brombach",
+			"Beate Kremser",
+			"Elias Barrasch"
 		],
 		"date": "2013-05-08",
 		"startInt": 855,
@@ -6069,14 +4635,8 @@
 		"type": "Vortrag",
 		"abstract": "Crowdsourcing öffnet die Unternehmensgrenzen und stellt ist eine neue Form der Arbeitsteilung in der Kreativarbeit dar. Dies stellt eine Herausforderungen für die KreativarbeiterInnen - also sowohl für die MitarbeiterInnen innerhalb von Unternehmen, als auch für die Individuen in der Crowd dar.",
 		"persons": [
-			{
-				"id": "409",
-				"#text": "Thomas Gegenhuber"
-			},
-			{
-				"id": "1082",
-				"#text": "Robert Bauer"
-			}
+			"Thomas Gegenhuber",
+			"Robert Bauer"
 		],
 		"date": "2013-05-08",
 		"startInt": 900,
@@ -6094,18 +4654,9 @@
 		"type": "Vortrag",
 		"abstract": "1. “Echte” MOOCs sind kein festes Format, das sich übernehmen und kopieren ließe, sondern müssen frei (open!) weiterentwickelt werden. 2. Veranstalter/innen von MOOCs leben das Konzept von “open” - oder sie scheitern.",
 		"persons": [
-			{
-				"id": "156",
-				"#text": "Dörte Giebel"
-			},
-			{
-				"id": "150",
-				"#text": "Monika E. König"
-			},
-			{
-				"id": "1398",
-				"#text": "Heinz Wittenbrink"
-			}
+			"Dörte Giebel",
+			"Monika E. König",
+			"Heinz Wittenbrink"
 		],
 		"date": "2013-05-08",
 		"startInt": 975,
@@ -6123,26 +4674,11 @@
 		"type": "Diskussion",
 		"abstract": "Challenges to human rights online are rapidly evolving very rapidly, emergency situations pose a particular challenge to the digital rights community. How do you support people in emergency situations swiftly and effectively when struggling to balance institutional capacity of emergency response with digital know how?",
 		"persons": [
-			{
-				"id": "1350",
-				"#text": "Ben Wagner"
-			},
-			{
-				"id": "1590",
-				"#text": "Fieke Jansen"
-			},
-			{
-				"id": "561",
-				"#text": "Jillian York"
-			},
-			{
-				"id": "1929",
-				"#text": "Stephanie Hankey"
-			},
-			{
-				"id": "1546",
-				"#text": "Claudio Guarnieri"
-			}
+			"Ben Wagner",
+			"Fieke Jansen",
+			"Jillian York",
+			"Stephanie Hankey",
+			"Claudio Guarnieri"
 		],
 		"date": "2013-05-08",
 		"startInt": 600,
@@ -6160,14 +4696,8 @@
 		"type": "Diskussion",
 		"abstract": "Weil wir der Bedeutung des Urheberrechts so eine große Bedeutung beimessen, unterschätzen wir die Macht informeller Normen in der Regulierung von Informations- und Kulturgütern.",
 		"persons": [
-			{
-				"id": "559",
-				"#text": "Jeanette Hofmann"
-			},
-			{
-				"id": "1072",
-				"#text": "Christian Katzenbach"
-			}
+			"Jeanette Hofmann",
+			"Christian Katzenbach"
 		],
 		"date": "2013-05-08",
 		"startInt": 675,
@@ -6185,18 +4715,9 @@
 		"type": "Diskussion",
 		"abstract": "Die rigorose Durchsetzung von Urheberrechten zum Schutz veralteter Informationsdistributionskanäle steht der Netzkultur und dem ihr systemimmanenten Sharing diametral gegenüber. Das Ziel muss der Schutz neuer Kulturtechniken sein.",
 		"persons": [
-			{
-				"id": "184",
-				"#text": "René Walter"
-			},
-			{
-				"id": "720",
-				"#text": "Ronny Kraak"
-			},
-			{
-				"id": "1815",
-				"#text": "Valie Djordjevic"
-			}
+			"René Walter",
+			"Ronny Kraak",
+			"Valie Djordjevic"
 		],
 		"date": "2013-05-08",
 		"startInt": 705,
@@ -6214,10 +4735,7 @@
 		"type": "Vortrag",
 		"abstract": "Jedes Jahr werden in Deutschland mehrere Hunderttausend kostenpflichtige Abmahnungen an Internetnutzer und Website-Betreiber verschickt. Doch was genau ist der juristische Hintergrund dieser Schreiben und warum funktioniert dieses System gerade im Internet über so viele Jahre so ungestört? Vor allem stellt sich aber die Frage: Welche politischen Maßnahmen müssen ergriffen werden, um dieser rechtlichen Landplage Einhalt zu gebieten? Helfen die derzeit diskutierten Änderungen?",
 		"persons": [
-			{
-				"id": "415",
-				"#text": "Joerg Heidrich"
-			}
+			"Joerg Heidrich"
 		],
 		"date": "2013-05-08",
 		"startInt": 750,
@@ -6235,10 +4753,7 @@
 		"type": "Vortrag",
 		"abstract": "Nach langer Suche haben wir den letzten Ort im Urheberrecht gefunden, der sich zur Zufriedenheit aller reformieren lässt: Wir machen einen Vorschlag, mehr staatliche Werke als bisher vom urheberrechtlichen Schutz auszunehmen und alle können damit glücklich sein.",
 		"persons": [
-			{
-				"id": "695",
-				"#text": "Mathias Schindler"
-			}
+			"Mathias Schindler"
 		],
 		"date": "2013-05-08",
 		"startInt": 780,
@@ -6255,14 +4770,8 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "960",
-				"#text": "Ellery Roberts Biddle"
-			},
-			{
-				"id": "966",
-				"#text": "Hisham Almiraat"
-			}
+			"Ellery Roberts Biddle",
+			"Hisham Almiraat"
 		],
 		"date": "2013-05-08",
 		"startInt": 825,
@@ -6280,14 +4789,8 @@
 		"type": "Vortrag",
 		"abstract": "Internet-Meme sind Populär-Kultur unter Bedingungen des Netzes. Wir betrachten ihre Geschichte, bewerten den aktuellen Forschungsstand und diskutieren Kontroversen wie z.B. ihre politische Instrumentalisierbarkeit.",
 		"persons": [
-			{
-				"id": "572",
-				"#text": "Christian Heller"
-			},
-			{
-				"id": "1088",
-				"#text": "Snibeti Snab"
-			}
+			"Christian Heller",
+			"Snibeti Snab"
 		],
 		"date": "2013-05-08",
 		"startInt": 900,
@@ -6305,10 +4808,7 @@
 		"type": "Vortrag",
 		"abstract": "In an increasingly digital world we are becoming fictional characters in other people's stories and legislation is not the solution for the privacy debate.",
 		"persons": [
-			{
-				"id": "263",
-				"#text": "Marcus Brown"
-			}
+			"Marcus Brown"
 		],
 		"date": "2013-05-08",
 		"startInt": 930,
@@ -6326,10 +4826,7 @@
 		"type": "Vortrag",
 		"abstract": "Die E-Zigarette stellt erstmals eine gesündere und zeitgemäße Alternative für Nikotinabhängige dar, bietet nerdigen Spaß und wurde erstaunlich hart durch Desinformation von Stellen von denen man es nicht erwartete bekämpft, während die Innovation Purzelbäume schlägt.",
 		"persons": [
-			{
-				"id": "73",
-				"#text": "Thomas Andrezak"
-			}
+			"Thomas Andrezak"
 		],
 		"date": "2013-05-08",
 		"startInt": 975,
@@ -6347,10 +4844,7 @@
 		"type": "Vortrag",
 		"abstract": "Wir können in der virtuellen Welt alles tun, aber unseren Körper können wir nicht austricksen.",
 		"persons": [
-			{
-				"id": "598",
-				"#text": "Matthias Bauer"
-			}
+			"Matthias Bauer"
 		],
 		"date": "2013-05-08",
 		"startInt": 1005,
@@ -6367,7 +4861,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{}
+			null
 		],
 		"date": "2013-05-08",
 		"startInt": 600,
@@ -6384,10 +4878,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1422",
-				"#text": "Jay Fajardo"
-			}
+			"Jay Fajardo"
 		],
 		"date": "2013-05-08",
 		"startInt": 675,
@@ -6404,10 +4895,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1918",
-				"#text": "Johnpaul Barretto"
-			}
+			"Johnpaul Barretto"
 		],
 		"date": "2013-05-08",
 		"startInt": 825,
@@ -6424,10 +4912,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1703",
-				"#text": "Joeri Poesen"
-			}
+			"Joeri Poesen"
 		],
 		"date": "2013-05-08",
 		"startInt": 855,
@@ -6444,14 +4929,8 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "1433",
-				"#text": "Erik Hersman"
-			},
-			{
-				"id": "2174",
-				"#text": "James Clardy"
-			}
+			"Erik Hersman",
+			"James Clardy"
 		],
 		"date": "2013-05-08",
 		"startInt": 900,
@@ -6468,10 +4947,7 @@
 		"experience_level": "Beginner",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "1923",
-				"#text": "Jay Cousins"
-			}
+			"Jay Cousins"
 		],
 		"date": "2013-05-08",
 		"startInt": 975,
@@ -6489,14 +4965,8 @@
 		"type": "Workshop",
 		"abstract": "Situation-centered information relationships are playing the key role for the inevitable professionalisation process in the cross-sectional creative community building.",
 		"persons": [
-			{
-				"id": "733",
-				"#text": "Claudia Kefer"
-			},
-			{
-				"id": "740",
-				"#text": "Björn Weigelt"
-			}
+			"Claudia Kefer",
+			"Björn Weigelt"
 		],
 		"date": "2013-05-08",
 		"startInt": 600,
@@ -6514,10 +4984,7 @@
 		"type": "Vortrag",
 		"abstract": "Wenn wir es nicht schaffen, die Vorratsdatenspeicherung von Fluggastdaten zu verhindern droht die Total-Überwachung des Reiseverkehrs.",
 		"persons": [
-			{
-				"id": "338",
-				"#text": "Alexander Sander"
-			}
+			"Alexander Sander"
 		],
 		"date": "2013-05-08",
 		"startInt": 675,
@@ -6534,10 +5001,7 @@
 		"experience_level": "Beginner",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "1096",
-				"#text": "Max Schrems"
-			}
+			"Max Schrems"
 		],
 		"date": "2013-05-08",
 		"startInt": 705,
@@ -6555,10 +5019,7 @@
 		"type": "Workshop",
 		"abstract": "Elektronik-Bastel-Workshop für Einsteiger und Kinder ab 8 Jahren. Löten nicht erforderlich.",
 		"persons": [
-			{
-				"id": "605",
-				"#text": "Mey Lean Kronemann"
-			}
+			"Mey Lean Kronemann"
 		],
 		"date": "2013-05-08",
 		"startInt": 825,
@@ -6576,10 +5037,7 @@
 		"type": "Vortrag",
 		"abstract": "Wir wollen mit analogen Gesellschaftsspielen zukünftige Facetten digitaler Medienkultur vorwegnehmen und alternative Gesellschaftsentwürfe \"erspielen\". Was wie ein Widerspruch klingt, ist durchaus Programm: An der Schnittstelle von Spekulation, Spieldesign und Experimentalforschung suchen wir nach Fragen und Antworten in Bezug auf die Wechselwirkungen von sozialem und medientechnologischem Wandel. Im Anschluss laden wir mit dem analogen Datenpass zum Realexperiment ein.",
 		"persons": [
-			{
-				"id": "105",
-				"#text": "Daniela Kuka"
-			}
+			"Daniela Kuka"
 		],
 		"date": "2013-05-08",
 		"startInt": 900,
@@ -6597,14 +5055,8 @@
 		"type": "Workshop",
 		"abstract": "Through the artistic work of plan b, who collect every journey they make outside with GPS, issues increasingly affecting us all such as the amount of data we generate and how one might manage this as well as issues of memory, privacy, surveillance, the uses and abuses of technology are illustrated in light of their collaboration with the technologists Argeo and avp::ptr.",
 		"persons": [
-			{
-				"id": "382",
-				"#text": "Daniel Belasco Rogers"
-			},
-			{
-				"id": "2229",
-				"#text": "Sophia New"
-			}
+			"Daniel Belasco Rogers",
+			"Sophia New"
 		],
 		"date": "2013-05-08",
 		"startInt": 975,
@@ -6622,14 +5074,8 @@
 		"type": "Workshop",
 		"abstract": "Datenanalyse und Statistik wurde lange genug in Hinterzimmern und akademischen Elfenbeintürmen betrieben. Es ist höchste Zeit, die Methoden und Techniken auf die Straße zu bringen und damit Gutes zu tun.",
 		"persons": [
-			{
-				"id": "666",
-				"#text": "Benedikt Köhler"
-			},
-			{
-				"id": "241",
-				"#text": "Joerg Blumtritt"
-			}
+			"Benedikt Köhler",
+			"Joerg Blumtritt"
 		],
 		"date": "2013-05-08",
 		"startInt": 600,
@@ -6646,10 +5092,7 @@
 		"experience_level": "Experten",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "1640",
-				"#text": "Sergi Martinez"
-			}
+			"Sergi Martinez"
 		],
 		"date": "2013-05-08",
 		"startInt": 750,
@@ -6667,10 +5110,7 @@
 		"type": "Workshop",
 		"abstract": "Open Innovation is a new emerging theme for governments, the added value created by open data, crowdsourcing, ecosystems with app developers can be demonstrated now after 2 years of experimentation. A time for breakthrough in city governance.",
 		"persons": [
-			{
-				"id": "1641",
-				"#text": "Katalin Gallyas"
-			}
+			"Katalin Gallyas"
 		],
 		"date": "2013-05-08",
 		"startInt": 825,
@@ -6688,10 +5128,7 @@
 		"type": "Workshop",
 		"abstract": "According to my hypothesis, the politically engaged russian developers are “translating” public demands into a technical language finding an immediate technical solution based on the capacity of users to create and share content, stay vigilant and control the functionning of public domain. Inspired by the concept of technical democracy of Michel Callon and influenced by the pragmatist philosophical tradition of John Dewey, I am trying to understand how these new technical devices transform the traditional forms of public participation and restructure official public services. I consider the interactive format of this presentation very important because it corresponds to the atmosphere in which the applications are created, the collective creative work of \"problem definition\" and collaborative research of technical solutions of societal challenges.",
 		"persons": [
-			{
-				"id": "766",
-				"#text": "Ksenia Ermoshina"
-			}
+			"Ksenia Ermoshina"
 		],
 		"date": "2013-05-08",
 		"startInt": 855,
@@ -6709,18 +5146,9 @@
 		"type": "Diskussion",
 		"abstract": "Das Informationsfreiheitsgesetz kann für Blogger ein wichtiges Instrument für die Recherche sein, weil es im Gegensatz zu presserechtlichen Informationsansprüchen jedermann offensteht.",
 		"persons": [
-			{
-				"id": "547",
-				"#text": "Stefan Wehrmeyer"
-			},
-			{
-				"id": "760",
-				"#text": "Ansgar Koreng"
-			},
-			{
-				"id": "707",
-				"#text": "Michael Hörz"
-			}
+			"Stefan Wehrmeyer",
+			"Ansgar Koreng",
+			"Michael Hörz"
 		],
 		"date": "2013-05-08",
 		"startInt": 900,
@@ -6738,14 +5166,8 @@
 		"type": "Diskussion",
 		"abstract": "Liquid Democracy - ein Experiment in Basisdemokratie: Versuch macht klug. Noch ein Versuch macht klüger.",
 		"persons": [
-			{
-				"id": "372",
-				"#text": "Djure Meinen"
-			},
-			{
-				"id": "241",
-				"#text": "Joerg Blumtritt"
-			}
+			"Djure Meinen",
+			"Joerg Blumtritt"
 		],
 		"date": "2013-05-08",
 		"startInt": 975,
@@ -6763,10 +5185,7 @@
 		"type": "Vortrag",
 		"abstract": "Überall wollen Bürger mehr Transparenz, auch bei sich zuhause in der Lokalpolitik. In vielen Städten fehlt - zumindest auf technischer Ebene - nicht viel, um dem Wunsch der Bürger deutlich näher zu kommen. Mit Open Data als Trendthema, das allmählich auch die Kommunen erreicht, ist der Zeitpunkt günstig, um die Gesellschaft ein Stück weit in die richtige Richtung zu hacken.",
 		"persons": [
-			{
-				"id": "183",
-				"#text": "Marian Steinbach"
-			}
+			"Marian Steinbach"
 		],
 		"date": "2013-05-08",
 		"startInt": 1005,
@@ -6784,30 +5203,12 @@
 		"type": "Diskussion",
 		"abstract": "Der inflationäre Einsatz von Petitionen schwächt das Protestinstrument.",
 		"persons": [
-			{
-				"id": "1674",
-				"#text": "Marco Vollmar"
-			},
-			{
-				"id": "1794",
-				"#text": "Judith Orland"
-			},
-			{
-				"id": "1825",
-				"#text": "Kathrin Voss"
-			},
-			{
-				"id": "1822",
-				"#text": "Felix Kolb"
-			},
-			{
-				"id": "1876",
-				"#text": "Markus Winkler"
-			},
-			{
-				"id": "2052",
-				"#text": "Annett Meiritz"
-			}
+			"Marco Vollmar",
+			"Judith Orland",
+			"Kathrin Voss",
+			"Felix Kolb",
+			"Markus Winkler",
+			"Annett Meiritz"
 		],
 		"date": "2013-05-08",
 		"startInt": 600,
@@ -6824,10 +5225,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2190",
-				"#text": "Esteve Almirall"
-			}
+			"Esteve Almirall"
 		],
 		"date": "2013-05-08",
 		"startInt": 675,
@@ -6845,10 +5243,7 @@
 		"type": "Vortrag",
 		"abstract": "Presenting the new Open Cities App Challenge.",
 		"persons": [
-			{
-				"id": "1620",
-				"#text": "Carles Ferreiro"
-			}
+			"Carles Ferreiro"
 		],
 		"date": "2013-05-08",
 		"startInt": 705,
@@ -6866,10 +5261,7 @@
 		"type": "Vortrag",
 		"abstract": "I don't think that a world where most of the personal data of the world is stored on servers of a hand full companies is a good one. ownCloud is a free software project that offers a decentralized alternative to proprietary cloud services where everybody can run an own cloud service comparable with Dropbox but on own hardware and with full control.",
 		"persons": [
-			{
-				"id": "490",
-				"#text": "Frank Karlitschek"
-			}
+			"Frank Karlitschek"
 		],
 		"date": "2013-05-08",
 		"startInt": 750,
@@ -6886,10 +5278,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "947",
-				"#text": "Nick Jennings"
-			}
+			"Nick Jennings"
 		],
 		"date": "2013-05-08",
 		"startInt": 780,
@@ -6907,14 +5296,8 @@
 		"type": "Vortrag",
 		"abstract": "Das Netz erfordert ein formal angepasstes Schreiben.",
 		"persons": [
-			{
-				"id": "371",
-				"#text": "Frederic Valin"
-			},
-			{
-				"id": "583",
-				"#text": "Jan-Uwe Fitz"
-			}
+			"Frederic Valin",
+			"Jan-Uwe Fitz"
 		],
 		"date": "2013-05-08",
 		"startInt": 825,
@@ -6932,14 +5315,8 @@
 		"type": "Aktion",
 		"abstract": "Wie die darstellende Kunst die sozialen Medien umarmen könnte: Theater sucht immer den Austausch, aber der Austausch weiß noch nicht so genau. Instant feedback könnte ein Weg sein einfache und ehrliche Austauschskultur in der Theaterpraxis zu etablieren.",
 		"persons": [
-			{
-				"id": "798",
-				"#text": "Jeannette Gusko"
-			},
-			{
-				"id": "1106",
-				"#text": "Bianca Praetorius"
-			}
+			"Jeannette Gusko",
+			"Bianca Praetorius"
 		],
 		"date": "2013-05-08",
 		"startInt": 900,
@@ -6957,10 +5334,7 @@
 		"type": "Vortrag",
 		"abstract": "Ärzte googeln, lesen Blogs und Wikipedia. Wenn sie konkrete Fragen zu einem Behandlungsfall stellen wollen, wählen sie kleine und abgeschlossene Netzwerke wie Mailing-Listen. Die großen kommerziellen Communitys und die mit Qualitätssiegeln geschmücken Verzeichnisse werden von Ärzten mit vielen Patientinnen kaum verwendet.",
 		"persons": [
-			{
-				"id": "438",
-				"#text": "Thomas Schmidt"
-			}
+			"Thomas Schmidt"
 		],
 		"date": "2013-05-08",
 		"startInt": 630,
@@ -6978,10 +5352,7 @@
 		"type": "Vortrag",
 		"abstract": "Unabhängig vom deutschen Gesundheitssystem entstehen digitale Innovationspfade für chronisch Kranke, welche großes Potential haben die medizinische Versorgung zu verbessern.",
 		"persons": [
-			{
-				"id": "1386",
-				"#text": "Alexander Schachinger"
-			}
+			"Alexander Schachinger"
 		],
 		"date": "2013-05-08",
 		"startInt": 675,
@@ -6999,14 +5370,8 @@
 		"type": "Vortrag",
 		"abstract": "Neue Geschäftsmodelle, feste Partnerschaften und Vernetzung zwischen Ärzten, Patienten und Industrie: Die Personalisierte Medizin ist eine der bedeutendsten Innovationen im Gesundheitsmarkt und ermöglicht eine Verbesserung von Diagnostik und Therapie. Doch sie erfordert die Entwicklung neuer Geschäftsmodelle und fester Partnerschaften zwischen bisher nur lose verbundenen Akteuren im Gesundheitswesen. Patienten, Ärzte, Pharmaindustrie und Diagnostikunternehmen müssen sich vernetzen, um neue Geschäftsmodelle zu realisieren.",
 		"persons": [
-			{
-				"id": "1517",
-				"#text": "Nicole Ambacher"
-			},
-			{
-				"id": "1516",
-				"#text": "Daniel Knapp"
-			}
+			"Nicole Ambacher",
+			"Daniel Knapp"
 		],
 		"date": "2013-05-08",
 		"startInt": 705,
@@ -7024,10 +5389,7 @@
 		"type": "Workshop",
 		"abstract": "Gesundheitstools im Netz helfen aber nur bei gezielter Anwendung. Internet-Gesundheitskompetenz muss bei den Anwendern_innen vorhanden sein oder entsprechend gefördert werden. Diese Kompetenzen sind gut gebildeten, sozial besser gestellten Schichten vorbehalten.",
 		"persons": [
-			{
-				"id": "451",
-				"#text": "Kai Sostmann"
-			}
+			"Kai Sostmann"
 		],
 		"date": "2013-05-08",
 		"startInt": 750,
@@ -7044,14 +5406,8 @@
 		"experience_level": "Beginner",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "1390",
-				"#text": "Anne Roth"
-			},
-			{
-				"id": "1929",
-				"#text": "Stephanie Hankey"
-			}
+			"Anne Roth",
+			"Stephanie Hankey"
 		],
 		"date": "2013-05-08",
 		"startInt": 825,
@@ -7069,26 +5425,11 @@
 		"type": "Diskussion",
 		"abstract": "Dass es eine Konkurrenz freier und unfreier Inhalte im Netz und außerhalb gibt, ist klar. Unklar ist, für wen die freien Inhalte jeweils Fluch oder Segen sind.",
 		"persons": [
-			{
-				"id": "562",
-				"#text": "John H. Weitzmann"
-			},
-			{
-				"id": "2367",
-				"#text": "Luci van Org"
-			},
-			{
-				"id": "2373",
-				"#text": "Volker Tripp"
-			},
-			{
-				"id": "608",
-				"#text": "Marco Trovatello"
-			},
-			{
-				"id": "2431",
-				"#text": "Ellen Vorac"
-			}
+			"John H. Weitzmann",
+			"Luci van Org",
+			"Volker Tripp",
+			"Marco Trovatello",
+			"Ellen Vorac"
 		],
 		"date": "2013-05-08",
 		"startInt": 630,
@@ -7105,22 +5446,10 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "166",
-				"#text": "Wolfgang Spreicer"
-			},
-			{
-				"id": "295",
-				"#text": "Arabella Niederberger"
-			},
-			{
-				"id": "579",
-				"#text": "Andi Weiland"
-			},
-			{
-				"id": "2478",
-				"#text": "Holger Niederberger"
-			}
+			"Wolfgang Spreicer",
+			"Arabella Niederberger",
+			"Andi Weiland",
+			"Holger Niederberger"
 		],
 		"date": "2013-05-08",
 		"startInt": 675,
@@ -7138,26 +5467,11 @@
 		"type": "Diskussion",
 		"abstract": "Menschen mit Behinderungen werden in den Medien immer noch unterschiedlich dargestellt. Während sie im Ausland den Einzug in Nachrichten und Serien halten, werden sie in Deutschland noch selten in popkulturellen Formaten bedacht.",
 		"persons": [
-			{
-				"id": "1344",
-				"#text": "Raul Krauthausen"
-			},
-			{
-				"id": "1070",
-				"#text": "Lilian Masuhr"
-			},
-			{
-				"id": "246",
-				"#text": "Ninia Binias"
-			},
-			{
-				"id": "1944",
-				"#text": "Martin Fromme"
-			},
-			{
-				"id": "1939",
-				"#text": "Erwin Aljukic"
-			}
+			"Raul Krauthausen",
+			"Lilian Masuhr",
+			"Ninia Binias",
+			"Martin Fromme",
+			"Erwin Aljukic"
 		],
 		"date": "2013-05-08",
 		"startInt": 750,
@@ -7175,10 +5489,7 @@
 		"type": "Vortrag",
 		"abstract": "Das Leistungsschutzrecht für Presseverlage einfach als das Resultat erfolgreicher politischer Einflussnahme abzustempeln hilft wenig, zu verstehen, wie es auf die Agenda des Gesetzgebers gelangen konnte. Dies kann nur eine Rekonstruktion der Themenkarriere leisten, die hier unternommen wird.",
 		"persons": [
-			{
-				"id": "687",
-				"#text": "Christopher Buschow"
-			}
+			"Christopher Buschow"
 		],
 		"date": "2013-05-08",
 		"startInt": 825,
@@ -7196,18 +5507,9 @@
 		"type": "Vortrag",
 		"abstract": "Rotation Curation ist eine einzigartige Kulturbewegung auf Twitter, die Menschen weltweit zu bestimmten Themen, Orten oder Ländern verbindet. Jeder sollte einmal eine Woche ein Kurator sein, es ist eine wunderbare Erfahrung und man lernt wieder völlig neue Twitteraccounts weltweit kennen.",
 		"persons": [
-			{
-				"id": "375",
-				"#text": "Romy Mlinzk"
-			},
-			{
-				"id": "1478",
-				"#text": "Carolin Hinz"
-			},
-			{
-				"id": "1768",
-				"#text": "Alexander M. Turek"
-			}
+			"Romy Mlinzk",
+			"Carolin Hinz",
+			"Alexander M. Turek"
 		],
 		"date": "2013-05-08",
 		"startInt": 855,
@@ -7225,14 +5527,8 @@
 		"type": "Workshop",
 		"abstract": "Cities get increasingly instrumented, notionally to improve quality of live. But these definitions of Quality of Life do not necessarily correspond with how people actually live them. This workshop aims to inspire participants how they could use sensors to improve the quality of urban life and create a stronger connection between Me and My City.",
 		"persons": [
-			{
-				"id": "541",
-				"#text": "Martin Spindler"
-			},
-			{
-				"id": "1094",
-				"#text": "Louisa Heinrich"
-			}
+			"Martin Spindler",
+			"Louisa Heinrich"
 		],
 		"date": "2013-05-08",
 		"startInt": 900,
@@ -7249,10 +5545,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "434",
-				"#text": "Julia Kloiber"
-			}
+			"Julia Kloiber"
 		],
 		"date": "2013-05-08",
 		"startInt": 675,
@@ -7269,10 +5562,7 @@
 		"experience_level": "Beginner",
 		"type": "Workshop",
 		"persons": [
-			{
-				"id": "2369",
-				"#text": "newthinking "
-			}
+			"newthinking "
 		],
 		"date": "2013-05-08",
 		"startInt": 750,
@@ -7289,10 +5579,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2369",
-				"#text": "newthinking "
-			}
+			"newthinking "
 		],
 		"date": "2013-05-08",
 		"startInt": 825,
@@ -7309,10 +5596,7 @@
 		"experience_level": "Beginner",
 		"type": "Vortrag",
 		"persons": [
-			{
-				"id": "2369",
-				"#text": "newthinking "
-			}
+			"newthinking "
 		],
 		"date": "2013-05-08",
 		"startInt": 900,
@@ -7329,10 +5613,7 @@
 		"experience_level": "Beginner",
 		"type": "Diskussion",
 		"persons": [
-			{
-				"id": "2369",
-				"#text": "newthinking "
-			}
+			"newthinking "
 		],
 		"date": "2013-05-08",
 		"startInt": 1005,
@@ -7349,10 +5630,7 @@
 		"experience_level": "Beginner",
 		"type": "Aktion",
 		"persons": [
-			{
-				"id": "198",
-				"#text": "Moritz Simon Geist"
-			}
+			"Moritz Simon Geist"
 		],
 		"date": "2013-05-08",
 		"startInt": 1200,
@@ -7369,10 +5647,7 @@
 		"experience_level": "Beginner",
 		"type": "Aktion",
 		"persons": [
-			{
-				"id": "2025",
-				"#text": "Alt Altman"
-			}
+			"Alt Altman"
 		],
 		"date": "2013-05-08",
 		"startInt": 1260,
