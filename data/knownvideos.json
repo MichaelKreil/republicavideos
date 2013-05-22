@@ -4,14 +4,35 @@
 		"thumbnail": "http://b.vimeocdn.com/ts/437/108/437108865_640.jpg",
 		"video_title": "Die Digital Natives ziehen in den Krieg",
 		"video_url": "http://vimeo.com/65905002",
-		"viewCount": 717,
+		"viewCount": 724,
 		"numLikes": 7,
 		"video_duration": 3634,
 		"numDislikes": 0,
 		"favoriteCount": 0,
 		"index": 231,
 		"session_title": "Die Digital Natives ziehen in den Krieg",
+		"session_persons": [
+			"Thomas Wiegold",
+			"Sascha Stoltenow"
+		],
 		"eventId": 190
+	},
+	"66688236": {
+		"video_id": 66688236,
+		"thumbnail": "http://b.vimeocdn.com/ts/438/220/438220216_640.jpg",
+		"video_title": "haters gonna hate - Lovepicking und die Folgen",
+		"video_url": "http://vimeo.com/66688236",
+		"viewCount": 22,
+		"numLikes": 1,
+		"video_duration": 2022,
+		"numDislikes": 0,
+		"favoriteCount": 0,
+		"index": 176,
+		"session_title": "haters gonna hate - Lovepicking und die Folgen",
+		"session_persons": [
+			"Mey Lean Kronemann"
+		],
+		"eventId": 1631
 	},
 	"HAA9pZhgxU4": {},
 	"oX8S2YZGmJI": {},
@@ -267,12 +288,16 @@
 		"video_title": "Die Trolldrossel [re:Fefe: Erkenntnisse der empirischen Trollforschung] #rp13",
 		"thumbnail": "http://i.ytimg.com/vi/ZG4FawUtYPA/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=ZG4FawUtYPA",
-		"viewCount": 3222,
+		"viewCount": 3257,
 		"favoriteCount": 0,
 		"numLikes": 0,
 		"numDislikes": 0,
 		"index": 242,
 		"session_title": "re:Fefe: Erkenntnisse der empirischen Trollforschung",
+		"session_persons": [
+			"Linus Neumann",
+			"Michael Kreil"
+		],
 		"eventId": 980
 	},
 	"-s5WvYQEr0Y": {
@@ -281,12 +306,16 @@
 		"video_title": "re:publica 2013 - Digitaldarwinismus - Warum gibt es keine digitalen Bananen?",
 		"thumbnail": "http://i.ytimg.com/vi/-s5WvYQEr0Y/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=-s5WvYQEr0Y",
-		"viewCount": 526,
+		"viewCount": 530,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 11,
 		"index": 177,
 		"session_title": "Digitaldarwinismus – Warum gibt es keine digitalen Bananen?",
+		"session_persons": [
+			"Marcel-André Casasola Merkle",
+			"Agnes Lison"
+		],
 		"eventId": 1374
 	},
 	"6Pu5agqAy_Q": {
@@ -295,12 +324,15 @@
 		"video_title": "re:publica 2013 - Constantin Alexander - Politiker, die in Bratwürste beißen",
 		"thumbnail": "http://i.ytimg.com/vi/6Pu5agqAy_Q/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=6Pu5agqAy_Q",
-		"viewCount": 168,
+		"viewCount": 172,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 3,
 		"index": 193,
 		"session_title": "Anwendungsorientierte Analyse volkstümlicher Lebensmittel in der politischen Berichterstattung, oder: Politiker, die in Bratwürste beißen",
+		"session_persons": [
+			"Constantin Alexander"
+		],
 		"eventId": 841
 	},
 	"HmufQU5GDGU": {
@@ -309,12 +341,17 @@
 		"video_title": "re:publica 2013: Das kleine Digitale und das große Ganze. Internetaktivismus, Netzbewegung und Polit",
 		"thumbnail": "http://i.ytimg.com/vi/HmufQU5GDGU/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=HmufQU5GDGU",
-		"viewCount": 453,
+		"viewCount": 457,
 		"favoriteCount": 0,
-		"numDislikes": 2,
+		"numDislikes": 3,
 		"numLikes": 1,
 		"index": 128,
 		"session_title": "Das kleine Digitale und das große Ganze. Internetaktivismus, Netzbewegung und Politik",
+		"session_persons": [
+			"Kathrin Ganz",
+			"Hans Christian Voigt",
+			"Anne Roth"
+		],
 		"eventId": 1959
 	},
 	"5N5dgagk0Dk": {
@@ -323,12 +360,19 @@
 		"video_title": "re:publica 2013: Code Literacy - Verstehen, was uns online lenkt",
 		"thumbnail": "http://i.ytimg.com/vi/5N5dgagk0Dk/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=5N5dgagk0Dk",
-		"viewCount": 246,
+		"viewCount": 255,
 		"favoriteCount": 0,
 		"numLikes": 0,
 		"numDislikes": 0,
 		"index": 46,
 		"session_title": "Code Literacy – Verstehen, was uns online lenkt",
+		"session_persons": [
+			"Nele Heise",
+			"Stephan Dreyer",
+			"Jan Schmidt",
+			"Katharina Johnsen",
+			"Sebastian Deterding"
+		],
 		"eventId": 1716
 	},
 	"DUuxnnvWnWQ": {
@@ -337,27 +381,19 @@
 		"video_title": "re:publica 2013: Mehrwert oder Barriere - Wie lassen sich mobile Endgeräte für alle zugänglich mache",
 		"thumbnail": "http://i.ytimg.com/vi/DUuxnnvWnWQ/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=DUuxnnvWnWQ",
-		"viewCount": 328,
+		"viewCount": 329,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 7,
 		"index": 45,
 		"session_title": "Mehrwert oder Barriere – Wie lassen sich mobile Endgeräte für alle zugänglich machen und wo entsteht Innovation?",
+		"session_persons": [
+			"Silke Horn",
+			"Raul Krauthausen",
+			"Barbara Wolterstädt",
+			"Tina Gadow"
+		],
 		"eventId": 6242
-	},
-	"LevDWE-_WJs": {
-		"video_id": "LevDWE-_WJs",
-		"video_duration": 949,
-		"video_title": "re:publica 2013 - Anja Ebersbach: brand eins",
-		"thumbnail": "http://i.ytimg.com/vi/LevDWE-_WJs/mqdefault.jpg",
-		"video_url": "http://youtube.com/watch?v=LevDWE-_WJs",
-		"viewCount": 235,
-		"favoriteCount": 0,
-		"numLikes": 0,
-		"numDislikes": 0,
-		"index": 2,
-		"session_title": "brand eins",
-		"eventId": 5369
 	},
 	"g7jKhi5dp3s": {
 		"video_id": "g7jKhi5dp3s",
@@ -365,12 +401,15 @@
 		"video_title": "re:publica 2013 - Daniel Bröckerhoff: \"Hast Du das schon getwittert?\" - Über Nutzen und Risiken von",
 		"thumbnail": "http://i.ytimg.com/vi/g7jKhi5dp3s/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=g7jKhi5dp3s",
-		"viewCount": 623,
+		"viewCount": 624,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 15,
 		"index": 225,
 		"session_title": "\"Hast Du das schon getwittert?\" - Über Nutzen und Risiken von #openjournalism",
+		"session_persons": [
+			"Daniel Bröckerhoff"
+		],
 		"eventId": 182
 	},
 	"uPEklgZSE00": {
@@ -379,12 +418,15 @@
 		"video_title": "re:publica 2013 - Mark Rendeiro: Personal Revolutions Along the Nile",
 		"thumbnail": "http://i.ytimg.com/vi/uPEklgZSE00/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=uPEklgZSE00",
-		"viewCount": 254,
+		"viewCount": 255,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 6,
 		"index": 39,
 		"session_title": "Personal Revolutions Along the Nile",
+		"session_persons": [
+			"Mark Rendeiro"
+		],
 		"eventId": 1573
 	},
 	"8P0GVMA7dfs": {
@@ -399,6 +441,10 @@
 		"numLikes": 2,
 		"index": 38,
 		"session_title": "The story of Baladna FM: How a Syrian online radio station is broadcasting against the regime and has to deal with hacker attacks by the Syrian Electronic Army",
+		"session_persons": [
+			"Kai Schächtele",
+			"Monis Bukhari"
+		],
 		"eventId": 1552
 	},
 	"dFau0avDBWU": {
@@ -407,12 +453,15 @@
 		"video_title": "re:publica 2013 - Tomas Caspers: Innovationsbeschleuniger gesucht! - Wie wär's mit Barrierefreiheit?",
 		"thumbnail": "http://i.ytimg.com/vi/dFau0avDBWU/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=dFau0avDBWU",
-		"viewCount": 600,
+		"viewCount": 607,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 9,
 		"index": 44,
 		"session_title": "Innovationsbeschleuniger gesucht! – Wie wär‘s mit Barrierefreiheit?",
+		"session_persons": [
+			"Tomas Caspers"
+		],
 		"eventId": 6243
 	},
 	"5dn3mwS6ZzY": {
@@ -427,6 +476,13 @@
 		"numLikes": 5,
 		"index": 27,
 		"session_title": "Das heilige Abendmahl",
+		"session_persons": [
+			"Huck Haas",
+			"Gerrit Bruce Becht",
+			"Maike Hank",
+			"Tobias 'schlenzalot' Schramm",
+			"Anja Gottschling"
+		],
 		"eventId": 2012
 	},
 	"cH__w7L7FJI": {
@@ -435,12 +491,19 @@
 		"video_title": "re:publica 2013: Finanzblogs: Intellektuelle Elite oder verständliches Massenmedium?",
 		"thumbnail": "http://i.ytimg.com/vi/cH__w7L7FJI/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=cH__w7L7FJI",
-		"viewCount": 495,
+		"viewCount": 496,
 		"favoriteCount": 0,
 		"numDislikes": 2,
 		"numLikes": 5,
 		"index": 48,
 		"session_title": "Finanzblogs: Intellektuelle Elite oder verständliches Massenmedium?",
+		"session_persons": [
+			"Thomas Knüwer",
+			"Franziska Bluhm",
+			"Ulrich Hegge",
+			"Dirk Elsner",
+			"Jeannine Michaelsen"
+		],
 		"eventId": 5946
 	},
 	"tlcYQOVwYKg": {
@@ -449,12 +512,16 @@
 		"video_title": "re:publica 2013 - Karsten Becker, Robert Böhme: Hell Yeah, it's Rocket Science! - pushing private sp",
 		"thumbnail": "http://i.ytimg.com/vi/tlcYQOVwYKg/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=tlcYQOVwYKg",
-		"viewCount": 340,
+		"viewCount": 341,
 		"favoriteCount": 0,
 		"numDislikes": 1,
 		"numLikes": 1,
 		"index": 119,
 		"session_title": "Hell Yeah, it's Rocket Science! - pushing private space exploration with 30 Million US Dollars",
+		"session_persons": [
+			"Karsten Becker",
+			"Robert Böhme"
+		],
 		"eventId": 6169
 	},
 	"KzKhyoCk9dI": {
@@ -463,12 +530,18 @@
 		"video_title": "re:publica 2013: Modeblogger vereinigt euch! Sind Blog-Netzwerke der Schlüssel zur Professionalisier",
 		"thumbnail": "http://i.ytimg.com/vi/KzKhyoCk9dI/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=KzKhyoCk9dI",
-		"viewCount": 807,
+		"viewCount": 809,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 8,
 		"index": 138,
 		"session_title": "Modeblogger vereinigt euch! Sind Blog-Netzwerke der Schlüssel zur Professionalisierung?",
+		"session_persons": [
+			"Anna Weilberg",
+			"David Kurth Karl Roth",
+			"Katja Dalhöfer",
+			"Katja Schweitzberger"
+		],
 		"eventId": 1759
 	},
 	"ZHeTHnTD6eU": {
@@ -477,12 +550,16 @@
 		"video_title": "re:publica 2013 - Nilz Bokelberg, Markus Herrmann: Herm und Nilz präsentieren: Das Internet - Der Pr",
 		"thumbnail": "http://i.ytimg.com/vi/ZHeTHnTD6eU/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=ZHeTHnTD6eU",
-		"viewCount": 927,
+		"viewCount": 930,
 		"favoriteCount": 0,
 		"numDislikes": 4,
 		"numLikes": 7,
 		"index": 148,
 		"session_title": "Herm und Nilz präsentieren: Das Internet – Der Preis",
+		"session_persons": [
+			"Nilz Bokelberg",
+			"Markus Herrmann"
+		],
 		"eventId": 1814
 	},
 	"NpHnuFVL2ug": {
@@ -491,12 +568,16 @@
 		"video_title": "re:publica 2013 - Joris Pekel, Daniel Dietrich: Open Data & Culture - Creating the Cultural Commons",
 		"thumbnail": "http://i.ytimg.com/vi/NpHnuFVL2ug/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=NpHnuFVL2ug",
-		"viewCount": 183,
+		"viewCount": 184,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 1,
 		"index": 21,
 		"session_title": "Open Data & Culture - Creating the Cultural Commons",
+		"session_persons": [
+			"Joris Pekel",
+			"Daniel Dietrich"
+		],
 		"eventId": 1940
 	},
 	"bQGURr6Vjzg": {
@@ -505,12 +586,15 @@
 		"video_title": "re:publica 2013 - Manuela Schauerhammer: Heute aufwachsen in Digitalistan: Die neuen mündigen Mensch",
 		"thumbnail": "http://i.ytimg.com/vi/bQGURr6Vjzg/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=bQGURr6Vjzg",
-		"viewCount": 429,
+		"viewCount": 433,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 8,
 		"index": 106,
 		"session_title": "Heute aufwachsen in Digitalistan: Die neuen mündigen Menschen?",
+		"session_persons": [
+			"Manuela Schauerhammer"
+		],
 		"eventId": 2042
 	},
 	"JZI3peYWGUU": {
@@ -519,12 +603,18 @@
 		"video_title": "re:publica 2013: IN, SIDE, OUT of SCIENCE",
 		"thumbnail": "http://i.ytimg.com/vi/JZI3peYWGUU/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=JZI3peYWGUU",
-		"viewCount": 1668,
+		"viewCount": 1673,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 16,
 		"index": 114,
 		"session_title": "IN, SIDE, OUT of SCIENCE",
+		"session_persons": [
+			"Solveig Wehking",
+			"Lars Fischer",
+			"Anders Levermann",
+			"Ruth Schöllhammer"
+		],
 		"eventId": 1642
 	},
 	"10s_DUG4q8U": {
@@ -533,12 +623,16 @@
 		"video_title": "re:publica 2013 - Kirsten Fiedler, Alexander Sander: Praktische Anleitung für den fürsorglichen Über",
 		"thumbnail": "http://i.ytimg.com/vi/10s_DUG4q8U/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=10s_DUG4q8U",
-		"viewCount": 441,
+		"viewCount": 443,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 4,
 		"index": 50,
 		"session_title": "Praktische Anleitung für den fürsorglichen Überwachungsstaat",
+		"session_persons": [
+			"Kirsten Fiedler",
+			"Alexander Sander"
+		],
 		"eventId": 2283
 	},
 	"PuTY2qZtVvM": {
@@ -547,12 +641,16 @@
 		"video_title": "re:publica 2013 - Dieter Zetsche, Martin Randelhoff: Das vernetzte Auto -- wie verändert sich unsere",
 		"thumbnail": "http://i.ytimg.com/vi/PuTY2qZtVvM/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=PuTY2qZtVvM",
-		"viewCount": 1779,
+		"viewCount": 1787,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 16,
 		"index": 153,
 		"session_title": "Das vernetzte Auto – wie verändert sich unsere Mobilität? Ein Gespräch mit Dieter Zetsche.",
+		"session_persons": [
+			"Dieter Zetsche",
+			"Martin Randelhoff"
+		],
 		"eventId": 4735
 	},
 	"gozSLhUwi48": {
@@ -561,12 +659,15 @@
 		"video_title": "re:publica 2013 - Kate Darling: Robot Ethics",
 		"thumbnail": "http://i.ytimg.com/vi/gozSLhUwi48/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=gozSLhUwi48",
-		"viewCount": 7714,
+		"viewCount": 7718,
 		"favoriteCount": 0,
 		"numDislikes": 7,
 		"numLikes": 32,
 		"index": 155,
 		"session_title": "Robot Ethics",
+		"session_persons": [
+			"Kate Darling"
+		],
 		"eventId": 5040
 	},
 	"9Oi4uhdIGFE": {
@@ -575,12 +676,19 @@
 		"video_title": "re:publica 2013: Let's Talk about Content! - Wie sich die Infrastruktur des Internets verändert",
 		"thumbnail": "http://i.ytimg.com/vi/9Oi4uhdIGFE/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=9Oi4uhdIGFE",
-		"viewCount": 506,
+		"viewCount": 507,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 4,
 		"index": 129,
 		"session_title": "Let’s Talk about Content! - Wie sich die Infrastruktur des Internets verändert",
+		"session_persons": [
+			"Uta Meier-Hahn",
+			"Cara Schwarz-Schilling",
+			"Klaus Landefeld",
+			"Jan Krancke",
+			"Simon Schlauri"
+		],
 		"eventId": 1628
 	},
 	"Z0EfKzKi0So": {
@@ -595,6 +703,9 @@
 		"numLikes": 2,
 		"index": 111,
 		"session_title": "Wissen.Macht.Moral – über das Digitale (im) Marionettentheater",
+		"session_persons": [
+			"Manouchehr Shamsrizi"
+		],
 		"eventId": 4257
 	},
 	"IlAAX_sfBzg": {
@@ -603,12 +714,15 @@
 		"video_title": "re:publica 2013 - Caspar Clemens Mierau: Weder süß, noch salzig: Wie mir die Piratenpartei meine Fre",
 		"thumbnail": "http://i.ytimg.com/vi/IlAAX_sfBzg/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=IlAAX_sfBzg",
-		"viewCount": 697,
+		"viewCount": 698,
 		"favoriteCount": 0,
 		"numDislikes": 1,
 		"numLikes": 10,
 		"index": 147,
 		"session_title": "Weder süß, noch salzig: Wie mir die Piratenpartei meine Freizeit nahm",
+		"session_persons": [
+			"Caspar Clemens Mierau"
+		],
 		"eventId": 1476
 	},
 	"5k7Qj_6WRvM": {
@@ -617,12 +731,16 @@
 		"video_title": "re:publica 2013 - Joel Dullroy: Why Hackers Should Be Fed",
 		"thumbnail": "http://i.ytimg.com/vi/5k7Qj_6WRvM/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=5k7Qj_6WRvM",
-		"viewCount": 120,
+		"viewCount": 121,
 		"favoriteCount": 0,
 		"numLikes": 0,
 		"numDislikes": 0,
 		"index": 142,
 		"session_title": "Why Hackers Should Be Fed",
+		"session_persons": [
+			"Matthias Spielkamp",
+			"Joel Dullroy"
+		],
 		"eventId": 184
 	},
 	"Y4_UADsQofU": {
@@ -631,12 +749,16 @@
 		"video_title": "re:publica 2013 - Matthias Spielkamp: Why Hackers Should Be Fed",
 		"thumbnail": "http://i.ytimg.com/vi/Y4_UADsQofU/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=Y4_UADsQofU",
-		"viewCount": 299,
+		"viewCount": 300,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 4,
 		"index": 142,
 		"session_title": "Why Hackers Should Be Fed",
+		"session_persons": [
+			"Matthias Spielkamp",
+			"Joel Dullroy"
+		],
 		"eventId": 184
 	},
 	"ndHqyprTNDk": {
@@ -651,6 +773,9 @@
 		"numLikes": 3,
 		"index": 255,
 		"session_title": "\"The first thing we do, let's kill all the lawyers” – Die Anwälte, das Internet & die Abmahnungen",
+		"session_persons": [
+			"Joerg Heidrich"
+		],
 		"eventId": 1318
 	},
 	"54IYXPW_IJY": {
@@ -659,12 +784,16 @@
 		"video_title": "re:publica 2013 - Sebastian Wernicke, Jörn Loviscach: Online universities - food for thought or an i",
 		"thumbnail": "http://i.ytimg.com/vi/54IYXPW_IJY/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=54IYXPW_IJY",
-		"viewCount": 1154,
+		"viewCount": 1155,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 11,
 		"index": 232,
 		"session_title": "Online universities - food for thought or an intellectual malnutrition epidemic?",
+		"session_persons": [
+			"Sebastian Wernicke",
+			"Jörn Loviscach"
+		],
 		"eventId": 1446
 	},
 	"LBleM-R4yoQ": {
@@ -679,6 +808,10 @@
 		"numLikes": 1,
 		"index": 135,
 		"session_title": "Music Recommendation - From Peel To Peer: Curatorial Models",
+		"session_persons": [
+			"Christian Tjaben",
+			"Oke Göttlich"
+		],
 		"eventId": 1887
 	},
 	"aCg4Vycf8D4": {
@@ -687,12 +820,18 @@
 		"video_title": "re:publica 2013: Music Recommendation - Future Casting",
 		"thumbnail": "http://i.ytimg.com/vi/aCg4Vycf8D4/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=aCg4Vycf8D4",
-		"viewCount": 154,
+		"viewCount": 158,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 2,
 		"index": 136,
 		"session_title": "Music Recommendation – Future Casting",
+		"session_persons": [
+			"Eric Eitel",
+			"Stephan Baumann",
+			"Amélie Anglade",
+			"Marie Heimer"
+		],
 		"eventId": 1859
 	},
 	"OpzCViwvH1k": {
@@ -701,12 +840,15 @@
 		"video_title": "re:publica 2013 - Lorenz Lorenz-Meyer: Jagen, Sammeln, Pflegen - alte und neue Aufgaben für die Öffe",
 		"thumbnail": "http://i.ytimg.com/vi/OpzCViwvH1k/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=OpzCViwvH1k",
-		"viewCount": 211,
+		"viewCount": 213,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 3,
 		"index": 221,
 		"session_title": "Jagen, Sammeln, Pflegen - alte und neue Aufgaben für die Öffentlich-Rechtlichen in Zeiten des Internet",
+		"session_persons": [
+			"Lorenz Lorenz-Meyer"
+		],
 		"eventId": 2045
 	},
 	"9Nvy9sHunZU": {
@@ -721,6 +863,13 @@
 		"numLikes": 7,
 		"index": 227,
 		"session_title": "Blogs und Bier? Das lob’ ich mir! #ironblogger",
+		"session_persons": [
+			"Nicole Ebber",
+			"Johannes Schleimer",
+			"Kathrin Kaufmann",
+			"Thomas Renger",
+			"Steffen Voß"
+		],
 		"eventId": 1867
 	},
 	"Vlas5oZ88MU": {
@@ -729,12 +878,17 @@
 		"video_title": "re:publica 2013: The Outernet -- A revolution, in reality",
 		"thumbnail": "http://i.ytimg.com/vi/Vlas5oZ88MU/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=Vlas5oZ88MU",
-		"viewCount": 319,
+		"viewCount": 324,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 4,
 		"index": 224,
 		"session_title": "The Outernet – A revolution, in reality",
+		"session_persons": [
+			"Jay Cousins",
+			"Adam Molyneux-Berry",
+			"Wael Fakharany"
+		],
 		"eventId": 6626
 	},
 	"bddyZSOlkAo": {
@@ -743,12 +897,19 @@
 		"video_title": "re:publica 2013: Export Controls for Dual-Use Software",
 		"thumbnail": "http://i.ytimg.com/vi/bddyZSOlkAo/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=bddyZSOlkAo",
-		"viewCount": 227,
+		"viewCount": 230,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 2,
 		"index": 223,
 		"session_title": "Export Controls for Dual-Use Software",
+		"session_persons": [
+			"Eric King",
+			"Markus Löning",
+			"Christian Mihr",
+			"Andreas Bogk",
+			"Geraldine de Bastion"
+		],
 		"eventId": 1892
 	},
 	"vWerZQFj4Xc": {
@@ -757,12 +918,17 @@
 		"video_title": "re:publica 2013: Datenbefreiung selbst gemacht.",
 		"thumbnail": "http://i.ytimg.com/vi/vWerZQFj4Xc/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=vWerZQFj4Xc",
-		"viewCount": 380,
+		"viewCount": 382,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 4,
 		"index": 222,
 		"session_title": "Datenbefreiung selbst gemacht.",
+		"session_persons": [
+			"Sebastian Vollnhals",
+			"Jens Ohlig",
+			"Michael Kreil"
+		],
 		"eventId": 188
 	},
 	"29tk6vQXV64": {
@@ -771,12 +937,15 @@
 		"video_title": "re:publica 2013: Interview with Ai Weiwei",
 		"thumbnail": "http://i.ytimg.com/vi/29tk6vQXV64/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=29tk6vQXV64",
-		"viewCount": 1536,
+		"viewCount": 1555,
 		"favoriteCount": 0,
 		"numDislikes": 1,
-		"numLikes": 5,
+		"numLikes": 6,
 		"index": 218,
 		"session_title": "Interview with Ai Weiwei",
+		"session_persons": [
+			null
+		],
 		"eventId": 8363
 	},
 	"fi5Vbvj7HzE": {
@@ -785,12 +954,16 @@
 		"video_title": "re:publica 2013 - Jeannette Gusko, Bianca Praetorius: Die vierte Wand als Twitterwall. Eine Schauspi",
 		"thumbnail": "http://i.ytimg.com/vi/fi5Vbvj7HzE/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=fi5Vbvj7HzE",
-		"viewCount": 242,
+		"viewCount": 243,
 		"favoriteCount": 0,
 		"numLikes": 0,
 		"numDislikes": 0,
 		"index": 287,
 		"session_title": "Die vierte Wand als Twitterwall. Eine Schauspiel- Performance mit Hashtag. Ein Experiment.",
+		"session_persons": [
+			"Jeannette Gusko",
+			"Bianca Praetorius"
+		],
 		"eventId": 2007
 	},
 	"Kc2kwO-jf7c": {
@@ -799,12 +972,16 @@
 		"video_title": "re:publica 2013 - Frederic Valin, Jan-Uwe Fitz: Wie das Internet literarisches Schreiben verändert",
 		"thumbnail": "http://i.ytimg.com/vi/Kc2kwO-jf7c/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=Kc2kwO-jf7c",
-		"viewCount": 550,
+		"viewCount": 552,
 		"favoriteCount": 0,
 		"numDislikes": 2,
 		"numLikes": 9,
 		"index": 286,
 		"session_title": "Wie das Internet literarisches Schreiben verändert",
+		"session_persons": [
+			"Frederic Valin",
+			"Jan-Uwe Fitz"
+		],
 		"eventId": 1749
 	},
 	"KD_N0mJ7qx0": {
@@ -813,12 +990,15 @@
 		"video_title": "re:publica 2013 - Jan Philipp Schmidt: Ceci n'est pas un MOOC. How to build awesome, open, dirt-chea",
 		"thumbnail": "http://i.ytimg.com/vi/KD_N0mJ7qx0/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=KD_N0mJ7qx0",
-		"viewCount": 185,
+		"viewCount": 187,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 2,
 		"index": 233,
 		"session_title": "Ceci n'est pas un MOOC. How to build awesome, open, dirt-cheap online courses",
+		"session_persons": [
+			"Jan Philipp Schmidt"
+		],
 		"eventId": 5965
 	},
 	"KU4PZK48-dg": {
@@ -827,12 +1007,15 @@
 		"video_title": "re:publica 2013 - Nick Jennings: Autonomous web apps with Sockethub",
 		"thumbnail": "http://i.ytimg.com/vi/KU4PZK48-dg/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=KU4PZK48-dg",
-		"viewCount": 159,
+		"viewCount": 160,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 3,
 		"index": 285,
 		"session_title": "Autonomous web apps with Sockethub",
+		"session_persons": [
+			"Nick Jennings"
+		],
 		"eventId": 6448
 	},
 	"DTiK3slZTiE": {
@@ -847,6 +1030,14 @@
 		"numLikes": 1,
 		"index": 137,
 		"session_title": "dorkbot.bln \"re:publica 13 Special\"",
+		"session_persons": [
+			"Joanna Dauner",
+			"Mario Sixtus",
+			"Mey Lean Kronemann",
+			"Gregor Sedlag",
+			"Mariska de Groot",
+			"Marjam Fels"
+		],
 		"eventId": 2282
 	},
 	"CwhKl0qvcfA": {
@@ -861,6 +1052,9 @@
 		"numLikes": 9,
 		"index": 284,
 		"session_title": "crushing data silos with ownCloud",
+		"session_persons": [
+			"Frank Karlitschek"
+		],
 		"eventId": 1438
 	},
 	"aI6ir37Iaq0": {
@@ -869,12 +1063,15 @@
 		"video_title": "re:publica 2013 - Carles Ferreiro: New Open Cities Challenge: Managing large tourism flows",
 		"thumbnail": "http://i.ytimg.com/vi/aI6ir37Iaq0/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=aI6ir37Iaq0",
-		"viewCount": 96,
+		"viewCount": 99,
 		"favoriteCount": 0,
 		"numLikes": 0,
 		"numDislikes": 0,
 		"index": 283,
 		"session_title": "New Open Cities Challenge: Managing large tourism flows",
+		"session_persons": [
+			"Carles Ferreiro"
+		],
 		"eventId": 4945
 	},
 	"1u1x3d8fVPE": {
@@ -883,12 +1080,15 @@
 		"video_title": "re:publica 2013 - Esteve Almirall: The Open Innovation Ecosystem",
 		"thumbnail": "http://i.ytimg.com/vi/1u1x3d8fVPE/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=1u1x3d8fVPE",
-		"viewCount": 67,
+		"viewCount": 69,
 		"favoriteCount": 0,
 		"numLikes": 0,
 		"numDislikes": 0,
 		"index": 282,
 		"session_title": "The Open Innovation Ecosystem",
+		"session_persons": [
+			"Esteve Almirall"
+		],
 		"eventId": 6439
 	},
 	"LRXgm3L6EIk": {
@@ -903,6 +1103,10 @@
 		"numLikes": 1,
 		"index": 257,
 		"session_title": "Myths of the Open Internet: Bust Them and Get Busy",
+		"session_persons": [
+			"Ellery Roberts Biddle",
+			"Hisham Almiraat"
+		],
 		"eventId": 3059
 	},
 	"uQX18jZP8u0": {
@@ -911,12 +1115,15 @@
 		"video_title": "re:publica 2013 - Matthias Bauer: Richtig essen, richtig schlafen, und lasst die Mate weg: Besser Le",
 		"thumbnail": "http://i.ytimg.com/vi/uQX18jZP8u0/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=uQX18jZP8u0",
-		"viewCount": 2049,
+		"viewCount": 2056,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 36,
 		"index": 261,
 		"session_title": "Richtig essen, richtig schlafen, und lasst die Mate weg: Besser Leben für Geeks",
+		"session_persons": [
+			"Matthias Bauer"
+		],
 		"eventId": 1865
 	},
 	"v3s76ho_boo": {
@@ -925,12 +1132,15 @@
 		"video_title": "re:publica 2013 - Thomas Andrezak: E-Zigarette, der Genuß der aus dem Internet kam",
 		"thumbnail": "http://i.ytimg.com/vi/v3s76ho_boo/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=v3s76ho_boo",
-		"viewCount": 2027,
+		"viewCount": 2030,
 		"favoriteCount": 0,
 		"numDislikes": 1,
 		"numLikes": 35,
 		"index": 260,
 		"session_title": "E-Zigarette, der Genuß der aus dem Internet kam",
+		"session_persons": [
+			"Thomas Andrezak"
+		],
 		"eventId": 162
 	},
 	"41ZwNdqBcaU": {
@@ -945,6 +1155,10 @@
 		"numLikes": 13,
 		"index": 258,
 		"session_title": "Internet-Meme: Geschichte, Forschungsstand, Kontroversen",
+		"session_persons": [
+			"Christian Heller",
+			"Snibeti Snab"
+		],
 		"eventId": 1986
 	},
 	"M3MjlT7zmeI": {
@@ -953,12 +1167,19 @@
 		"video_title": "re:publica 2013: Responding effectively to digital emergencies & human rights violations online",
 		"thumbnail": "http://i.ytimg.com/vi/M3MjlT7zmeI/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=M3MjlT7zmeI",
-		"viewCount": 70,
+		"viewCount": 71,
 		"favoriteCount": 0,
 		"numLikes": 0,
 		"numDislikes": 0,
 		"index": 252,
 		"session_title": "Responding effectively to digital emergencies & human rights violations online",
+		"session_persons": [
+			"Ben Wagner",
+			"Fieke Jansen",
+			"Jillian York",
+			"Stephanie Hankey",
+			"Claudio Guarnieri"
+		],
 		"eventId": 4176
 	},
 	"kNSXrqRxJjw": {
@@ -967,12 +1188,17 @@
 		"video_title": "re:publica 2013: Netzkultur vs Urheberrecht",
 		"thumbnail": "http://i.ytimg.com/vi/kNSXrqRxJjw/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=kNSXrqRxJjw",
-		"viewCount": 2684,
+		"viewCount": 2685,
 		"favoriteCount": 0,
 		"numDislikes": 2,
 		"numLikes": 15,
 		"index": 254,
 		"session_title": "Netzkultur vs Urheberrecht",
+		"session_persons": [
+			"René Walter",
+			"Ronny Kraak",
+			"Valie Djordjevic"
+		],
 		"eventId": 1806
 	},
 	"5f_JiFfI9Ts": {
@@ -981,12 +1207,16 @@
 		"video_title": "re:publica 2013 - Jeanette Hofmann, Christian  Katzenbach: Im Schatten des Rechts - Wie informelle N",
 		"thumbnail": "http://i.ytimg.com/vi/5f_JiFfI9Ts/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=5f_JiFfI9Ts",
-		"viewCount": 275,
+		"viewCount": 276,
 		"favoriteCount": 0,
 		"numLikes": 0,
 		"numDislikes": 0,
 		"index": 253,
 		"session_title": "Im Schatten des Rechts - Wie informelle Normen das Urheberrecht unterlaufen oder auch auf den Kopf stellen",
+		"session_persons": [
+			"Jeanette Hofmann",
+			"Christian Katzenbach"
+		],
 		"eventId": 1560
 	},
 	"j-4DpaQdsFs": {
@@ -995,12 +1225,15 @@
 		"video_title": "re:publica 2013 - Lisa Ma: Speculative Design",
 		"thumbnail": "http://i.ytimg.com/vi/j-4DpaQdsFs/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=j-4DpaQdsFs",
-		"viewCount": 197,
+		"viewCount": 200,
 		"favoriteCount": 0,
 		"numLikes": 0,
 		"numDislikes": 0,
 		"index": 213,
 		"session_title": "Speculative Design",
+		"session_persons": [
+			"Lisa Ma"
+		],
 		"eventId": 5047
 	},
 	"3SEiMPSYi4g": {
@@ -1015,6 +1248,13 @@
 		"numLikes": 2,
 		"index": 211,
 		"session_title": "21st Century Skills - Keynote + Panel",
+		"session_persons": [
+			"Andreas Schleicher",
+			"Michel Schröder",
+			"Kevin Heidenreich",
+			"Ilona Bernsdorf",
+			"Tanja Haeusler"
+		],
 		"eventId": 5595
 	},
 	"5zcy_NB1mxs": {
@@ -1023,12 +1263,18 @@
 		"video_title": "re:publica 2013: Digital by default - „Digital Natives der Herzen\" im Journalismus",
 		"thumbnail": "http://i.ytimg.com/vi/5zcy_NB1mxs/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=5zcy_NB1mxs",
-		"viewCount": 1450,
+		"viewCount": 1456,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 12,
 		"index": 234,
 		"session_title": "Digital by default - „Digital Natives\" im Journalismus",
+		"session_persons": [
+			"Jochen Wegner",
+			"Stefan Plöchinger",
+			"Katharina Borchert",
+			"Friedemann Karig"
+		],
 		"eventId": 4381
 	},
 	"yVnDp6zKGpk": {
@@ -1037,12 +1283,15 @@
 		"video_title": "re:publica 2013 - Mathias Schindler: Der Urheberrechts-Yeti",
 		"thumbnail": "http://i.ytimg.com/vi/yVnDp6zKGpk/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=yVnDp6zKGpk",
-		"viewCount": 563,
+		"viewCount": 565,
 		"favoriteCount": 0,
 		"numDislikes": 1,
 		"numLikes": 8,
 		"index": 256,
 		"session_title": "Der Urheberrechts-Yeti",
+		"session_persons": [
+			"Mathias Schindler"
+		],
 		"eventId": 1765
 	},
 	"B3c4UMnX7ig": {
@@ -1051,12 +1300,15 @@
 		"video_title": "re:publica 2013 - Anne Wizorek: Ihr wollt also wissen, was #aufschrei gebracht hat?",
 		"thumbnail": "http://i.ytimg.com/vi/B3c4UMnX7ig/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=B3c4UMnX7ig",
-		"viewCount": 5172,
+		"viewCount": 5198,
 		"favoriteCount": 0,
-		"numDislikes": 31,
+		"numDislikes": 34,
 		"numLikes": 58,
 		"index": 217,
 		"session_title": "Ihr wollt also wissen, was #aufschrei gebracht hat?",
+		"session_persons": [
+			"Anne Wizorek"
+		],
 		"eventId": 6398
 	},
 	"4NsDr54-lKA": {
@@ -1071,6 +1323,11 @@
 		"numDislikes": 0,
 		"index": 229,
 		"session_title": "China, India, Bangladesh, we’re looking at you: Blogging and tweeting in Asia",
+		"session_persons": [
+			"Ravish Kumar",
+			"Hu Yong",
+			"Shahidul Alam"
+		],
 		"eventId": 6381
 	},
 	"Qr2pbVucL6o": {
@@ -1079,12 +1336,15 @@
 		"video_title": "re:publica 2013 - Marcus Brown: I palindrome I -- your life is mine",
 		"thumbnail": "http://i.ytimg.com/vi/Qr2pbVucL6o/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=Qr2pbVucL6o",
-		"viewCount": 727,
+		"viewCount": 731,
 		"favoriteCount": 0,
 		"numDislikes": 1,
 		"numLikes": 11,
 		"index": 259,
 		"session_title": "I palindrome I – your life is mine",
+		"session_persons": [
+			"Marcus Brown"
+		],
 		"eventId": 1234
 	},
 	"wdnHbeWlgV4": {
@@ -1099,6 +1359,9 @@
 		"numLikes": 12,
 		"index": 5,
 		"session_title": "Iceland could have been innovative: Participatory democracy.",
+		"session_persons": [
+			"Birgitta Jónsdóttir"
+		],
 		"eventId": 6424
 	},
 	"VyiD0iPhMec": {
@@ -1107,12 +1370,15 @@
 		"video_title": "re:publica 2013 - Lothar Müller: Das Blatt und das Netz.",
 		"thumbnail": "http://i.ytimg.com/vi/VyiD0iPhMec/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=VyiD0iPhMec",
-		"viewCount": 300,
+		"viewCount": 301,
 		"favoriteCount": 0,
 		"numDislikes": 1,
 		"numLikes": 6,
 		"index": 214,
 		"session_title": "Das Blatt und das Netz. Überlegungen zu einer Medientheorie des Papiers",
+		"session_persons": [
+			"Lothar Müller"
+		],
 		"eventId": 5849
 	},
 	"hFklQdd6Pbo": {},
@@ -1128,6 +1394,14 @@
 		"numLikes": 2,
 		"index": 215,
 		"session_title": "Die EU-Datenschutzreform als Balanceakt",
+		"session_persons": [
+			"Jan Philipp Albrecht",
+			"Paul Nemitz",
+			"Ninja Marnau",
+			"Max Schrems",
+			"Linnea Riensberg",
+			"Susanne Dehmel"
+		],
 		"eventId": 4380
 	},
 	"uWqx_1tDyqE": {
@@ -1136,12 +1410,15 @@
 		"video_title": "re:publica 2013 - Cory Doctorow: It's not a fax machine connect to a waffle iron",
 		"thumbnail": "http://i.ytimg.com/vi/uWqx_1tDyqE/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=uWqx_1tDyqE",
-		"viewCount": 8871,
+		"viewCount": 8889,
 		"favoriteCount": 0,
 		"numDislikes": 1,
 		"numLikes": 95,
 		"index": 216,
 		"session_title": "It's not a fax machine connect to a waffle iron",
+		"session_persons": [
+			"Cory Doctorow"
+		],
 		"eventId": 5119
 	},
 	"gNIzKFTQLog": {
@@ -1150,12 +1427,15 @@
 		"video_title": "re:publica 2013 - Keren Elazari: Take a ride on the Cyberpunk Express train",
 		"thumbnail": "http://i.ytimg.com/vi/gNIzKFTQLog/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=gNIzKFTQLog",
-		"viewCount": 719,
+		"viewCount": 720,
 		"favoriteCount": 0,
 		"numDislikes": 1,
 		"numLikes": 5,
 		"index": 212,
 		"session_title": "Take a ride on the Cyberpunk Express train",
+		"session_persons": [
+			"Keren Elazari"
+		],
 		"eventId": 5929
 	},
 	"Ibb5KE6Cl_w": {
@@ -1164,12 +1444,19 @@
 		"video_title": "re:publica 2013: 21st Century Skills - Keynote: Andreas Schleicher",
 		"thumbnail": "http://i.ytimg.com/vi/Ibb5KE6Cl_w/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=Ibb5KE6Cl_w",
-		"viewCount": 736,
+		"viewCount": 737,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 14,
 		"index": 211,
 		"session_title": "21st Century Skills - Keynote + Panel",
+		"session_persons": [
+			"Andreas Schleicher",
+			"Michel Schröder",
+			"Kevin Heidenreich",
+			"Ilona Bernsdorf",
+			"Tanja Haeusler"
+		],
 		"eventId": 5595
 	},
 	"ZTejUqHLQXE": {
@@ -1178,12 +1465,15 @@
 		"video_title": "re:publica 2013 - Felix Schwenzel: 10 Vorschläge um die Welt zu verbessern",
 		"thumbnail": "http://i.ytimg.com/vi/ZTejUqHLQXE/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=ZTejUqHLQXE",
-		"viewCount": 7089,
+		"viewCount": 7093,
 		"favoriteCount": 0,
 		"numDislikes": 5,
 		"numLikes": 45,
 		"index": 230,
 		"session_title": "10 Vorschläge um die Welt zu verbessern",
+		"session_persons": [
+			"Felix Schwenzel"
+		],
 		"eventId": 1707
 	},
 	"naGvgXzxlvc": {
@@ -1192,12 +1482,15 @@
 		"video_title": "re:publica 2013 - Volker Grassmuck: Von Television zu WikiVision: Mediale Grundversorgung von allen",
 		"thumbnail": "http://i.ytimg.com/vi/naGvgXzxlvc/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=naGvgXzxlvc",
-		"viewCount": 197,
+		"viewCount": 198,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 3,
 		"index": 220,
 		"session_title": "Von Television zu WikiVision: Mediale Grundversorgung von allen für alle",
+		"session_persons": [
+			"Volker Grassmuck"
+		],
 		"eventId": 1572
 	},
 	"3ON3cSuW4Bs": {
@@ -1206,12 +1499,20 @@
 		"video_title": "re:publica 2013: 1 Million Petitionen -- Protestieren wir richtig im Netz?",
 		"thumbnail": "http://i.ytimg.com/vi/3ON3cSuW4Bs/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=3ON3cSuW4Bs",
-		"viewCount": 314,
+		"viewCount": 315,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 3,
 		"index": 281,
 		"session_title": "1 Million Petitionen – Protestieren wir richtig im Netz?",
+		"session_persons": [
+			"Marco Vollmar",
+			"Judith Orland",
+			"Kathrin Voss",
+			"Felix Kolb",
+			"Markus Winkler",
+			"Annett Meiritz"
+		],
 		"eventId": 5134
 	},
 	"zzI4ZWbs-lk": {
@@ -1227,6 +1528,10 @@
 		"numDislikes": 0,
 		"index": 15,
 		"session_title": "Comic Misunderstanding – A conversation with Graham Linehan (IT Crowd)",
+		"session_persons": [
+			"Graham Linehan",
+			"Johnny Haeusler"
+		],
 		"eventId": 5117
 	},
 	"_e8Ztolx_Vw": {
@@ -1235,12 +1540,17 @@
 		"video_title": "re:publica 2013: 3D Printing: (How) can we make it a third industrial revolution?",
 		"thumbnail": "http://i.ytimg.com/vi/_e8Ztolx_Vw/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=_e8Ztolx_Vw",
-		"viewCount": 495,
+		"viewCount": 497,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 3,
 		"index": 228,
 		"session_title": "3D Printing: (How) can we make it a third industrial revolution?",
+		"session_persons": [
+			"Peter Troxler",
+			"Philip Steffan",
+			"Marlene Vogel"
+		],
 		"eventId": 4780
 	},
 	"A_AE838UFlg": {
@@ -1255,6 +1565,13 @@
 		"numLikes": 2,
 		"index": 130,
 		"session_title": "Global Internet Infrastructure - Shaping the world through neutral exchanges",
+		"session_persons": [
+			"Wael Fakharany",
+			"Jillian York",
+			"Klaus Landefeld",
+			"Moez Chakchouk",
+			"Ben Wagner"
+		],
 		"eventId": 6432
 	},
 	"gAQQtamyO1A": {
@@ -1269,6 +1586,10 @@
 		"numLikes": 3,
 		"index": 109,
 		"session_title": "Color Concert & Waiting for Earthquakes",
+		"session_persons": [
+			"Moon Ribas",
+			"Neil Harbisson"
+		],
 		"eventId": 6434
 	},
 	"dH2ftI-t7WM": {
@@ -1277,12 +1598,21 @@
 		"video_title": "re:publica 2013: Ohne Jauch geht's auch. Thema: Von Human Resources zu Human Relations - wie sieht d",
 		"thumbnail": "http://i.ytimg.com/vi/dH2ftI-t7WM/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=dH2ftI-t7WM",
-		"viewCount": 1376,
+		"viewCount": 1377,
 		"favoriteCount": 0,
 		"numDislikes": 5,
 		"numLikes": 8,
 		"index": 158,
 		"session_title": "Ohne Jauch geht’s auch. Thema: Von Human Resources zu Human Relations - wie sieht die Arbeit der Zukunft aus?",
+		"session_persons": [
+			"Sue Reindke",
+			"Joachim Hasebrook",
+			"Teresa Bücker",
+			"Anke Domscheit-Berg",
+			"Stefan Sell",
+			"Anna-Mareike Krause",
+			"Tilo Jung"
+		],
 		"eventId": 1449
 	},
 	"n54c2LcIp9Q": {
@@ -1291,12 +1621,20 @@
 		"video_title": "re:publica 2013: YouTube macht die Stars von heute",
 		"thumbnail": "http://i.ytimg.com/vi/n54c2LcIp9Q/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=n54c2LcIp9Q",
-		"viewCount": 14613,
+		"viewCount": 14639,
 		"favoriteCount": 0,
 		"numDislikes": 23,
-		"numLikes": 1024,
+		"numLikes": 1029,
 		"index": 78,
 		"session_title": "YouTube macht die Stars von heute",
+		"session_persons": [
+			" LeFloid",
+			"Simon W.[ungespielt]",
+			"Christoph Krachten",
+			"Hannes Jakobsen",
+			"Johnny Haeusler",
+			"Amy Herzstark"
+		],
 		"eventId": 5866
 	},
 	"7GTh_ppeudU": {
@@ -1305,12 +1643,19 @@
 		"video_title": "re:publica 2013: ... and the rest will follow! (Digitale) Musikwirtschaft und Regionalentwicklung. E",
 		"thumbnail": "http://i.ytimg.com/vi/7GTh_ppeudU/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=7GTh_ppeudU",
-		"viewCount": 648,
+		"viewCount": 651,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 6,
 		"index": 133,
 		"session_title": "... and the rest will follow! (Digitale) Musikwirtschaft und Regionalentwicklung. Ein Zusammenhang in Gegenwart und Zukunft.",
+		"session_persons": [
+			"Hubert Wandjo",
+			"Andreas Rubin-Schwarz",
+			"Sebastian Andrej Schweizer",
+			"Janina Klabes",
+			"Tim Otto"
+		],
 		"eventId": 4785
 	},
 	"BEIOcw33IH8": {
@@ -1319,12 +1664,16 @@
 		"video_title": "re:publica 2013 - Thorsten Feldmann, Henning  Krieg: Saisonrückblick Social Media Recht",
 		"thumbnail": "http://i.ytimg.com/vi/BEIOcw33IH8/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=BEIOcw33IH8",
-		"viewCount": 993,
+		"viewCount": 994,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 16,
 		"index": 120,
 		"session_title": "Saisonrückblick Social Media Recht",
+		"session_persons": [
+			"Thorsten Feldmann",
+			"Henning Krieg"
+		],
 		"eventId": 1397
 	},
 	"i-LkQdVpiSI": {
@@ -1333,12 +1682,16 @@
 		"video_title": "re:publica 2013 - Christine Heller, Jochen Mai: Personal Branding Kampagne: Wie der neue Job dich fi",
 		"thumbnail": "http://i.ytimg.com/vi/i-LkQdVpiSI/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=i-LkQdVpiSI",
-		"viewCount": 1130,
+		"viewCount": 1134,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 18,
 		"index": 118,
 		"session_title": "Personal Branding Kampagne: Wie der neue Job dich findet",
+		"session_persons": [
+			"Christine Heller",
+			"Jochen Mai"
+		],
 		"eventId": 1868
 	},
 	"tA-E_38oWLI": {
@@ -1347,12 +1700,15 @@
 		"video_title": "re:publica 2013 - Marco Maas: LobbyPlag",
 		"thumbnail": "http://i.ytimg.com/vi/tA-E_38oWLI/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=tA-E_38oWLI",
-		"viewCount": 298,
+		"viewCount": 300,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 2,
 		"index": 131,
 		"session_title": "LobbyPlag",
+		"session_persons": [
+			"Marco Maas"
+		],
 		"eventId": 6428
 	},
 	"-9d0KM1I0aw": {
@@ -1361,12 +1717,18 @@
 		"video_title": "re:publica 2013: How radical are Open Access and the Digital Humanities?",
 		"thumbnail": "http://i.ytimg.com/vi/-9d0KM1I0aw/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=-9d0KM1I0aw",
-		"viewCount": 405,
+		"viewCount": 406,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 5,
 		"index": 115,
 		"session_title": "How radical are Open Access and the Digital Humanities?",
+		"session_persons": [
+			"Mercedes Bunz",
+			"Nishant Shah",
+			"David Berry",
+			"Cornelius Puschmann"
+		],
 		"eventId": 5337
 	},
 	"azD5EUy8HkI": {
@@ -1381,6 +1743,9 @@
 		"numLikes": 0,
 		"index": 112,
 		"session_title": "Werde Shareholder der Revolution",
+		"session_persons": [
+			"Friedrich von Borries"
+		],
 		"eventId": 4694
 	},
 	"8D8g8Xol6bg": {
@@ -1395,6 +1760,11 @@
 		"numLikes": 2,
 		"index": 110,
 		"session_title": "Das digitale Quartett - live on stage",
+		"session_persons": [
+			"Ulrike Langer",
+			"Thomas Knüwer",
+			"Daniel Fiene"
+		],
 		"eventId": 1137
 	},
 	"EcsaUnQgvhM": {
@@ -1403,12 +1773,15 @@
 		"video_title": "re:publica 2013 - Yoani Sánchez: The Bobs' Six Winners",
 		"thumbnail": "http://i.ytimg.com/vi/EcsaUnQgvhM/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=EcsaUnQgvhM",
-		"viewCount": 322,
+		"viewCount": 326,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 2,
 		"index": 156,
 		"session_title": "The Bobs’ Six Winners",
+		"session_persons": [
+			"Yoani Sánchez"
+		],
 		"eventId": 6382
 	},
 	"IIIz7HZWAHY": {
@@ -1423,6 +1796,9 @@
 		"numDislikes": 0,
 		"index": 145,
 		"session_title": "Interactive Cologne",
+		"session_persons": [
+			"Joachim Vranken"
+		],
 		"eventId": 6171
 	},
 	"Fr_9_6AyCP4": {
@@ -1431,12 +1807,15 @@
 		"video_title": "re:publica 2013 - Peter Kirn: How music can predict the human/machine future",
 		"thumbnail": "http://i.ytimg.com/vi/Fr_9_6AyCP4/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=Fr_9_6AyCP4",
-		"viewCount": 1498,
+		"viewCount": 1502,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 17,
 		"index": 134,
 		"session_title": "How music can predict the human/machine future",
+		"session_persons": [
+			"Peter Kirn"
+		],
 		"eventId": 2732
 	},
 	"wJYtHBD0XbI": {
@@ -1445,12 +1824,15 @@
 		"video_title": "re:publica 2013 - Francesco Lapenta: Mediated Life after Virtualization. A Critical Look at the Scen",
 		"thumbnail": "http://i.ytimg.com/vi/wJYtHBD0XbI/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=wJYtHBD0XbI",
-		"viewCount": 97,
+		"viewCount": 99,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 2,
 		"index": 113,
 		"session_title": "Mediated Life after Virtualization. A Critical Look at the Scenarios Forecast by New Wearable Augmented Reality Visualization Technologies.",
+		"session_persons": [
+			"Francesco Lapenta"
+		],
 		"eventId": 2442
 	},
 	"ceARb5FRy8A": {
@@ -1459,12 +1841,18 @@
 		"video_title": "re:publica 2013: Faszination Grundlagenforschung --  Das Higgs, Big Data und die Teilchenphysik",
 		"thumbnail": "http://i.ytimg.com/vi/ceARb5FRy8A/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=ceARb5FRy8A",
-		"viewCount": 1074,
+		"viewCount": 1079,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 8,
 		"index": 116,
 		"session_title": "Faszination Grundlagenforschung – Das Higgs, Big Data und die Teilchenphysik",
+		"session_persons": [
+			"Kerstin Tackmann",
+			"Christoph Wissing",
+			"Kerstin Borras",
+			"Henning Krause"
+		],
 		"eventId": 1626
 	},
 	"fhNKKU5k9TE": {
@@ -1479,6 +1867,9 @@
 		"numDislikes": 0,
 		"index": 132,
 		"session_title": "Marvin und der Blues",
+		"session_persons": [
+			"Moritz Simon Geist"
+		],
 		"eventId": 1278
 	},
 	"dQusZ1FsJUk": {
@@ -1487,12 +1878,15 @@
 		"video_title": "re:publica 2013 - Daniel Decker: Mixing Pop & Politics",
 		"thumbnail": "http://i.ytimg.com/vi/dQusZ1FsJUk/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=dQusZ1FsJUk",
-		"viewCount": 1164,
+		"viewCount": 1168,
 		"favoriteCount": 0,
 		"numDislikes": 3,
 		"numLikes": 9,
 		"index": 146,
 		"session_title": "Mixing Pop & Politics",
+		"session_persons": [
+			"Daniel Decker"
+		],
 		"eventId": 183
 	},
 	"NPJRK8UUFBg": {
@@ -1501,12 +1895,17 @@
 		"video_title": "re:publica 2013: THE NEW//AFRICA",
 		"thumbnail": "http://i.ytimg.com/vi/NPJRK8UUFBg/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=NPJRK8UUFBg",
-		"viewCount": 256,
+		"viewCount": 260,
 		"favoriteCount": 0,
 		"numDislikes": 0,
-		"numLikes": 1,
+		"numLikes": 2,
 		"index": 143,
 		"session_title": "THE NEW//AFRICA",
+		"session_persons": [
+			"Beate Wedekind",
+			"Preethi Mariappan",
+			"Julian Tadesse"
+		],
 		"eventId": 6431
 	},
 	"wG_EbEUboxo": {
@@ -1521,6 +1920,9 @@
 		"numLikes": 15,
 		"index": 157,
 		"session_title": "Cat Memes",
+		"session_persons": [
+			"Kate Miltner"
+		],
 		"eventId": 5049
 	},
 	"xPL0vKClCxM": {
@@ -1529,12 +1931,15 @@
 		"video_title": "re:publica 2013 - Johannes Kleske: Das Ende der Arbeit -- Wenn Maschinen uns ersetzen",
 		"thumbnail": "http://i.ytimg.com/vi/xPL0vKClCxM/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=xPL0vKClCxM",
-		"viewCount": 2545,
+		"viewCount": 2552,
 		"favoriteCount": 0,
 		"numDislikes": 3,
-		"numLikes": 41,
+		"numLikes": 42,
 		"index": 139,
 		"session_title": "Das Ende der Arbeit – Wenn Maschinen uns ersetzen",
+		"session_persons": [
+			"Johannes Kleske"
+		],
 		"eventId": 1532
 	},
 	"rAcxxj7ADsk": {
@@ -1543,12 +1948,17 @@
 		"video_title": "re:publica 2013: Debunking conspiracy theories",
 		"thumbnail": "http://i.ytimg.com/vi/rAcxxj7ADsk/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=rAcxxj7ADsk",
-		"viewCount": 1086,
+		"viewCount": 1090,
 		"favoriteCount": 0,
 		"numDislikes": 34,
 		"numLikes": 13,
 		"index": 144,
 		"session_title": "Debunking conspiracy theories",
+		"session_persons": [
+			"Anna Groß",
+			"Johannes Baldauf",
+			"Alice Lanzke"
+		],
 		"eventId": 1674
 	},
 	"DQBtc_szJh0": {
@@ -1563,6 +1973,10 @@
 		"numLikes": 3,
 		"index": 140,
 		"session_title": "Investigation 2.0",
+		"session_persons": [
+			"Stephanie Hankey",
+			"Marek Tuszynski"
+		],
 		"eventId": 2923
 	},
 	"YMVkmLNCbIk": {
@@ -1577,6 +1991,10 @@
 		"numDislikes": 0,
 		"index": 141,
 		"session_title": "News you can't print - journalism beyond the article",
+		"session_persons": [
+			"Annabel Church",
+			"Friedrich Lindenberg"
+		],
 		"eventId": 1981
 	},
 	"lHckB_RQG7o": {
@@ -1585,12 +2003,15 @@
 		"video_title": "re:publica 2013 - Raegan MacDonald: Surveillance by Design",
 		"thumbnail": "http://i.ytimg.com/vi/lHckB_RQG7o/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=lHckB_RQG7o",
-		"viewCount": 230,
+		"viewCount": 231,
 		"favoriteCount": 0,
 		"numLikes": 0,
 		"numDislikes": 0,
 		"index": 51,
 		"session_title": "Surveillance by Design",
+		"session_persons": [
+			"Raegan MacDonald"
+		],
 		"eventId": 2546
 	},
 	"Uq-bwzIQ4Wg": {
@@ -1605,6 +2026,12 @@
 		"numLikes": 2,
 		"index": 108,
 		"session_title": "Netzpolitischer Nachmittag: IN/SIDE/OUT #digiges",
+		"session_persons": [
+			"Linnea Riensberg",
+			"Lavinia Steiner",
+			"Ulf Buermeyer",
+			"Leonhard Dobusch"
+		],
 		"eventId": 6059
 	},
 	"z3uu3sxRyHA": {
@@ -1613,12 +2040,15 @@
 		"video_title": "re:publica 2013 - Elisabeth Rank: Bis dass der Tod uns scheidet - Soziale Medien und der Umgang mit",
 		"thumbnail": "http://i.ytimg.com/vi/z3uu3sxRyHA/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=z3uu3sxRyHA",
-		"viewCount": 1135,
+		"viewCount": 1144,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 7,
 		"index": 49,
 		"session_title": "Bis dass der Tod uns scheidet - Soziale Medien und der Umgang mit dem Sterben",
+		"session_persons": [
+			"Elisabeth Rank"
+		],
 		"eventId": 1208
 	},
 	"LDvzgyhzWkY": {
@@ -1627,12 +2057,17 @@
 		"video_title": "re:publica 2013: TEN CITIES Project: Clubculture IN/SIDE/OUT",
 		"thumbnail": "http://i.ytimg.com/vi/LDvzgyhzWkY/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=LDvzgyhzWkY",
-		"viewCount": 214,
+		"viewCount": 215,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 2,
 		"index": 43,
 		"session_title": "TEN CITIES Project: Clubculture IN/SIDE/OUT",
+		"session_persons": [
+			"Florian Sievers",
+			"Pedro Coquenão",
+			"Joyce Nyairo"
+		],
 		"eventId": 6402
 	},
 	"dUzqvMQ_9aY": {
@@ -1641,12 +2076,15 @@
 		"video_title": "re:publica 2013 - lidi brouwer: Interactive Landscapes",
 		"thumbnail": "http://i.ytimg.com/vi/dUzqvMQ_9aY/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=dUzqvMQ_9aY",
-		"viewCount": 150,
+		"viewCount": 151,
 		"favoriteCount": 0,
 		"numLikes": 0,
 		"numDislikes": 0,
 		"index": 107,
 		"session_title": "Interactive Landscapes",
+		"session_persons": [
+			"lidi brouwer"
+		],
 		"eventId": 6403
 	},
 	"G3qhsyvA9go": {
@@ -1655,12 +2093,17 @@
 		"video_title": "re:publica 2013: Algorithmen-Ethik",
 		"thumbnail": "http://i.ytimg.com/vi/G3qhsyvA9go/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=G3qhsyvA9go",
-		"viewCount": 716,
+		"viewCount": 717,
 		"favoriteCount": 0,
 		"numDislikes": 1,
 		"numLikes": 5,
 		"index": 47,
 		"session_title": "Algorithmen-Ethik",
+		"session_persons": [
+			"Joerg Blumtritt",
+			"Martina Pickhardt",
+			"Stephan Noller"
+		],
 		"eventId": 1781
 	},
 	"YMGjfr3sAuo": {
@@ -1669,12 +2112,15 @@
 		"video_title": "re:publica 2013 - Stine Eckert: Muslimische BloggerInnen schaffen Gegenöffentlichkeit",
 		"thumbnail": "http://i.ytimg.com/vi/YMGjfr3sAuo/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=YMGjfr3sAuo",
-		"viewCount": 385,
+		"viewCount": 387,
 		"favoriteCount": 0,
 		"numDislikes": 2,
 		"numLikes": 5,
 		"index": 41,
 		"session_title": "Muslimische BloggerInnen schaffen Gegenöffentlichkeit",
+		"session_persons": [
+			"Stine Eckert"
+		],
 		"eventId": 1726
 	},
 	"oMDWMPtu7E8": {
@@ -1689,6 +2135,9 @@
 		"numLikes": 12,
 		"index": 40,
 		"session_title": "Boom vs. Culture Clash | Understanding online in South East Asia",
+		"session_persons": [
+			"Sascha Funk"
+		],
 		"eventId": 1916
 	},
 	"6hUg48vf0QI": {
@@ -1697,12 +2146,16 @@
 		"video_title": "re:publica 2013 - Neil Harbisson, Moon Ribas: Life with extra Senses - How to become a Cyborg.",
 		"thumbnail": "http://i.ytimg.com/vi/6hUg48vf0QI/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=6hUg48vf0QI",
-		"viewCount": 1695,
+		"viewCount": 1698,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 21,
 		"index": 154,
 		"session_title": "Life with extra Senses - How to become a Cyborg.",
+		"session_persons": [
+			"Neil Harbisson",
+			"Moon Ribas"
+		],
 		"eventId": 5705
 	},
 	"PDYEl62g1b8": {
@@ -1711,12 +2164,16 @@
 		"video_title": "re:publica 2013 - Tanja Haeusler, Johnny Haeusler: Netzgemüse: The Kids Are Alright",
 		"thumbnail": "http://i.ytimg.com/vi/PDYEl62g1b8/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=PDYEl62g1b8",
-		"viewCount": 15086,
+		"viewCount": 15154,
 		"favoriteCount": 0,
-		"numDislikes": 11,
-		"numLikes": 313,
+		"numDislikes": 12,
+		"numLikes": 317,
 		"index": 105,
 		"session_title": "Netzgemüse: The Kids Are Alright",
+		"session_persons": [
+			"Tanja Haeusler",
+			"Johnny Haeusler"
+		],
 		"eventId": 3983
 	},
 	"52CqKIR0rVM": {
@@ -1731,6 +2188,9 @@
 		"numLikes": 3,
 		"index": 103,
 		"session_title": "Digital Labor: New Opportunities, Old Inequalities",
+		"session_persons": [
+			"R. Trebor Scholz"
+		],
 		"eventId": 5052
 	},
 	"lJrL-rrGg1g": {
@@ -1739,12 +2199,15 @@
 		"video_title": "re:publica 2013 - Heba Amin: The Revolution of Jokes",
 		"thumbnail": "http://i.ytimg.com/vi/lJrL-rrGg1g/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=lJrL-rrGg1g",
-		"viewCount": 287,
+		"viewCount": 288,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 2,
 		"index": 37,
 		"session_title": "The Revolution of Jokes",
+		"session_persons": [
+			"Heba Amin"
+		],
 		"eventId": 1206
 	},
 	"Nnezb00EsaQ": {
@@ -1753,12 +2216,16 @@
 		"video_title": "re:publica 2013 - Stefan Panhuijsen, Jillian York: Silly jokes or game changers? A live internationa",
 		"thumbnail": "http://i.ytimg.com/vi/Nnezb00EsaQ/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=Nnezb00EsaQ",
-		"viewCount": 706,
+		"viewCount": 708,
 		"favoriteCount": 0,
 		"numDislikes": 2,
 		"numLikes": 1,
 		"index": 36,
 		"session_title": "Silly jokes or game changers? A live international comparison of political memes.",
+		"session_persons": [
+			"Stefan Panhuijsen",
+			"Jillian York"
+		],
 		"eventId": 1697
 	},
 	"CIBN-e-aja8": {
@@ -1767,12 +2234,15 @@
 		"video_title": "re:publica 2013 - Tim Pritlove: Radio Universal",
 		"thumbnail": "http://i.ytimg.com/vi/CIBN-e-aja8/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=CIBN-e-aja8",
-		"viewCount": 5537,
+		"viewCount": 5550,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 76,
 		"index": 101,
 		"session_title": "Radio Universal",
+		"session_persons": [
+			"Tim Pritlove"
+		],
 		"eventId": 2161
 	},
 	"-_oXpxrjLrc": {
@@ -1787,6 +2257,9 @@
 		"numLikes": 2,
 		"index": 152,
 		"session_title": "You Can Turn Off the Public Internet But You Can't Turn Off the Internet Public",
+		"session_persons": [
+			"Andrew Rasiej"
+		],
 		"eventId": 5704
 	},
 	"DQmfFWQBIHw": {
@@ -1795,12 +2268,15 @@
 		"video_title": "re:publica 2013 - Carolina Ödman-Govender: Crowdsourced Astronomy",
 		"thumbnail": "http://i.ytimg.com/vi/DQmfFWQBIHw/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=DQmfFWQBIHw",
-		"viewCount": 739,
+		"viewCount": 741,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 3,
 		"index": 151,
 		"session_title": "Crowdsourced Astronomy",
+		"session_persons": [
+			"Carolina Ödman-Govender"
+		],
 		"eventId": 5051
 	},
 	"yNLR2ykS0Tc": {
@@ -1809,12 +2285,15 @@
 		"video_title": "re:publica 2013 - Jutta Allmendinger: Zeit - Geld - Familie",
 		"thumbnail": "http://i.ytimg.com/vi/yNLR2ykS0Tc/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=yNLR2ykS0Tc",
-		"viewCount": 745,
+		"viewCount": 758,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 6,
 		"index": 150,
 		"session_title": "Zeit - Geld - Familie",
+		"session_persons": [
+			"Jutta Allmendinger"
+		],
 		"eventId": 5118
 	},
 	"Rb7c9sxMk2Q": {
@@ -1823,12 +2302,15 @@
 		"video_title": "re:publica 2013 - Markus Beckedahl: Unser Blog soll schöner werden",
 		"thumbnail": "http://i.ytimg.com/vi/Rb7c9sxMk2Q/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=Rb7c9sxMk2Q",
-		"viewCount": 1913,
+		"viewCount": 1919,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 17,
 		"index": 102,
 		"session_title": "Unser Blog soll schöner werden",
+		"session_persons": [
+			"Markus Beckedahl"
+		],
 		"eventId": 6427
 	},
 	"MpiatFsLE9w": {
@@ -1837,12 +2319,15 @@
 		"video_title": "re:publica 2013 - Teresa Bücker: Der Montag liebt dich",
 		"thumbnail": "http://i.ytimg.com/vi/MpiatFsLE9w/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=MpiatFsLE9w",
-		"viewCount": 3137,
+		"viewCount": 3156,
 		"favoriteCount": 0,
 		"numDislikes": 7,
 		"numLikes": 33,
 		"index": 149,
 		"session_title": "Der Montag liebt dich",
+		"session_persons": [
+			"Teresa Bücker"
+		],
 		"eventId": 1825
 	},
 	"5iSAl_krauA": {
@@ -1851,12 +2336,17 @@
 		"video_title": "re:publica 2013: Wikipedia: wo User geblockt, Artikel gelöscht und Reputationen zerstört werden",
 		"thumbnail": "http://i.ytimg.com/vi/5iSAl_krauA/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=5iSAl_krauA",
-		"viewCount": 1581,
+		"viewCount": 1585,
 		"favoriteCount": 0,
 		"numDislikes": 6,
 		"numLikes": 6,
 		"index": 26,
 		"session_title": "Wikipedia: wo User geblockt, Artikel gelöscht und Reputationen zerstört werden",
+		"session_persons": [
+			"Anja Ebersbach",
+			"Pavel Richter",
+			"Dirk Franke"
+		],
 		"eventId": 1823
 	},
 	"oOcOTE2IP34": {
@@ -1865,27 +2355,18 @@
 		"video_title": "re:publica 2013: Das Buch muss überwunden werden - Digitales Utopia oder eher El Dorado?",
 		"thumbnail": "http://i.ytimg.com/vi/oOcOTE2IP34/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=oOcOTE2IP34",
-		"viewCount": 591,
+		"viewCount": 594,
 		"favoriteCount": 0,
 		"numDislikes": 1,
 		"numLikes": 7,
 		"index": 25,
 		"session_title": "Das Buch muss überwunden werden - Digitales Utopia oder eher El Dorado?",
+		"session_persons": [
+			"Tina Lorenz",
+			"Mathias Schindler",
+			"Ralf Stockmann"
+		],
 		"eventId": 1577
-	},
-	"kO4P5yj72IA": {
-		"video_id": "kO4P5yj72IA",
-		"video_duration": 1041,
-		"video_title": "re:publica 2013 - Wolf Lotter: brand eins",
-		"thumbnail": "http://i.ytimg.com/vi/kO4P5yj72IA/mqdefault.jpg",
-		"video_url": "http://youtube.com/watch?v=kO4P5yj72IA",
-		"viewCount": 673,
-		"favoriteCount": 0,
-		"numDislikes": 1,
-		"numLikes": 2,
-		"index": 2,
-		"session_title": "brand eins",
-		"eventId": 5369
 	},
 	"0Gi-MT8M0lE": {
 		"video_id": "0Gi-MT8M0lE",
@@ -1893,12 +2374,16 @@
 		"video_title": "re:publica 2013 - Katarzyna  Szymielewicz, Jérémie Zimmermann: Personal Data: Nothing to hide?",
 		"thumbnail": "http://i.ytimg.com/vi/0Gi-MT8M0lE/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=0Gi-MT8M0lE",
-		"viewCount": 253,
+		"viewCount": 259,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 1,
 		"index": 23,
 		"session_title": "Personal Data: Nothing to hide?",
+		"session_persons": [
+			"Katarzyna Szymielewicz",
+			"Jérémie Zimmermann"
+		],
 		"eventId": 4711
 	},
 	"1gSTwaYVERo": {
@@ -1907,12 +2392,16 @@
 		"video_title": "re:publica 2013 - Richard Allan, Ulf Buermeyer: Speech at scale",
 		"thumbnail": "http://i.ytimg.com/vi/1gSTwaYVERo/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=1gSTwaYVERo",
-		"viewCount": 137,
+		"viewCount": 142,
 		"favoriteCount": 0,
 		"numLikes": 0,
 		"numDislikes": 0,
 		"index": 11,
 		"session_title": "Speech at scale",
+		"session_persons": [
+			"Richard Allan",
+			"Ulf Buermeyer"
+		],
 		"eventId": 5869
 	},
 	"CsdGJc74YiY": {
@@ -1921,12 +2410,17 @@
 		"video_title": "re:publica 2013: Stimmt das? Check mit dem ZDF die Fakten im Wahlkampf",
 		"thumbnail": "http://i.ytimg.com/vi/CsdGJc74YiY/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=CsdGJc74YiY",
-		"viewCount": 1089,
+		"viewCount": 1091,
 		"favoriteCount": 0,
 		"numDislikes": 1,
 		"numLikes": 16,
 		"index": 24,
 		"session_title": "Stimmt das? Check mit dem ZDF die Fakten im Wahlkampf",
+		"session_persons": [
+			"Sonja Schünemann",
+			"Michael Umlandt",
+			"Barbara Fischer"
+		],
 		"eventId": 6128
 	},
 	"beArpOK5Ov0": {
@@ -1941,6 +2435,9 @@
 		"numLikes": 6,
 		"index": 7,
 		"session_title": "Ecstasy and Despair: How Powerful Emotions Trigger Digital Activism",
+		"session_persons": [
+			"Deanna Zandt"
+		],
 		"eventId": 4946
 	},
 	"3Fxj-yU1TbQ": {
@@ -1949,12 +2446,16 @@
 		"video_title": "re:publica 2013 - Kaleb Lechowski, Ingke Weimert: Making-of R´ha",
 		"thumbnail": "http://i.ytimg.com/vi/3Fxj-yU1TbQ/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=3Fxj-yU1TbQ",
-		"viewCount": 429,
+		"viewCount": 430,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 4,
 		"index": 14,
 		"session_title": "Making-of R´ha",
+		"session_persons": [
+			"Kaleb Lechowski",
+			"Ingke Weimert"
+		],
 		"eventId": 6039
 	},
 	"qB4tQW02AGQ": {
@@ -1963,12 +2464,16 @@
 		"video_title": "re:publica 2013 - Tero Kaukomaa, Timo Vuorensola: Iron Sky",
 		"thumbnail": "http://i.ytimg.com/vi/qB4tQW02AGQ/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=qB4tQW02AGQ",
-		"viewCount": 209,
+		"viewCount": 210,
 		"favoriteCount": 0,
 		"numLikes": 0,
 		"numDislikes": 0,
 		"index": 13,
 		"session_title": "Iron Sky",
+		"session_persons": [
+			"Tero Kaukomaa",
+			"Timo Vuorensola"
+		],
 		"eventId": 5046
 	},
 	"l8yCIwi_Owg": {
@@ -1977,12 +2482,15 @@
 		"video_title": "re:publica 2013 - Mitchell Baker: Building a web we can trust",
 		"thumbnail": "http://i.ytimg.com/vi/l8yCIwi_Owg/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=l8yCIwi_Owg",
-		"viewCount": 335,
+		"viewCount": 337,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 8,
 		"index": 10,
 		"session_title": "Building a web we can trust",
+		"session_persons": [
+			"Mitchell Baker"
+		],
 		"eventId": 5037
 	},
 	"Raas1BhSIbs": {
@@ -1991,12 +2499,15 @@
 		"video_title": "re:publica 2013 - Sascha Lobo: Überraschungsvortrag II",
 		"thumbnail": "http://i.ytimg.com/vi/Raas1BhSIbs/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=Raas1BhSIbs",
-		"viewCount": 7481,
+		"viewCount": 7504,
 		"favoriteCount": 0,
 		"numDislikes": 12,
-		"numLikes": 82,
+		"numLikes": 83,
 		"index": 16,
 		"session_title": "Überraschungsvortrag II",
+		"session_persons": [
+			"Sascha Lobo"
+		],
 		"eventId": 1152
 	},
 	"ELw3PQOSgd0": {
@@ -2005,12 +2516,15 @@
 		"video_title": "re:publica 2013 - Laurie Penny: Cybersexism",
 		"thumbnail": "http://i.ytimg.com/vi/ELw3PQOSgd0/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=ELw3PQOSgd0",
-		"viewCount": 1783,
+		"viewCount": 1785,
 		"favoriteCount": 0,
 		"numDislikes": 2,
 		"numLikes": 46,
 		"index": 8,
 		"session_title": "Cybersexism",
+		"session_persons": [
+			"Laurie Penny"
+		],
 		"eventId": 5597
 	},
 	"rf9C4Prjkmc": {
@@ -2019,12 +2533,17 @@
 		"video_title": "re:publica 2013: Data Cuisine - How to get juicy data from spreadsheets",
 		"thumbnail": "http://i.ytimg.com/vi/rf9C4Prjkmc/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=rf9C4Prjkmc",
-		"viewCount": 218,
+		"viewCount": 220,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 2,
 		"index": 81,
 		"session_title": "Data Kitchen - How to get juicy data from spreadsheets",
+		"session_persons": [
+			"Anna Lena Schiller",
+			"Sylke Gruhnwald",
+			"Lisa Rienermann"
+		],
 		"eventId": 1810
 	},
 	"REP4eqvwkR0": {
@@ -2039,21 +2558,10 @@
 		"numLikes": 1,
 		"index": 22,
 		"session_title": "Freedom of speech, nipples and the rule of law",
+		"session_persons": [
+			"Joe McNamee"
+		],
 		"eventId": 2304
-	},
-	"j4Pa3RCBC2s": {
-		"video_id": "j4Pa3RCBC2s",
-		"video_duration": 957,
-		"video_title": "re:publica 2013 - Christoph Meinel: brand eins",
-		"thumbnail": "http://i.ytimg.com/vi/j4Pa3RCBC2s/mqdefault.jpg",
-		"video_url": "http://youtube.com/watch?v=j4Pa3RCBC2s",
-		"viewCount": 236,
-		"favoriteCount": 0,
-		"numDislikes": 0,
-		"numLikes": 1,
-		"index": 2,
-		"session_title": "brand eins",
-		"eventId": 5369
 	},
 	"WTmpwt4sV4c": {
 		"video_id": "WTmpwt4sV4c",
@@ -2061,12 +2569,15 @@
 		"video_title": "re:publica 2013 - Zahi Alawi: Facebook: vom Revolutionsmacher zum Revolutionsgegner?",
 		"thumbnail": "http://i.ytimg.com/vi/WTmpwt4sV4c/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=WTmpwt4sV4c",
-		"viewCount": 156,
+		"viewCount": 157,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 1,
 		"index": 42,
 		"session_title": "Facebook: vom Revolutionsmacher zum Revolutionsgegner?",
+		"session_persons": [
+			"Zahi Alawi"
+		],
 		"eventId": 170
 	},
 	"Jl4IbEbzte8": {
@@ -2075,12 +2586,16 @@
 		"video_title": "re:publica 2013 - Mercedes Bunz, Diedrich Diederichsen: Immer dieses Internet!",
 		"thumbnail": "http://i.ytimg.com/vi/Jl4IbEbzte8/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=Jl4IbEbzte8",
-		"viewCount": 2564,
+		"viewCount": 2567,
 		"favoriteCount": 0,
 		"numDislikes": 1,
 		"numLikes": 15,
 		"index": 80,
 		"session_title": "Immer dieses Internet!",
+		"session_persons": [
+			"Mercedes Bunz",
+			"Diedrich Diederichsen"
+		],
 		"eventId": 5039
 	},
 	"uPU1y9V3jL4": {
@@ -2089,12 +2604,15 @@
 		"video_title": "re:publica 2013 - Gunter Dueck: Aufruf zum metakulturellen Diskurs",
 		"thumbnail": "http://i.ytimg.com/vi/uPU1y9V3jL4/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=uPU1y9V3jL4",
-		"viewCount": 8718,
+		"viewCount": 8741,
 		"favoriteCount": 0,
 		"numDislikes": 2,
 		"numLikes": 155,
 		"index": 3,
 		"session_title": "Aufruf zum metakulturellen Diskurs",
+		"session_persons": [
+			"Gunter Dueck"
+		],
 		"eventId": 5035
 	},
 	"25AbnDLrDO4": {
@@ -2103,12 +2621,15 @@
 		"video_title": "re:publica 2013 - Wolf Lotter: Zivilkapitalismus. Wir sind die Wirtschaft.",
 		"thumbnail": "http://i.ytimg.com/vi/25AbnDLrDO4/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=25AbnDLrDO4",
-		"viewCount": 424,
+		"viewCount": 426,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 1,
 		"index": 79,
 		"session_title": "Zivilkapitalismus. Wir sind die Wirtschaft.",
+		"session_persons": [
+			"Wolf Lotter"
+		],
 		"eventId": 4273
 	},
 	"mSXy-H13DJM": {
@@ -2117,12 +2638,16 @@
 		"video_title": "re:publica 2013 - fukami, Lorenz Matzat: Die maschinenlesbare Regierung - Eine kritische Analyse zu",
 		"thumbnail": "http://i.ytimg.com/vi/mSXy-H13DJM/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=mSXy-H13DJM",
-		"viewCount": 188,
+		"viewCount": 192,
 		"favoriteCount": 0,
 		"numDislikes": 1,
 		"numLikes": 1,
 		"index": 17,
 		"session_title": "Die maschinenlesbare Regierung - Eine kritische Analyse zur Gegenwart von Open Data und Open Goverment in Deutschland",
+		"session_persons": [
+			"fukami ",
+			"Lorenz Matzat"
+		],
 		"eventId": 879
 	},
 	"18xQRtdrJhQ": {
@@ -2131,12 +2656,18 @@
 		"video_title": "re:publica 2013: Opening Public Transport in Berlin",
 		"thumbnail": "http://i.ytimg.com/vi/18xQRtdrJhQ/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=18xQRtdrJhQ",
-		"viewCount": 391,
+		"viewCount": 392,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 2,
 		"index": 20,
 		"session_title": "Opening Public Transport in Berlin",
+		"session_persons": [
+			"Wolfgang Both",
+			"Julia Kloiber",
+			"Alexander Pilz",
+			"Yan Minagawa"
+		],
 		"eventId": 5594
 	},
 	"J7KSmReUUlE": {
@@ -2145,12 +2676,16 @@
 		"video_title": "re:publica 2013 - Bertram Gugel, Markus Hündgen: YouTube -- zwischen Wildwest und Goldgrube.",
 		"thumbnail": "http://i.ytimg.com/vi/J7KSmReUUlE/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=J7KSmReUUlE",
-		"viewCount": 1593,
+		"viewCount": 1599,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 37,
 		"index": 77,
 		"session_title": "YouTube – zwischen Wildwest und Goldgrube.",
+		"session_persons": [
+			"Bertram Gugel",
+			"Markus Hündgen"
+		],
 		"eventId": 1393
 	},
 	"IXL95HSe0Yw": {
@@ -2165,6 +2700,12 @@
 		"numLikes": 3,
 		"index": 35,
 		"session_title": "403 Forbidden: A Hands on Experience of the Iranian Internet",
+		"session_persons": [
+			"Bronwen Robertson",
+			"Maral Pourkazemi",
+			"Mahmood Enayat",
+			"Stina Backer"
+		],
 		"eventId": 1930
 	},
 	"nQLdaFBIDwc": {
@@ -2179,6 +2720,9 @@
 		"numLikes": 4,
 		"index": 33,
 		"session_title": "Community Organizing - lessons from Obama for America 2012",
+		"session_persons": [
+			"Betsy Hoover"
+		],
 		"eventId": 5514
 	},
 	"1AYsmc4Kstw": {
@@ -2193,6 +2737,9 @@
 		"numLikes": 14,
 		"index": 1,
 		"session_title": "Innovating Africa",
+		"session_persons": [
+			"Erik Hersman"
+		],
 		"eventId": 5044
 	},
 	"doPGYWNT-3s": {
@@ -2207,6 +2754,9 @@
 		"numLikes": 17,
 		"index": 76,
 		"session_title": "Mass Customization: Da geht noch mehr",
+		"session_persons": [
+			"Kathrin Passig"
+		],
 		"eventId": 1957
 	},
 	"YAh4Jr5dJcQ": {
@@ -2215,12 +2765,16 @@
 		"video_title": "re:publica 2013 - Horst Zuse, Katharina Meyer: Die Geschichte des Computers",
 		"thumbnail": "http://i.ytimg.com/vi/YAh4Jr5dJcQ/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=YAh4Jr5dJcQ",
-		"viewCount": 871,
+		"viewCount": 873,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 10,
 		"index": 75,
 		"session_title": "Die Geschichte des Computers",
+		"session_persons": [
+			"Horst Zuse",
+			"Katharina Meyer"
+		],
 		"eventId": 6146
 	},
 	"OJt_quKiMgw": {
@@ -2235,6 +2789,9 @@
 		"numLikes": 3,
 		"index": 34,
 		"session_title": "Political Advocacy and the Internet",
+		"session_persons": [
+			"Ben Scott"
+		],
 		"eventId": 6019
 	},
 	"QBSNr6UXIJg": {
@@ -2243,12 +2800,16 @@
 		"video_title": "re:publica 2013 - Julia Kloiber, Stefan Wehrmeyer: Open Data -- und was hat das mit mir zu tun?",
 		"thumbnail": "http://i.ytimg.com/vi/QBSNr6UXIJg/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=QBSNr6UXIJg",
-		"viewCount": 1134,
+		"viewCount": 1138,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 15,
 		"index": 18,
 		"session_title": "Open Data – und was hat das mit mir zu tun?",
+		"session_persons": [
+			"Julia Kloiber",
+			"Stefan Wehrmeyer"
+		],
 		"eventId": 1547
 	},
 	"dJ9C7UPGJ-o": {
@@ -2257,12 +2818,15 @@
 		"video_title": "re:publica 2013 - Michael Kreil: openPlanB - Stufe 2",
 		"thumbnail": "http://i.ytimg.com/vi/dJ9C7UPGJ-o/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=dJ9C7UPGJ-o",
-		"viewCount": 627,
+		"viewCount": 628,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 5,
 		"index": 19,
 		"session_title": "openPlanB - Stufe 2",
+		"session_persons": [
+			"Michael Kreil"
+		],
 		"eventId": 1538
 	},
 	"VH96W-Iav60": {
@@ -2271,12 +2835,15 @@
 		"video_title": "re:publica 2013 - Yoani Sánchez: Blogging Cuba",
 		"thumbnail": "http://i.ytimg.com/vi/VH96W-Iav60/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=VH96W-Iav60",
-		"viewCount": 1309,
+		"viewCount": 1312,
 		"favoriteCount": 0,
 		"numDislikes": 2,
-		"numLikes": 8,
+		"numLikes": 9,
 		"index": 74,
 		"session_title": "Blogging Cuba",
+		"session_persons": [
+			"Yoani Sánchez"
+		],
 		"eventId": 6425
 	},
 	"iWlC59PSYhM": {
@@ -2302,12 +2869,17 @@
 		"video_title": "re:publica 2013: Net Neutrality - Ben Scott, Hannah Seiffert, Markus Beckedahl",
 		"thumbnail": "http://i.ytimg.com/vi/MQAK38KCjfY/mqdefault.jpg",
 		"video_url": "http://youtube.com/watch?v=MQAK38KCjfY",
-		"viewCount": 542,
+		"viewCount": 549,
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 10,
 		"index": 104,
 		"session_title": "Net Neutrality",
+		"session_persons": [
+			"Ben Scott",
+			"Hannah Seiffert",
+			"Markus Beckedahl"
+		],
 		"eventId": 5053
 	},
 	"ag3my5UWuT8": {
@@ -2322,6 +2894,80 @@
 		"numLikes": 2,
 		"index": 219,
 		"session_title": "Verabschiedung",
+		"session_persons": [
+			"Johnny Haeusler",
+			"Tanja Haeusler",
+			"Markus Beckedahl",
+			"Andreas Gebhard"
+		],
 		"eventId": 6481
+	},
+	"R_8KFeM8GIU": {
+		"video_id": "R_8KFeM8GIU",
+		"video_duration": 1112,
+		"video_title": "re:publica 2013 - Jürgen Erbeldinger: brand eins",
+		"thumbnail": "http://i.ytimg.com/vi/R_8KFeM8GIU/mqdefault.jpg",
+		"video_url": "http://youtube.com/watch?v=R_8KFeM8GIU",
+		"viewCount": 3,
+		"favoriteCount": 0,
+		"numLikes": 0,
+		"numDislikes": 0,
+		"index": 9,
+		"session_title": "brand eins",
+		"session_persons": [
+			"Juergen Erbeldinger"
+		],
+		"eventId": 5371
+	},
+	"LevDWE-_WJs": {
+		"video_id": "LevDWE-_WJs",
+		"video_duration": 949,
+		"video_title": "re:publica 2013 - Anja Ebersbach: brand eins",
+		"thumbnail": "http://i.ytimg.com/vi/LevDWE-_WJs/mqdefault.jpg",
+		"video_url": "http://youtube.com/watch?v=LevDWE-_WJs",
+		"viewCount": 236,
+		"favoriteCount": 0,
+		"numLikes": 0,
+		"numDislikes": 0,
+		"index": 2,
+		"session_title": "brand eins",
+		"session_persons": [
+			"Anja Ebersbach"
+		],
+		"eventId": 5369
+	},
+	"kO4P5yj72IA": {
+		"video_id": "kO4P5yj72IA",
+		"video_duration": 1041,
+		"video_title": "re:publica 2013 - Wolf Lotter: brand eins",
+		"thumbnail": "http://i.ytimg.com/vi/kO4P5yj72IA/mqdefault.jpg",
+		"video_url": "http://youtube.com/watch?v=kO4P5yj72IA",
+		"viewCount": 676,
+		"favoriteCount": 0,
+		"numDislikes": 1,
+		"numLikes": 2,
+		"index": 6,
+		"session_title": "brand eins",
+		"session_persons": [
+			"Wolf Lotter"
+		],
+		"eventId": 5370
+	},
+	"j4Pa3RCBC2s": {
+		"video_id": "j4Pa3RCBC2s",
+		"video_duration": 957,
+		"video_title": "re:publica 2013 - Christoph Meinel: brand eins",
+		"thumbnail": "http://i.ytimg.com/vi/j4Pa3RCBC2s/mqdefault.jpg",
+		"video_url": "http://youtube.com/watch?v=j4Pa3RCBC2s",
+		"viewCount": 239,
+		"favoriteCount": 0,
+		"numDislikes": 0,
+		"numLikes": 1,
+		"index": 4,
+		"session_title": "brand eins",
+		"session_persons": [
+			"Christoph Meinel"
+		],
+		"eventId": 5048
 	}
 }

@@ -27,6 +27,7 @@ fetchYouTubeVideo('-s5WvYQEr0Y');
 fetchYouTubeVideo('6Pu5agqAy_Q');
 
 fetchVimeoVideo('65905002');
+fetchVimeoVideo('66688236');
 
 
 function fetchYouTubeUser(user, query) {
