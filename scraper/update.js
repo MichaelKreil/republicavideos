@@ -194,11 +194,6 @@ function titleLookup(title) {
 		var eventTitle = cleanUp(event.title);
 		var d = levenshtein(eventTitle, title, options);
 
-		console.log(eventTitle);
-		console.log(title);
-		console.log(d);
-		console.log('');
-
 		if (d < bestDistance) {
 			bestDistance = d;
 			bestIndex = index;
