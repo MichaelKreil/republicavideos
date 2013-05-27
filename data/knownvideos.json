@@ -2962,11 +2962,12 @@
 		"favoriteCount": 0,
 		"numDislikes": 0,
 		"numLikes": 6,
-		"index": 122,
-		"session_title": "A1",
+		"index": 15,
+		"session_title": "Comic Misunderstanding – A conversation with Graham Linehan (IT Crowd)",
 		"session_persons": [
-			null
+			"Graham Linehan",
+			"Johnny Haeusler"
 		],
-		"eventId": 6207
+		"eventId": 5117
 	}
 }
